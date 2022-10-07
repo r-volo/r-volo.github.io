@@ -1,8 +1,8 @@
 {"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "title": {
-      "text": "Total IMF Lending Levels during 1984-2022  ",
-      "subtitle":"The outstanding credit levels are in nominal terms  ($bn) - source: IMF",
+      "text": "IMF's Total Lending Levels As A Percentage Of The World's GDP (1984-2022)  ",
+      "subtitle":"The outstanding credit levels are in real terms  ($bn) - source: IMF & World Bank",
       "subtitleFontStyle":"italic",
       "subtitleFontSize":10,
       "anchor": "start",
@@ -28,7 +28,7 @@
          "labelAngle": 90}},
 
       "y": {
-        "field": "Total Credit Outstanding / World GDP",
+        "field": "%",
         "type": "quantitative",
         "title": "",
         "axis": {"grid": false}}

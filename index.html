@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Title for the page -->
-    <title>Document</title>
+    <title>Robert's Data Science Website</title>
 
     <!-- Link to my style sheet -->
     <link rel="stylesheet" href="index.css">
@@ -26,15 +26,26 @@
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
     <div class="myWeek1">
         <h1>Data Science for Economists.</h1>
-        
+        <a href="Project.html">weekly portfolio</a>
+
+        <h2>WEEK 1</h2>
         <h3>Inflation Rate Chart</h3>
         <p>The first chart tracks the yearly % change of the UK's inflation rate between 1990-2020.</p>
         <div class="chart" id="Rob1"></div>
 
         <h3>Bank Rate Chart</h3>
         <p>My second chart looks at the change of the Bank of England's main policy rate between 1975-2020. </p>
-        <div class="chart" id="Rob2"> </div>
-    </div> 
+        <div class="chart" id="Rob2"></div>
+
+        <h4>Week 2</h4>
+        <h5>IMF Chart</h5><p>The 3rd chart is from the following FT</p>
+        <a href="https://www.ft.com/content/eddedee3-669d-42cc-9597-33609a8bff99">FT article.</a>
+        <p>It claims that IMF lending is currently at an all time high</p>
+        <div class="chart" id="Rob3"></div>
+        <p>Howerver, 1984 is the most risky year as the IMF's lending was at it's highest point when proportioned to the world's GDP at that respective time. </p>
+</div> 
+
+
 </body>
 
 
@@ -42,10 +53,12 @@
     //Define charts:
     var myChart1 = "InflationChart.json";
     var myChart2 = "BankRateChart.json";
+    var myChart3 = "IMFChart.json"
 
     // Embed charts:
     vegaEmbed('#Rob1', myChart1);
     vegaEmbed('#Rob2', myChart2);
+    vegaEmbed('#Rob3', myChart3);
 </script>
 
 </html>

@@ -38,11 +38,14 @@
         <div class="chart" id="Rob2"></div>
 
         <h4>Week 2</h4>
-        <h5>IMF Chart</h5>
+        <h3>IMF Chart - uncorrected</h3>
         <p>The 3rd chart is from the following FT</p>
         <a href="https://www.ft.com/content/eddedee3-669d-42cc-9597-33609a8bff99">FT article.</a>
         <p>It claims that IMF lending is currently at an all time high</p>
         <div class="chart" id="Rob3"></div>
+        
+        <h3>IMF Chart - corrected</h3>
+        <div class="chart" id="Rob4"></div>
         <p>Howerver, 1984 is the most risky year as the IMF's lending was at it's highest point when proportioned to the world's GDP at that respective time. </p>
 </div> 
 
@@ -54,12 +57,14 @@
     //Define charts:
     var myChart1 = "InflationChart.json";
     var myChart2 = "BankRateChart.json";
-    var myChart3 = "IMFChart.json"
+    var myChart3 = "Uncorrected_IMFChart.json"
+    var myChart4 = "Corrected_IMFChart.json"
 
     // Embed charts:
     vegaEmbed('#Rob1', myChart1);
     vegaEmbed('#Rob2', myChart2);
     vegaEmbed('#Rob3', myChart3);
+    vegaEmbed('#Rob4', myChart4);
 </script>
 
 </html>

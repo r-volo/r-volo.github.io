@@ -14,15 +14,26 @@ body{
 }
 
 
-/* Choose the appearance of the tags, h1, h3 and p: */
+/* appearance of all tags, headers and paragraphs: */
 h1, h2, h3, h4, h5, p{
     color:rgb(17, 17, 17);
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
 
+/* Title */
 h1{
     font-size: 50px;
+}
+
+/* 'Week' headers */
+h2, h4{
+    font-size: 30px;
+}
+
+/* sub-headers */
+h2, h4{
+    font-size: 30px;
 }
     
 .myWeek1{

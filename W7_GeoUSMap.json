@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width": 700,
+  "height": 500,
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/maps/geoUSStates.json",
+    "format": {
+      "property": "features"}},
+
+      "projection": {
+        "type":"albersUsa"
+      },
+
+      "mark": {
+        "type": "geoshape",
+        "fill": "bisque",
+        "stroke": "darkblue",
+        "strokeWidth": 2
+      },
+
+      "encoding": {
+        "tooltip": {
+          "field": "properties.NAME", "type": "nominal"}
+      }
+    
+
+}

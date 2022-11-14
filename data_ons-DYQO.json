@@ -1,0 +1,1510 @@
+{
+    "description": {
+        "cdid": "DYQO",
+        "contact": {
+            "email": "ios.enquiries@ons.gov.uk ",
+            "name": "David Beckett",
+            "telephone": "+44 1633 456980"
+        },
+        "datasetId": "IOS1",
+        "datasetUri": "/economy/economicoutputandproductivity/output/datasets/indexofservices",
+        "date": "2022 AUG",
+        "nextRelease": "11 November 2022",
+        "number": "2255.1",
+        "preUnit": "",
+        "releaseDate": "2022-10-11T23:00:00.000Z",
+        "sampleSize": "0",
+        "source": "",
+        "title": "GBServTO: 53 - Postal and courier services TOTAL (£m)",
+        "unit": ""
+    },
+    "months": [
+        {
+            "date": "2016 JAN",
+            "label": "2016 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1430.3",
+            "year": "2016"
+        },
+        {
+            "date": "2016 FEB",
+            "label": "2016 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1487.8",
+            "year": "2016"
+        },
+        {
+            "date": "2016 MAR",
+            "label": "2016 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1584.0",
+            "year": "2016"
+        },
+        {
+            "date": "2016 APR",
+            "label": "2016 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1519.6",
+            "year": "2016"
+        },
+        {
+            "date": "2016 MAY",
+            "label": "2016 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1554.7",
+            "year": "2016"
+        },
+        {
+            "date": "2016 JUN",
+            "label": "2016 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1524.7",
+            "year": "2016"
+        },
+        {
+            "date": "2016 JUL",
+            "label": "2016 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1461.4",
+            "year": "2016"
+        },
+        {
+            "date": "2016 AUG",
+            "label": "2016 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1508.7",
+            "year": "2016"
+        },
+        {
+            "date": "2016 SEP",
+            "label": "2016 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1548.4",
+            "year": "2016"
+        },
+        {
+            "date": "2016 OCT",
+            "label": "2016 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1572.6",
+            "year": "2016"
+        },
+        {
+            "date": "2016 NOV",
+            "label": "2016 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1735.4",
+            "year": "2016"
+        },
+        {
+            "date": "2016 DEC",
+            "label": "2016 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1901.3",
+            "year": "2016"
+        },
+        {
+            "date": "2017 JAN",
+            "label": "2017 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1509.7",
+            "year": "2017"
+        },
+        {
+            "date": "2017 FEB",
+            "label": "2017 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1442.9",
+            "year": "2017"
+        },
+        {
+            "date": "2017 MAR",
+            "label": "2017 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1711.3",
+            "year": "2017"
+        },
+        {
+            "date": "2017 APR",
+            "label": "2017 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1408.3",
+            "year": "2017"
+        },
+        {
+            "date": "2017 MAY",
+            "label": "2017 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1634.8",
+            "year": "2017"
+        },
+        {
+            "date": "2017 JUN",
+            "label": "2017 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-06-28T23:00:00.000Z",
+            "value": "1596.6",
+            "year": "2017"
+        },
+        {
+            "date": "2017 JUL",
+            "label": "2017 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1528.2",
+            "year": "2017"
+        },
+        {
+            "date": "2017 AUG",
+            "label": "2017 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "1575.9",
+            "year": "2017"
+        },
+        {
+            "date": "2017 SEP",
+            "label": "2017 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-04-26T23:00:00.000Z",
+            "value": "1552.1",
+            "year": "2017"
+        },
+        {
+            "date": "2017 OCT",
+            "label": "2017 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-02-22T00:00:00.000Z",
+            "value": "1625.1",
+            "year": "2017"
+        },
+        {
+            "date": "2017 NOV",
+            "label": "2017 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-09-09T23:00:00.000Z",
+            "value": "1841.2",
+            "year": "2017"
+        },
+        {
+            "date": "2017 DEC",
+            "label": "2017 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-10-09T23:00:00.000Z",
+            "value": "1960.8",
+            "year": "2017"
+        },
+        {
+            "date": "2018 JAN",
+            "label": "2018 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-10-09T23:00:00.000Z",
+            "value": "1545.3",
+            "year": "2018"
+        },
+        {
+            "date": "2018 FEB",
+            "label": "2018 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-09-09T23:00:00.000Z",
+            "value": "1427.0",
+            "year": "2018"
+        },
+        {
+            "date": "2018 MAR",
+            "label": "2018 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-11-09T00:00:00.000Z",
+            "value": "1623.5",
+            "year": "2018"
+        },
+        {
+            "date": "2018 APR",
+            "label": "2018 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-06-09T23:00:00.000Z",
+            "value": "1498.9",
+            "year": "2018"
+        },
+        {
+            "date": "2018 MAY",
+            "label": "2018 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-06-09T23:00:00.000Z",
+            "value": "1662.4",
+            "year": "2018"
+        },
+        {
+            "date": "2018 JUN",
+            "label": "2018 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-08-08T23:00:00.000Z",
+            "value": "1581.9",
+            "year": "2018"
+        },
+        {
+            "date": "2018 JUL",
+            "label": "2018 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-08-08T23:00:00.000Z",
+            "value": "1550.2",
+            "year": "2018"
+        },
+        {
+            "date": "2018 AUG",
+            "label": "2018 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-08-08T23:00:00.000Z",
+            "value": "1541.5",
+            "year": "2018"
+        },
+        {
+            "date": "2018 SEP",
+            "label": "2018 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-08-08T23:00:00.000Z",
+            "value": "1501.3",
+            "year": "2018"
+        },
+        {
+            "date": "2018 OCT",
+            "label": "2018 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-08-08T23:00:00.000Z",
+            "value": "1705.3",
+            "year": "2018"
+        },
+        {
+            "date": "2018 NOV",
+            "label": "2018 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-08-08T23:00:00.000Z",
+            "value": "1823.5",
+            "year": "2018"
+        },
+        {
+            "date": "2018 DEC",
+            "label": "2018 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-12-10T00:00:00.000Z",
+            "value": "1952.7",
+            "year": "2018"
+        },
+        {
+            "date": "2019 JAN",
+            "label": "2019 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-12-10T00:00:00.000Z",
+            "value": "1628.2",
+            "year": "2019"
+        },
+        {
+            "date": "2019 FEB",
+            "label": "2019 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-12-10T00:00:00.000Z",
+            "value": "1549.4",
+            "year": "2019"
+        },
+        {
+            "date": "2019 MAR",
+            "label": "2019 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-03-11T00:00:00.000Z",
+            "value": "1747.4",
+            "year": "2019"
+        },
+        {
+            "date": "2019 APR",
+            "label": "2019 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-05-12T23:00:00.000Z",
+            "value": "1673.1",
+            "year": "2019"
+        },
+        {
+            "date": "2019 MAY",
+            "label": "2019 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-05-12T23:00:00.000Z",
+            "value": "1718.9",
+            "year": "2019"
+        },
+        {
+            "date": "2019 JUN",
+            "label": "2019 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-05-12T23:00:00.000Z",
+            "value": "1540.6",
+            "year": "2019"
+        },
+        {
+            "date": "2019 JUL",
+            "label": "2019 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-09-10T23:00:00.000Z",
+            "value": "1687.2",
+            "year": "2019"
+        },
+        {
+            "date": "2019 AUG",
+            "label": "2019 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-09-10T23:00:00.000Z",
+            "value": "1591.4",
+            "year": "2019"
+        },
+        {
+            "date": "2019 SEP",
+            "label": "2019 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-09-10T23:00:00.000Z",
+            "value": "1581.5",
+            "year": "2019"
+        },
+        {
+            "date": "2019 OCT",
+            "label": "2019 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-09-10T23:00:00.000Z",
+            "value": "1780.2",
+            "year": "2019"
+        },
+        {
+            "date": "2019 NOV",
+            "label": "2019 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-09-10T23:00:00.000Z",
+            "value": "1847.7",
+            "year": "2019"
+        },
+        {
+            "date": "2019 DEC",
+            "label": "2019 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-10-08T23:00:00.000Z",
+            "value": "2041.6",
+            "year": "2019"
+        },
+        {
+            "date": "2020 JAN",
+            "label": "2020 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-10-08T23:00:00.000Z",
+            "value": "1717.0",
+            "year": "2020"
+        },
+        {
+            "date": "2020 FEB",
+            "label": "2020 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-04-12T23:00:00.000Z",
+            "value": "1499.6",
+            "year": "2020"
+        },
+        {
+            "date": "2020 MAR",
+            "label": "2020 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-04-12T23:00:00.000Z",
+            "value": "1651.9",
+            "year": "2020"
+        },
+        {
+            "date": "2020 APR",
+            "label": "2020 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-04-12T23:00:00.000Z",
+            "value": "1511.6",
+            "year": "2020"
+        },
+        {
+            "date": "2020 MAY",
+            "label": "2020 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-04-12T23:00:00.000Z",
+            "value": "1687.7",
+            "year": "2020"
+        },
+        {
+            "date": "2020 JUN",
+            "label": "2020 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-04-12T23:00:00.000Z",
+            "value": "1878.2",
+            "year": "2020"
+        },
+        {
+            "date": "2020 JUL",
+            "label": "2020 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-04-12T23:00:00.000Z",
+            "value": "1946.7",
+            "year": "2020"
+        },
+        {
+            "date": "2020 AUG",
+            "label": "2020 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "1720.4",
+            "year": "2020"
+        },
+        {
+            "date": "2020 SEP",
+            "label": "2020 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "1829.6",
+            "year": "2020"
+        },
+        {
+            "date": "2020 OCT",
+            "label": "2020 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "2078.2",
+            "year": "2020"
+        },
+        {
+            "date": "2020 NOV",
+            "label": "2020 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "2371.1",
+            "year": "2020"
+        },
+        {
+            "date": "2020 DEC",
+            "label": "2020 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "2765.5",
+            "year": "2020"
+        },
+        {
+            "date": "2021 JAN",
+            "label": "2021 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "2020.5",
+            "year": "2021"
+        },
+        {
+            "date": "2021 FEB",
+            "label": "2021 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-12-10T00:00:00.000Z",
+            "value": "2046.5",
+            "year": "2021"
+        },
+        {
+            "date": "2021 MAR",
+            "label": "2021 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-05-11T23:00:00.000Z",
+            "value": "2410.6",
+            "year": "2021"
+        },
+        {
+            "date": "2021 APR",
+            "label": "2021 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-06-12T23:00:00.000Z",
+            "value": "2171.7",
+            "year": "2021"
+        },
+        {
+            "date": "2021 MAY",
+            "label": "2021 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-05-11T23:00:00.000Z",
+            "value": "2011.4",
+            "year": "2021"
+        },
+        {
+            "date": "2021 JUN",
+            "label": "2021 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-06-12T23:00:00.000Z",
+            "value": "2114.6",
+            "year": "2021"
+        },
+        {
+            "date": "2021 JUL",
+            "label": "2021 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-09-11T23:00:00.000Z",
+            "value": "1990.1",
+            "year": "2021"
+        },
+        {
+            "date": "2021 AUG",
+            "label": "2021 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-09-11T23:00:00.000Z",
+            "value": "1928.3",
+            "year": "2021"
+        },
+        {
+            "date": "2021 SEP",
+            "label": "2021 SEP",
+            "month": "September",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-09-11T23:00:00.000Z",
+            "value": "2089.3",
+            "year": "2021"
+        },
+        {
+            "date": "2021 OCT",
+            "label": "2021 OCT",
+            "month": "October",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-09-11T23:00:00.000Z",
+            "value": "2067.0",
+            "year": "2021"
+        },
+        {
+            "date": "2021 NOV",
+            "label": "2021 NOV",
+            "month": "November",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "2387.3",
+            "year": "2021"
+        },
+        {
+            "date": "2021 DEC",
+            "label": "2021 DEC",
+            "month": "December",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "2751.3",
+            "year": "2021"
+        },
+        {
+            "date": "2022 JAN",
+            "label": "2022 JAN",
+            "month": "January",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "2044.8",
+            "year": "2022"
+        },
+        {
+            "date": "2022 FEB",
+            "label": "2022 FEB",
+            "month": "February",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "1956.9",
+            "year": "2022"
+        },
+        {
+            "date": "2022 MAR",
+            "label": "2022 MAR",
+            "month": "March",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "2294.0",
+            "year": "2022"
+        },
+        {
+            "date": "2022 APR",
+            "label": "2022 APR",
+            "month": "April",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "1976.9",
+            "year": "2022"
+        },
+        {
+            "date": "2022 MAY",
+            "label": "2022 MAY",
+            "month": "May",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "2070.5",
+            "year": "2022"
+        },
+        {
+            "date": "2022 JUN",
+            "label": "2022 JUN",
+            "month": "June",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "2057.9",
+            "year": "2022"
+        },
+        {
+            "date": "2022 JUL",
+            "label": "2022 JUL",
+            "month": "July",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "2120.5",
+            "year": "2022"
+        },
+        {
+            "date": "2022 AUG",
+            "label": "2022 AUG",
+            "month": "August",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "2255.1",
+            "year": "2022"
+        }
+    ],
+    "quarters": [
+        {
+            "date": "2016 Q1",
+            "label": "2016 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "4502.1",
+            "year": "2016"
+        },
+        {
+            "date": "2016 Q2",
+            "label": "2016 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "4599.0",
+            "year": "2016"
+        },
+        {
+            "date": "2016 Q3",
+            "label": "2016 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "4518.5",
+            "year": "2016"
+        },
+        {
+            "date": "2016 Q4",
+            "label": "2016 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "5209.3",
+            "year": "2016"
+        },
+        {
+            "date": "2017 Q1",
+            "label": "2017 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "4663.9",
+            "year": "2017"
+        },
+        {
+            "date": "2017 Q2",
+            "label": "2017 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-06-28T23:00:00.000Z",
+            "value": "4639.7",
+            "year": "2017"
+        },
+        {
+            "date": "2017 Q3",
+            "label": "2017 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-04-26T23:00:00.000Z",
+            "value": "4656.2",
+            "year": "2017"
+        },
+        {
+            "date": "2017 Q4",
+            "label": "2017 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-10-09T23:00:00.000Z",
+            "value": "5427.1",
+            "year": "2017"
+        },
+        {
+            "date": "2018 Q1",
+            "label": "2018 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-11-09T00:00:00.000Z",
+            "value": "4595.8",
+            "year": "2018"
+        },
+        {
+            "date": "2018 Q2",
+            "label": "2018 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-08-08T23:00:00.000Z",
+            "value": "4743.2",
+            "year": "2018"
+        },
+        {
+            "date": "2018 Q3",
+            "label": "2018 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-08-08T23:00:00.000Z",
+            "value": "4593.0",
+            "year": "2018"
+        },
+        {
+            "date": "2018 Q4",
+            "label": "2018 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-12-10T00:00:00.000Z",
+            "value": "5481.5",
+            "year": "2018"
+        },
+        {
+            "date": "2019 Q1",
+            "label": "2019 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-03-11T00:00:00.000Z",
+            "value": "4925.0",
+            "year": "2019"
+        },
+        {
+            "date": "2019 Q2",
+            "label": "2019 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-05-12T23:00:00.000Z",
+            "value": "4932.6",
+            "year": "2019"
+        },
+        {
+            "date": "2019 Q3",
+            "label": "2019 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-09-10T23:00:00.000Z",
+            "value": "4860.1",
+            "year": "2019"
+        },
+        {
+            "date": "2019 Q4",
+            "label": "2019 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-10-08T23:00:00.000Z",
+            "value": "5669.5",
+            "year": "2019"
+        },
+        {
+            "date": "2020 Q1",
+            "label": "2020 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-04-12T23:00:00.000Z",
+            "value": "4868.5",
+            "year": "2020"
+        },
+        {
+            "date": "2020 Q2",
+            "label": "2020 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-04-12T23:00:00.000Z",
+            "value": "5077.5",
+            "year": "2020"
+        },
+        {
+            "date": "2020 Q3",
+            "label": "2020 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "5496.7",
+            "year": "2020"
+        },
+        {
+            "date": "2020 Q4",
+            "label": "2020 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "7214.8",
+            "year": "2020"
+        },
+        {
+            "date": "2021 Q1",
+            "label": "2021 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-05-11T23:00:00.000Z",
+            "value": "6477.6",
+            "year": "2021"
+        },
+        {
+            "date": "2021 Q2",
+            "label": "2021 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-06-12T23:00:00.000Z",
+            "value": "6297.7",
+            "year": "2021"
+        },
+        {
+            "date": "2021 Q3",
+            "label": "2021 Q3",
+            "month": "",
+            "quarter": "Q3",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-09-11T23:00:00.000Z",
+            "value": "6007.7",
+            "year": "2021"
+        },
+        {
+            "date": "2021 Q4",
+            "label": "2021 Q4",
+            "month": "",
+            "quarter": "Q4",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "7205.6",
+            "year": "2021"
+        },
+        {
+            "date": "2022 Q1",
+            "label": "2022 Q1",
+            "month": "",
+            "quarter": "Q1",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "6295.7",
+            "year": "2022"
+        },
+        {
+            "date": "2022 Q2",
+            "label": "2022 Q2",
+            "month": "",
+            "quarter": "Q2",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "6105.3",
+            "year": "2022"
+        }
+    ],
+    "relatedDatasets": [
+        {
+            "uri": "/economy/economicoutputandproductivity/output/datasets/indexofservices"
+        }
+    ],
+    "relatedDocuments": [
+        {
+            "uri": "/economy/economicoutputandproductivity/output/bulletins/indexofservices/latest"
+        }
+    ],
+    "sourceDatasets": [],
+    "type": "timeseries",
+    "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1",
+    "versions": [
+        {
+            "correctionNotice": "",
+            "label": "v1",
+            "updateDate": "2018-01-26T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v1"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v2",
+            "updateDate": "2018-02-22T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v2"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v3",
+            "updateDate": "2018-03-29T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v3"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v4",
+            "updateDate": "2018-04-27T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v4"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v5",
+            "updateDate": "2018-05-25T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v5"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v6",
+            "updateDate": "2018-06-29T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v6"
+        },
+        {
+            "correctionNotice": "ONS identified that the index values and growth rates for the Business Services and Finance sector within the Index of Services publication were incorrect. These have now been amended. This correction affects the IoS components to four decimal places, Index of Services industry sections and components and time series datasets along with the statistical bulletin.\n\nThe error did not impact any top-level data, so there is no impact on either GDP or Index of Services. \n\nONS apologises for any inconvenience this may have caused.",
+            "label": "v7",
+            "updateDate": "2018-07-06T09:35:22.422Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v7"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v8",
+            "updateDate": "2018-08-10T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v8"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v9",
+            "updateDate": "2018-09-10T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v9"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v10",
+            "updateDate": "2018-10-10T06:52:47.220Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v10"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v11",
+            "updateDate": "2018-11-09T07:40:19.732Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v11"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v12",
+            "updateDate": "2018-12-10T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v12"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v13",
+            "updateDate": "2019-01-11T08:03:22.323Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v13"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v14",
+            "updateDate": "2019-02-11T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v14"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v15",
+            "updateDate": "2019-03-12T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v15"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v16",
+            "updateDate": "2019-04-10T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v16"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v17",
+            "updateDate": "2019-05-10T07:01:42.856Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v17"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v18",
+            "updateDate": "2019-06-10T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v18"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v19",
+            "updateDate": "2019-07-10T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v19"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v20",
+            "updateDate": "2019-08-09T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v20"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v21",
+            "updateDate": "2019-09-09T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v21"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v22",
+            "updateDate": "2019-10-10T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v22"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v23",
+            "updateDate": "2019-11-11T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v23"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v24",
+            "updateDate": "2019-12-10T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v24"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v25",
+            "updateDate": "2020-01-13T07:59:18.258Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v25"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v26",
+            "updateDate": "2020-02-11T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v26"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v27",
+            "updateDate": "2020-03-11T09:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v27"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v28",
+            "updateDate": "2020-04-09T04:50:50.861Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v28"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v29",
+            "updateDate": "2020-05-13T08:30:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v29"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v30",
+            "updateDate": "2020-06-12T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v30"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v31",
+            "updateDate": "2020-07-14T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v31"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v32",
+            "updateDate": "2020-08-12T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v32"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v33",
+            "updateDate": "2020-09-11T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v33"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v34",
+            "updateDate": "2020-10-09T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v34"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v35",
+            "updateDate": "2020-11-12T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v35"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v36",
+            "updateDate": "2020-12-10T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v36"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v37",
+            "updateDate": "2021-01-15T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v37"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v38",
+            "updateDate": "2021-02-12T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v38"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v39",
+            "updateDate": "2021-03-12T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v39"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v40",
+            "updateDate": "2021-04-13T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v40"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v41",
+            "updateDate": "2021-05-12T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v41"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v42",
+            "updateDate": "2021-06-11T06:29:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v42"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v43",
+            "updateDate": "2021-07-09T05:03:33.289Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v43"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v44",
+            "updateDate": "2021-08-12T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v44"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v45",
+            "updateDate": "2021-09-10T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v45"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v46",
+            "updateDate": "2021-10-13T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v46"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v47",
+            "updateDate": "2021-11-11T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v47"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v48",
+            "updateDate": "2021-12-10T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v48"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v49",
+            "updateDate": "2022-01-14T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v49"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v50",
+            "updateDate": "2022-02-11T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v50"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v51",
+            "updateDate": "2022-03-11T07:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v51"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v52",
+            "updateDate": "2022-04-11T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v52"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v53",
+            "updateDate": "2022-05-12T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v53"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v54",
+            "updateDate": "2022-06-13T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v54"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v55",
+            "updateDate": "2022-07-13T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v55"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v56",
+            "updateDate": "2022-08-12T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v56"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v57",
+            "updateDate": "2022-09-12T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v57"
+        },
+        {
+            "correctionNotice": "",
+            "label": "v58",
+            "updateDate": "2022-10-12T06:00:00.000Z",
+            "uri": "/businessindustryandtrade/manufacturingandproductionindustry/timeseries/dyqo/ios1/previous/v58"
+        }
+    ],
+    "years": [
+        {
+            "date": "2016",
+            "label": "2016",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2017-12-22T00:00:00.000Z",
+            "value": "18828.9",
+            "year": "2016"
+        },
+        {
+            "date": "2017",
+            "label": "2017",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2018-10-09T23:00:00.000Z",
+            "value": "19386.9",
+            "year": "2017"
+        },
+        {
+            "date": "2018",
+            "label": "2018",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2019-12-10T00:00:00.000Z",
+            "value": "19413.5",
+            "year": "2018"
+        },
+        {
+            "date": "2019",
+            "label": "2019",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2020-10-08T23:00:00.000Z",
+            "value": "20387.2",
+            "year": "2019"
+        },
+        {
+            "date": "2020",
+            "label": "2020",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2021-10-12T23:00:00.000Z",
+            "value": "22657.5",
+            "year": "2020"
+        },
+        {
+            "date": "2021",
+            "label": "2021",
+            "month": "",
+            "quarter": "",
+            "sourceDataset": "IOS1",
+            "updateDate": "2022-10-11T23:00:00.000Z",
+            "value": "25988.6",
+            "year": "2021"
+        }
+    ]
+}

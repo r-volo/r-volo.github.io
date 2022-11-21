@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+   "title": {
+    "text": "Price of Wheat",
+    "subtitle":"Scatterplot of the historical daily wheat prices ($), with a 364-day rolling average. Source: macrotrends",
+
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+  },
+  
+  "width": 500,
+  "height": 300,
+
+  "data": {"url": "https://raw.githubusercontent.com/r-volo/r-volo.github.io/main/wheat-prices-historical-chart-data.csv"},
+  "transform": [{
+    "window": [
+      {
+        "field": "Value",
+        "op": "mean",
+        "as": "rolling_mean"
+      }
+    ],
+    "frame": [-182, 182]
+  }],
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal", "title": "Date (03/01/00 - 21/11/22)"},
+    "y": {"type": "quantitative", "axis": {"title": "Price per Bushel ($)"}}
+  },
+  "layer": [
+    {
+      "mark": {"type": "point", "opacity": 0.3},
+      "encoding": {
+        "y": {"field": "Value", "title": "Price per bushel"}
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "black", "size": 0.5},
+      "encoding": {
+        "y": {"field": "rolling_mean", "title": "Rolling Yearly Mean of the price per bushel"}
+      }
+    }
+  ]
+}

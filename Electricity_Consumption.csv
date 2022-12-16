@@ -1,6 +1,4 @@
-Country or region,Local authority,"Total electricty consumption
-(GWh):
-All meters",Year
+Country or region,Local authority,"GWh consumed",Year
 North East,Alnwick,165,2005
 North East,Berwick-upon-Tweed,184,2005
 North East,Blyth Valley,337,2005
@@ -2601,7 +2599,7 @@ East,Welwyn Hatfield,623,2012
 East,Breckland,613,2012
 East,Broadland,478,2012
 East,Great Yarmouth,394,2012
-East,King’s Lynn and West Norfolk,"1,131",2012
+East,KingÂ’s Lynn and West Norfolk,"1,131",2012
 East,North Norfolk,522,2012
 East,Norwich,624,2012
 East,South Norfolk,560,2012
@@ -2612,7 +2610,7 @@ East,Mid Suffolk,484,2012
 East,St Edmundsbury,552,2012
 East,Suffolk Coastal,624,2012
 East,Waveney,560,2012
-London,City of London ,"2,482",2012
+London,City of LondonÂ ,"2,482",2012
 London,Barking and Dagenham,713,2012
 London,Barnet,"1,169",2012
 London,Bexley,794,2012
@@ -2626,7 +2624,7 @@ London,Greenwich,800,2012
 London,Hackney,899,2012
 London,Hammersmith and Fulham,"1,011",2012
 London,Haringey,780,2012
-London,Harrow ,612,2012
+London,HarrowÂ ,612,2012
 London,Havering,818,2012
 London,Hillingdon,"1,747",2012
 London,Hounslow,"1,370",2012
@@ -2927,7 +2925,7 @@ East,Welwyn Hatfield,633,2013
 East,Breckland,607,2013
 East,Broadland,484,2013
 East,Great Yarmouth,390,2013
-East,King’s Lynn and West Norfolk,"1,122",2013
+East,KingÂ’s Lynn and West Norfolk,"1,122",2013
 East,North Norfolk,520,2013
 East,Norwich,624,2013
 East,South Norfolk,547,2013
@@ -2938,7 +2936,7 @@ East,Mid Suffolk,480,2013
 East,St Edmundsbury,551,2013
 East,Suffolk Coastal,605,2013
 East,Waveney,554,2013
-London,City of London ,"2,440",2013
+London,City of LondonÂ ,"2,440",2013
 London,Barking and Dagenham,693,2013
 London,Barnet,"1,158",2013
 London,Bexley,785,2013
@@ -2952,7 +2950,7 @@ London,Greenwich,816,2013
 London,Hackney,903,2013
 London,Hammersmith and Fulham,"1,001",2013
 London,Haringey,768,2013
-London,Harrow ,611,2013
+London,HarrowÂ ,611,2013
 London,Havering,829,2013
 London,Hillingdon,"1,747",2013
 London,Hounslow,"1,363",2013
@@ -3253,7 +3251,7 @@ East,Welwyn Hatfield,639,2014
 East,Breckland,656,2014
 East,Broadland,487,2014
 East,Great Yarmouth,388,2014
-East,King’s Lynn and West Norfolk,"1,122",2014
+East,KingÂ’s Lynn and West Norfolk,"1,122",2014
 East,North Norfolk,536,2014
 East,Norwich,642,2014
 East,South Norfolk,558,2014

@@ -1,0 +1,5257 @@
+Country or region,Local authority,"Total electricty consumption
+(GWh):
+All meters",Year
+North East,Alnwick,165,2005
+North East,Berwick-upon-Tweed,184,2005
+North East,Blyth Valley,337,2005
+North East,Castle Morpeth,237,2005
+North East,Chester-le-Street,167,2005
+North East,Darlington,510,2005
+North East,Derwentside,337,2005
+North East,Durham,451,2005
+North East,Easington,423,2005
+North East,Gateshead,"1,009",2005
+North East,Hartlepool,549,2005
+North East,Middlesbrough,798,2005
+North East,Newcastle upon Tyne,"1,433",2005
+North East,North Tyneside,"1,006",2005
+North East,Redcar and Cleveland,"1,264",2005
+North East,Sedgefield,490,2005
+North East,South Tyneside,529,2005
+North East,Stockton-on-Tees,"1,298",2005
+North East,Sunderland,"1,437",2005
+North East,Teesdale,132,2005
+North East,Tynedale,498,2005
+North East,Wansbeck,384,2005
+North East,Wear Valley,258,2005
+North West,Allerdale,790,2005
+North West,Barrow-in-Furness,492,2005
+North West,Blackburn with Darwen,811,2005
+North West,Blackpool,677,2005
+North West,Bolton,"1,145",2005
+North West,Burnley,432,2005
+North West,Bury,758,2005
+North West,Carlisle,636,2005
+North West,Chester,961,2005
+North West,Chorley,401,2005
+North West,Congleton,458,2005
+North West,Copeland,261,2005
+North West,Crewe and Nantwich,668,2005
+North West,Eden,475,2005
+North West,Ellesmere Port & Neston,720,2005
+North West,Fylde,436,2005
+North West,Halton,843,2005
+North West,Hyndburn,349,2005
+North West,Knowsley,956,2005
+North West,Lancaster,602,2005
+North West,Liverpool,"2,258",2005
+North West,Macclesfield,888,2005
+North West,Manchester,"2,686",2005
+North West,Oldham,896,2005
+North West,Pendle,426,2005
+North West,Preston,717,2005
+North West,Ribble Valley,488,2005
+North West,Rochdale,915,2005
+North West,Rossendale,405,2005
+North West,Salford,"1,185",2005
+North West,Sefton,"1,058",2005
+North West,South Lakeland,630,2005
+North West,South Ribble,490,2005
+North West,St. Helens,869,2005
+North West,Stockport,"1,292",2005
+North West,Tameside,970,2005
+North West,Trafford,"1,811",2005
+North West,Vale Royal,610,2005
+North West,Warrington,"1,094",2005
+North West,West Lancashire,583,2005
+North West,Wigan,"1,267",2005
+North West,Wirral,"1,396",2005
+North West,Wyre,486,2005
+Yorkshire and The Humber,Barnsley,"1,011",2005
+Yorkshire and The Humber,Bradford,"2,164",2005
+Yorkshire and The Humber,Calderdale,951,2005
+Yorkshire and The Humber,Craven,294,2005
+Yorkshire and The Humber,Doncaster,"1,530",2005
+Yorkshire and The Humber,East Riding of Yorkshire,"1,615",2005
+Yorkshire and The Humber,Hambleton,527,2005
+Yorkshire and The Humber,Harrogate,829,2005
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,426",2005
+Yorkshire and The Humber,Kirklees,"1,847",2005
+Yorkshire and The Humber,Leeds,"3,902",2005
+Yorkshire and The Humber,North East Lincolnshire,956,2005
+Yorkshire and The Humber,North Lincolnshire,"1,450",2005
+Yorkshire and The Humber,Richmondshire,228,2005
+Yorkshire and The Humber,Rotherham,"1,235",2005
+Yorkshire and The Humber,Ryedale,319,2005
+Yorkshire and The Humber,Scarborough,582,2005
+Yorkshire and The Humber,Selby,591,2005
+Yorkshire and The Humber,Sheffield,"2,751",2005
+Yorkshire and The Humber,Wakefield,"1,739",2005
+Yorkshire and The Humber,York,888,2005
+East Midlands,Amber Valley,699,2005
+East Midlands,Ashfield,588,2005
+East Midlands,Bassetlaw,701,2005
+East Midlands,Blaby,390,2005
+East Midlands,Bolsover,326,2005
+East Midlands,Boston,367,2005
+East Midlands,Broxtowe,400,2005
+East Midlands,Charnwood,817,2005
+East Midlands,Chesterfield,564,2005
+East Midlands,Corby,544,2005
+East Midlands,Daventry,464,2005
+East Midlands,Derby,"1,242",2005
+East Midlands,Derbyshire Dales,503,2005
+East Midlands,East Lindsey,775,2005
+East Midlands,East Northamptonshire,360,2005
+East Midlands,Erewash,526,2005
+East Midlands,Gedling,392,2005
+East Midlands,Harborough,413,2005
+East Midlands,High Peak,812,2005
+East Midlands,Hinckley and Bosworth,537,2005
+East Midlands,Kettering,424,2005
+East Midlands,Leicester,"1,677",2005
+East Midlands,Lincoln,496,2005
+East Midlands,Mansfield,467,2005
+East Midlands,Melton,302,2005
+East Midlands,Newark and Sherwood,648,2005
+East Midlands,North East Derbyshire,492,2005
+East Midlands,North Kesteven,529,2005
+East Midlands,North West Leicestershire,616,2005
+East Midlands,Northampton,"1,170",2005
+East Midlands,Nottingham,"1,583",2005
+East Midlands,Oadby and Wigston,226,2005
+East Midlands,Rushcliffe,423,2005
+East Midlands,Rutland,462,2005
+East Midlands,South Derbyshire,518,2005
+East Midlands,South Holland,517,2005
+East Midlands,South Kesteven,725,2005
+East Midlands,South Northamptonshire,439,2005
+East Midlands,Wellingborough,401,2005
+East Midlands,West Lindsey,404,2005
+West Midlands,Birmingham,"4,974",2005
+West Midlands,Bridgnorth,385,2005
+West Midlands,Bromsgrove,324,2005
+West Midlands,Cannock Chase,377,2005
+West Midlands,Coventry,"1,625",2005
+West Midlands,Dudley,"1,258",2005
+West Midlands,East Staffordshire,769,2005
+West Midlands,"Herefordshire, County of","1,038",2005
+West Midlands,Lichfield,456,2005
+West Midlands,Malvern Hills,281,2005
+West Midlands,Newcastle-under-Lyme,442,2005
+West Midlands,North Shropshire,353,2005
+West Midlands,North Warwickshire,517,2005
+West Midlands,Nuneaton and Bedworth,509,2005
+West Midlands,Oswestry,199,2005
+West Midlands,Redditch,420,2005
+West Midlands,Rugby,700,2005
+West Midlands,Sandwell,"1,533",2005
+West Midlands,Shrewsbury and Atcham,476,2005
+West Midlands,Solihull,960,2005
+West Midlands,South Shropshire,194,2005
+West Midlands,South Staffordshire,372,2005
+West Midlands,Stafford,598,2005
+West Midlands,Staffordshire Moorlands,510,2005
+West Midlands,Stoke-on-Trent,"1,165",2005
+West Midlands,Stratford-on-Avon,635,2005
+West Midlands,Tamworth,383,2005
+West Midlands,Telford and Wrekin,971,2005
+West Midlands,Walsall,"1,195",2005
+West Midlands,Warwick,841,2005
+West Midlands,Wolverhampton,"1,177",2005
+West Midlands,Worcester,535,2005
+West Midlands,Wychavon,634,2005
+West Midlands,Wyre Forest,451,2005
+East,Babergh,450,2005
+East,Basildon,896,2005
+East,Bedford,753,2005
+East,Braintree,652,2005
+East,Breckland,670,2005
+East,Brentwood,332,2005
+East,Broadland,473,2005
+East,Broxbourne,396,2005
+East,Cambridge,716,2005
+East,Castle Point,281,2005
+East,Chelmsford,773,2005
+East,Colchester,782,2005
+East,Dacorum,657,2005
+East,East Cambridgeshire,385,2005
+East,East Hertfordshire,667,2005
+East,Epping Forest,516,2005
+East,Fenland,557,2005
+East,Forest Heath,453,2005
+East,Great Yarmouth,445,2005
+East,Harlow,521,2005
+East,Hertsmere,518,2005
+East,Huntingdonshire,"1,057",2005
+East,Ipswich,677,2005
+East,King's Lynn and West Norfolk,902,2005
+East,Luton,830,2005
+East,Maldon,358,2005
+East,Mid Bedfordshire,567,2005
+East,Mid Suffolk,532,2005
+East,North Hertfordshire,551,2005
+East,North Norfolk,602,2005
+East,Norwich,765,2005
+East,Peterborough,"1,000",2005
+East,Rochford,326,2005
+East,South Bedfordshire,516,2005
+East,South Cambridgeshire,831,2005
+East,South Norfolk,586,2005
+East,Southend-on-Sea,741,2005
+East,St Albans,564,2005
+East,St Edmundsbury,620,2005
+East,Stevenage,479,2005
+East,Suffolk Coastal,626,2005
+East,Tendring,580,2005
+East,Three Rivers,374,2005
+East,Thurrock,"1,134",2005
+East,Uttlesford,419,2005
+East,Watford,479,2005
+East,Waveney,667,2005
+East,Welwyn Hatfield,598,2005
+London,Barking and Dagenham,783,2005
+London,Barnet,"1,238",2005
+London,Bexley,869,2005
+London,Brent,"1,220",2005
+London,Bromley,"1,092",2005
+London,Camden,"1,818",2005
+London,City of London,"2,616",2005
+London,Croydon,"1,388",2005
+London,Ealing,"1,331",2005
+London,Enfield,"1,145",2005
+London,Greenwich,822,2005
+London,Hackney,775,2005
+London,Hammersmith and Fulham,993,2005
+London,Haringey,799,2005
+London,Harrow,689,2005
+London,Havering,882,2005
+London,Hillingdon,"1,786",2005
+London,Hounslow,"1,344",2005
+London,Islington,"1,242",2005
+London,Kensington and Chelsea,"1,500",2005
+London,Kingston upon Thames,643,2005
+London,Lambeth,"1,145",2005
+London,Lewisham,883,2005
+London,Merton,707,2005
+London,Newham,"1,081",2005
+London,Redbridge,750,2005
+London,Richmond upon Thames,792,2005
+London,Southwark,"1,838",2005
+London,Sutton,677,2005
+London,Tower Hamlets,"2,595",2005
+London,Waltham Forest,755,2005
+London,Wandsworth,"1,182",2005
+London,Westminster,"4,053",2005
+South East,Adur,240,2005
+South East,Arun,567,2005
+South East,Ashford,525,2005
+South East,Aylesbury Vale,736,2005
+South East,Basingstoke and Deane,890,2005
+South East,Bracknell Forest,660,2005
+South East,Brighton and Hove,"1,117",2005
+South East,Canterbury,587,2005
+South East,Cherwell,827,2005
+South East,Chichester,591,2005
+South East,Chiltern,380,2005
+South East,Crawley,700,2005
+South East,Dartford,517,2005
+South East,Dover,467,2005
+South East,East Hampshire,509,2005
+South East,Eastbourne,406,2005
+South East,Eastleigh,568,2005
+South East,Elmbridge,587,2005
+South East,Epsom and Ewell,255,2005
+South East,Fareham,544,2005
+South East,Gosport,334,2005
+South East,Gravesham,515,2005
+South East,Guildford,664,2005
+South East,Hart,376,2005
+South East,Hastings,359,2005
+South East,Havant,491,2005
+South East,Horsham,619,2005
+South East,Isle of Wight,625,2005
+South East,Lewes,393,2005
+South East,Maidstone,721,2005
+South East,Medway,"1,008",2005
+South East,Mid Sussex,528,2005
+South East,Milton Keynes,"1,550",2005
+South East,Mole Valley,455,2005
+South East,New Forest,863,2005
+South East,Oxford,918,2005
+South East,Portsmouth,"1,077",2005
+South East,Reading,967,2005
+South East,Reigate and Banstead,633,2005
+South East,Rother,396,2005
+South East,Runnymede,442,2005
+South East,Rushmoor,492,2005
+South East,Sevenoaks,511,2005
+South East,Shepway,698,2005
+South East,Slough,533,2005
+South East,South Bucks,400,2005
+South East,South Oxfordshire,899,2005
+South East,Southampton,"1,252",2005
+South East,Spelthorne,470,2005
+South East,Surrey Heath,391,2005
+South East,Swale,836,2005
+South East,Tandridge,331,2005
+South East,Test Valley,581,2005
+South East,Thanet,501,2005
+South East,Tonbridge and Malling,530,2005
+South East,Tunbridge Wells,555,2005
+South East,Vale of White Horse,717,2005
+South East,Waverley,494,2005
+South East,Wealden,560,2005
+South East,West Berkshire,951,2005
+South East,West Oxfordshire,561,2005
+South East,Winchester,652,2005
+South East,Windsor and Maidenhead,779,2005
+South East,Woking,511,2005
+South East,Wokingham,700,2005
+South East,Worthing,455,2005
+South East,Wycombe,787,2005
+South West,Bath and North East Somerset,829,2005
+South West,Bournemouth,806,2005
+South West,"Bristol, City of","2,091",2005
+South West,Caradon,384,2005
+South West,Carrick,454,2005
+South West,Cheltenham,584,2005
+South West,Christchurch,225,2005
+South West,Cotswold,445,2005
+South West,East Devon,538,2005
+South West,East Dorset,353,2005
+South West,Exeter,592,2005
+South West,Forest of Dean,478,2005
+South West,Gloucester,641,2005
+South West,Isles of Scilly,18,2005
+South West,Kennet,434,2005
+South West,Kerrier,474,2005
+South West,Mendip,602,2005
+South West,Mid Devon,396,2005
+South West,North Cornwall,563,2005
+South West,North Devon,512,2005
+South West,North Dorset,308,2005
+South West,North Somerset,849,2005
+South West,North Wiltshire,692,2005
+South West,Penwith,300,2005
+South West,Plymouth,"1,223",2005
+South West,Poole,766,2005
+South West,Purbeck,364,2005
+South West,Restormel,846,2005
+South West,Salisbury,587,2005
+South West,Sedgemoor,634,2005
+South West,South Gloucestershire,"1,523",2005
+South West,South Hams,567,2005
+South West,South Somerset,847,2005
+South West,Stroud,564,2005
+South West,Swindon,"1,300",2005
+South West,Taunton Deane,519,2005
+South West,Teignbridge,529,2005
+South West,Tewkesbury,496,2005
+South West,Torbay,585,2005
+South West,Torridge,293,2005
+South West,West Devon,271,2005
+South West,West Dorset,520,2005
+South West,West Somerset,252,2005
+South West,West Wiltshire,757,2005
+South West,Weymouth and Portland,251,2005
+North East,Alnwick,158,2006
+North East,Berwick-upon-Tweed,180,2006
+North East,Blyth Valley,328,2006
+North East,Castle Morpeth,236,2006
+North East,Chester-le-Street,166,2006
+North East,Darlington,513,2006
+North East,Derwentside,333,2006
+North East,Durham,454,2006
+North East,Easington,426,2006
+North East,Gateshead,"1,029",2006
+North East,Hartlepool,543,2006
+North East,Middlesbrough,811,2006
+North East,Newcastle upon Tyne,"1,426",2006
+North East,North Tyneside,986,2006
+North East,Redcar and Cleveland,"1,260",2006
+North East,Sedgefield,493,2006
+North East,South Tyneside,515,2006
+North East,Stockton-on-Tees,"1,257",2006
+North East,Sunderland,"1,427",2006
+North East,Teesdale,134,2006
+North East,Tynedale,519,2006
+North East,Wansbeck,361,2006
+North East,Wear Valley,253,2006
+North West,Allerdale,707,2006
+North West,Barrow-in-Furness,497,2006
+North West,Blackburn with Darwen,806,2006
+North West,Blackpool,670,2006
+North West,Bolton,"1,149",2006
+North West,Burnley,408,2006
+North West,Bury,766,2006
+North West,Carlisle,637,2006
+North West,Chester,965,2006
+North West,Chorley,410,2006
+North West,Congleton,438,2006
+North West,Copeland,264,2006
+North West,Crewe and Nantwich,679,2006
+North West,Eden,452,2006
+North West,Ellesmere Port & Neston,905,2006
+North West,Fylde,441,2006
+North West,Halton,833,2006
+North West,Hyndburn,347,2006
+North West,Knowsley,941,2006
+North West,Lancaster,575,2006
+North West,Liverpool,"2,239",2006
+North West,Macclesfield,903,2006
+North West,Manchester,"2,792",2006
+North West,Oldham,877,2006
+North West,Pendle,425,2006
+North West,Preston,713,2006
+North West,Ribble Valley,462,2006
+North West,Rochdale,920,2006
+North West,Rossendale,402,2006
+North West,Salford,"1,167",2006
+North West,Sefton,"1,066",2006
+North West,South Lakeland,631,2006
+North West,South Ribble,496,2006
+North West,St. Helens,904,2006
+North West,Stockport,"1,283",2006
+North West,Tameside,954,2006
+North West,Trafford,"1,866",2006
+North West,Vale Royal,646,2006
+North West,Warrington,"1,085",2006
+North West,West Lancashire,559,2006
+North West,Wigan,"1,284",2006
+North West,Wirral,"1,385",2006
+North West,Wyre,520,2006
+Yorkshire and The Humber,Barnsley,"1,115",2006
+Yorkshire and The Humber,Bradford,"2,120",2006
+Yorkshire and The Humber,Calderdale,959,2006
+Yorkshire and The Humber,Craven,282,2006
+Yorkshire and The Humber,Doncaster,"1,488",2006
+Yorkshire and The Humber,East Riding of Yorkshire,"1,669",2006
+Yorkshire and The Humber,Hambleton,524,2006
+Yorkshire and The Humber,Harrogate,854,2006
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,375",2006
+Yorkshire and The Humber,Kirklees,"1,808",2006
+Yorkshire and The Humber,Leeds,"3,884",2006
+Yorkshire and The Humber,North East Lincolnshire,943,2006
+Yorkshire and The Humber,North Lincolnshire,"1,442",2006
+Yorkshire and The Humber,Richmondshire,231,2006
+Yorkshire and The Humber,Rotherham,"1,225",2006
+Yorkshire and The Humber,Ryedale,327,2006
+Yorkshire and The Humber,Scarborough,576,2006
+Yorkshire and The Humber,Selby,605,2006
+Yorkshire and The Humber,Sheffield,"2,678",2006
+Yorkshire and The Humber,Wakefield,"1,755",2006
+Yorkshire and The Humber,York,858,2006
+East Midlands,Amber Valley,682,2006
+East Midlands,Ashfield,592,2006
+East Midlands,Bassetlaw,655,2006
+East Midlands,Blaby,391,2006
+East Midlands,Bolsover,364,2006
+East Midlands,Boston,359,2006
+East Midlands,Broxtowe,396,2006
+East Midlands,Charnwood,812,2006
+East Midlands,Chesterfield,532,2006
+East Midlands,Corby,526,2006
+East Midlands,Daventry,464,2006
+East Midlands,Derby,"1,202",2006
+East Midlands,Derbyshire Dales,486,2006
+East Midlands,East Lindsey,746,2006
+East Midlands,East Northamptonshire,364,2006
+East Midlands,Erewash,529,2006
+East Midlands,Gedling,402,2006
+East Midlands,Harborough,406,2006
+East Midlands,High Peak,838,2006
+East Midlands,Hinckley and Bosworth,524,2006
+East Midlands,Kettering,441,2006
+East Midlands,Leicester,"1,624",2006
+East Midlands,Lincoln,491,2006
+East Midlands,Mansfield,448,2006
+East Midlands,Melton,288,2006
+East Midlands,Newark and Sherwood,645,2006
+East Midlands,North East Derbyshire,451,2006
+East Midlands,North Kesteven,499,2006
+East Midlands,North West Leicestershire,609,2006
+East Midlands,Northampton,"1,134",2006
+East Midlands,Nottingham,"1,530",2006
+East Midlands,Oadby and Wigston,226,2006
+East Midlands,Rushcliffe,423,2006
+East Midlands,Rutland,392,2006
+East Midlands,South Derbyshire,524,2006
+East Midlands,South Holland,506,2006
+East Midlands,South Kesteven,752,2006
+East Midlands,South Northamptonshire,437,2006
+East Midlands,Wellingborough,399,2006
+East Midlands,West Lindsey,409,2006
+West Midlands,Birmingham,"4,897",2006
+West Midlands,Bridgnorth,378,2006
+West Midlands,Bromsgrove,350,2006
+West Midlands,Cannock Chase,391,2006
+West Midlands,Coventry,"1,609",2006
+West Midlands,Dudley,"1,272",2006
+West Midlands,East Staffordshire,757,2006
+West Midlands,"Herefordshire, County of","1,050",2006
+West Midlands,Lichfield,482,2006
+West Midlands,Malvern Hills,322,2006
+West Midlands,Newcastle-under-Lyme,470,2006
+West Midlands,North Shropshire,343,2006
+West Midlands,North Warwickshire,548,2006
+West Midlands,Nuneaton and Bedworth,500,2006
+West Midlands,Oswestry,198,2006
+West Midlands,Redditch,428,2006
+West Midlands,Rugby,706,2006
+West Midlands,Sandwell,"1,566",2006
+West Midlands,Shrewsbury and Atcham,491,2006
+West Midlands,Solihull,"1,074",2006
+West Midlands,South Shropshire,218,2006
+West Midlands,South Staffordshire,434,2006
+West Midlands,Stafford,620,2006
+West Midlands,Staffordshire Moorlands,572,2006
+West Midlands,Stoke-on-Trent,"1,136",2006
+West Midlands,Stratford-on-Avon,658,2006
+West Midlands,Tamworth,374,2006
+West Midlands,Telford and Wrekin,"1,009",2006
+West Midlands,Walsall,"1,219",2006
+West Midlands,Warwick,837,2006
+West Midlands,Wolverhampton,"1,166",2006
+West Midlands,Worcester,488,2006
+West Midlands,Wychavon,717,2006
+West Midlands,Wyre Forest,454,2006
+East,Babergh,451,2006
+East,Basildon,884,2006
+East,Bedford,734,2006
+East,Braintree,615,2006
+East,Breckland,669,2006
+East,Brentwood,337,2006
+East,Broadland,478,2006
+East,Broxbourne,396,2006
+East,Cambridge,723,2006
+East,Castle Point,281,2006
+East,Chelmsford,759,2006
+East,Colchester,768,2006
+East,Dacorum,603,2006
+East,East Cambridgeshire,383,2006
+East,East Hertfordshire,663,2006
+East,Epping Forest,515,2006
+East,Fenland,547,2006
+East,Forest Heath,442,2006
+East,Great Yarmouth,439,2006
+East,Harlow,521,2006
+East,Hertsmere,522,2006
+East,Huntingdonshire,981,2006
+East,Ipswich,648,2006
+East,King's Lynn and West Norfolk,858,2006
+East,Luton,836,2006
+East,Maldon,347,2006
+East,Mid Bedfordshire,568,2006
+East,Mid Suffolk,512,2006
+East,North Hertfordshire,560,2006
+East,North Norfolk,574,2006
+East,Norwich,771,2006
+East,Peterborough,963,2006
+East,Rochford,320,2006
+East,South Bedfordshire,498,2006
+East,South Cambridgeshire,827,2006
+East,South Norfolk,581,2006
+East,Southend-on-Sea,730,2006
+East,St Albans,567,2006
+East,St Edmundsbury,614,2006
+East,Stevenage,483,2006
+East,Suffolk Coastal,638,2006
+East,Tendring,569,2006
+East,Three Rivers,374,2006
+East,Thurrock,"1,099",2006
+East,Uttlesford,425,2006
+East,Watford,476,2006
+East,Waveney,649,2006
+East,Welwyn Hatfield,603,2006
+London,Barking and Dagenham,785,2006
+London,Barnet,"1,251",2006
+London,Bexley,863,2006
+London,Brent,"1,158",2006
+London,Bromley,"1,134",2006
+London,Camden,"1,963",2006
+London,City of London,"2,742",2006
+London,Croydon,"1,394",2006
+London,Ealing,"1,368",2006
+London,Enfield,"1,381",2006
+London,Greenwich,831,2006
+London,Hackney,780,2006
+London,Hammersmith and Fulham,"1,023",2006
+London,Haringey,813,2006
+London,Harrow,670,2006
+London,Havering,889,2006
+London,Hillingdon,"1,788",2006
+London,Hounslow,"1,378",2006
+London,Islington,"1,265",2006
+London,Kensington and Chelsea,"1,513",2006
+London,Kingston upon Thames,638,2006
+London,Lambeth,"1,155",2006
+London,Lewisham,874,2006
+London,Merton,680,2006
+London,Newham,"1,244",2006
+London,Redbridge,734,2006
+London,Richmond upon Thames,789,2006
+London,Southwark,"1,830",2006
+London,Sutton,673,2006
+London,Tower Hamlets,"3,080",2006
+London,Waltham Forest,760,2006
+London,Wandsworth,"1,188",2006
+London,Westminster,"4,210",2006
+South East,Adur,238,2006
+South East,Arun,555,2006
+South East,Ashford,521,2006
+South East,Aylesbury Vale,727,2006
+South East,Basingstoke and Deane,898,2006
+South East,Bracknell Forest,655,2006
+South East,Brighton and Hove,"1,102",2006
+South East,Canterbury,585,2006
+South East,Cherwell,823,2006
+South East,Chichester,577,2006
+South East,Chiltern,379,2006
+South East,Crawley,712,2006
+South East,Dartford,520,2006
+South East,Dover,442,2006
+South East,East Hampshire,494,2006
+South East,Eastbourne,405,2006
+South East,Eastleigh,566,2006
+South East,Elmbridge,590,2006
+South East,Epsom and Ewell,250,2006
+South East,Fareham,533,2006
+South East,Gosport,325,2006
+South East,Gravesham,653,2006
+South East,Guildford,660,2006
+South East,Hart,372,2006
+South East,Hastings,357,2006
+South East,Havant,485,2006
+South East,Horsham,610,2006
+South East,Isle of Wight,602,2006
+South East,Lewes,386,2006
+South East,Maidstone,729,2006
+South East,Medway,985,2006
+South East,Mid Sussex,531,2006
+South East,Milton Keynes,"1,552",2006
+South East,Mole Valley,453,2006
+South East,New Forest,814,2006
+South East,Oxford,917,2006
+South East,Portsmouth,"1,040",2006
+South East,Reading,935,2006
+South East,Reigate and Banstead,627,2006
+South East,Rother,390,2006
+South East,Runnymede,441,2006
+South East,Rushmoor,502,2006
+South East,Sevenoaks,507,2006
+South East,Shepway,684,2006
+South East,Slough,546,2006
+South East,South Bucks,389,2006
+South East,South Oxfordshire,908,2006
+South East,Southampton,"1,201",2006
+South East,Spelthorne,471,2006
+South East,Surrey Heath,406,2006
+South East,Swale,"1,037",2006
+South East,Tandridge,325,2006
+South East,Test Valley,578,2006
+South East,Thanet,500,2006
+South East,Tonbridge and Malling,536,2006
+South East,Tunbridge Wells,540,2006
+South East,Vale of White Horse,718,2006
+South East,Waverley,482,2006
+South East,Wealden,554,2006
+South East,West Berkshire,954,2006
+South East,West Oxfordshire,531,2006
+South East,Winchester,642,2006
+South East,Windsor and Maidenhead,778,2006
+South East,Woking,510,2006
+South East,Wokingham,712,2006
+South East,Worthing,452,2006
+South East,Wycombe,772,2006
+South West,Bath and North East Somerset,788,2006
+South West,Bournemouth,793,2006
+South West,"Bristol, City of","2,004",2006
+South West,Caradon,384,2006
+South West,Carrick,451,2006
+South West,Cheltenham,594,2006
+South West,Christchurch,218,2006
+South West,Cotswold,445,2006
+South West,East Devon,529,2006
+South West,East Dorset,347,2006
+South West,Exeter,593,2006
+South West,Forest of Dean,471,2006
+South West,Gloucester,639,2006
+South West,Isles of Scilly,16,2006
+South West,Kennet,429,2006
+South West,Kerrier,463,2006
+South West,Mendip,592,2006
+South West,Mid Devon,383,2006
+South West,North Cornwall,558,2006
+South West,North Devon,504,2006
+South West,North Dorset,301,2006
+South West,North Somerset,863,2006
+South West,North Wiltshire,683,2006
+South West,Penwith,298,2006
+South West,Plymouth,"1,210",2006
+South West,Poole,750,2006
+South West,Purbeck,351,2006
+South West,Restormel,807,2006
+South West,Salisbury,580,2006
+South West,Sedgemoor,629,2006
+South West,South Gloucestershire,"1,572",2006
+South West,South Hams,555,2006
+South West,South Somerset,836,2006
+South West,Stroud,587,2006
+South West,Swindon,"1,294",2006
+South West,Taunton Deane,493,2006
+South West,Teignbridge,523,2006
+South West,Tewkesbury,566,2006
+South West,Torbay,553,2006
+South West,Torridge,289,2006
+South West,West Devon,270,2006
+South West,West Dorset,507,2006
+South West,West Somerset,247,2006
+South West,West Wiltshire,758,2006
+South West,Weymouth and Portland,244,2006
+North East,Alnwick,151,2007
+North East,Berwick-upon-Tweed,179,2007
+North East,Blyth Valley,309,2007
+North East,Castle Morpeth,213,2007
+North East,Chester-le-Street,160,2007
+North East,Darlington,492,2007
+North East,Derwentside,326,2007
+North East,Durham,425,2007
+North East,Easington,423,2007
+North East,Gateshead,"1,000",2007
+North East,Hartlepool,506,2007
+North East,Middlesbrough,841,2007
+North East,Newcastle upon Tyne,"1,385",2007
+North East,North Tyneside,958,2007
+North East,Redcar and Cleveland,"1,214",2007
+North East,Sedgefield,461,2007
+North East,South Tyneside,482,2007
+North East,Stockton-on-Tees,"1,193",2007
+North East,Sunderland,"1,356",2007
+North East,Teesdale,131,2007
+North East,Tynedale,527,2007
+North East,Wansbeck,353,2007
+North East,Wear Valley,256,2007
+North West,Allerdale,709,2007
+North West,Barrow-in-Furness,428,2007
+North West,Blackburn with Darwen,742,2007
+North West,Blackpool,648,2007
+North West,Bolton,"1,110",2007
+North West,Burnley,384,2007
+North West,Bury,756,2007
+North West,Carlisle,641,2007
+North West,Chester,958,2007
+North West,Chorley,411,2007
+North West,Congleton,439,2007
+North West,Copeland,263,2007
+North West,Crewe and Nantwich,672,2007
+North West,Eden,436,2007
+North West,Ellesmere Port & Neston,898,2007
+North West,Fylde,436,2007
+North West,Halton,806,2007
+North West,Hyndburn,338,2007
+North West,Knowsley,863,2007
+North West,Lancaster,566,2007
+North West,Liverpool,"2,198",2007
+North West,Macclesfield,881,2007
+North West,Manchester,"2,728",2007
+North West,Oldham,854,2007
+North West,Pendle,406,2007
+North West,Preston,699,2007
+North West,Ribble Valley,457,2007
+North West,Rochdale,903,2007
+North West,Rossendale,390,2007
+North West,Salford,"1,098",2007
+North West,Sefton,"1,104",2007
+North West,South Lakeland,603,2007
+North West,South Ribble,461,2007
+North West,St. Helens,861,2007
+North West,Stockport,"1,240",2007
+North West,Tameside,919,2007
+North West,Trafford,"1,679",2007
+North West,Vale Royal,604,2007
+North West,Warrington,"1,070",2007
+North West,West Lancashire,548,2007
+North West,Wigan,"1,244",2007
+North West,Wirral,"1,358",2007
+North West,Wyre,544,2007
+Yorkshire and The Humber,Barnsley,903,2007
+Yorkshire and The Humber,Bradford,"2,037",2007
+Yorkshire and The Humber,Calderdale,936,2007
+Yorkshire and The Humber,Craven,273,2007
+Yorkshire and The Humber,Doncaster,"1,408",2007
+Yorkshire and The Humber,East Riding of Yorkshire,"1,734",2007
+Yorkshire and The Humber,Hambleton,516,2007
+Yorkshire and The Humber,Harrogate,834,2007
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,289",2007
+Yorkshire and The Humber,Kirklees,"1,703",2007
+Yorkshire and The Humber,Leeds,"3,761",2007
+Yorkshire and The Humber,North East Lincolnshire,883,2007
+Yorkshire and The Humber,North Lincolnshire,"1,249",2007
+Yorkshire and The Humber,Richmondshire,235,2007
+Yorkshire and The Humber,Rotherham,"1,157",2007
+Yorkshire and The Humber,Ryedale,319,2007
+Yorkshire and The Humber,Scarborough,559,2007
+Yorkshire and The Humber,Selby,588,2007
+Yorkshire and The Humber,Sheffield,"2,615",2007
+Yorkshire and The Humber,Wakefield,"1,641",2007
+Yorkshire and The Humber,York,819,2007
+East Midlands,Amber Valley,632,2007
+East Midlands,Ashfield,584,2007
+East Midlands,Bassetlaw,583,2007
+East Midlands,Blaby,392,2007
+East Midlands,Bolsover,338,2007
+East Midlands,Boston,355,2007
+East Midlands,Broxtowe,396,2007
+East Midlands,Charnwood,804,2007
+East Midlands,Chesterfield,483,2007
+East Midlands,Corby,510,2007
+East Midlands,Daventry,441,2007
+East Midlands,Derby,"1,178",2007
+East Midlands,Derbyshire Dales,485,2007
+East Midlands,East Lindsey,722,2007
+East Midlands,East Northamptonshire,356,2007
+East Midlands,Erewash,495,2007
+East Midlands,Gedling,395,2007
+East Midlands,Harborough,396,2007
+East Midlands,High Peak,810,2007
+East Midlands,Hinckley and Bosworth,484,2007
+East Midlands,Kettering,415,2007
+East Midlands,Leicester,"1,542",2007
+East Midlands,Lincoln,481,2007
+East Midlands,Mansfield,426,2007
+East Midlands,Melton,275,2007
+East Midlands,Newark and Sherwood,638,2007
+East Midlands,North East Derbyshire,435,2007
+East Midlands,North Kesteven,492,2007
+East Midlands,North West Leicestershire,563,2007
+East Midlands,Northampton,"1,084",2007
+East Midlands,Nottingham,"1,459",2007
+East Midlands,Oadby and Wigston,221,2007
+East Midlands,Rushcliffe,444,2007
+East Midlands,Rutland,405,2007
+East Midlands,South Derbyshire,503,2007
+East Midlands,South Holland,499,2007
+East Midlands,South Kesteven,707,2007
+East Midlands,South Northamptonshire,420,2007
+East Midlands,Wellingborough,395,2007
+East Midlands,West Lindsey,394,2007
+West Midlands,Birmingham,"4,734",2007
+West Midlands,Bridgnorth,574,2007
+West Midlands,Bromsgrove,345,2007
+West Midlands,Cannock Chase,392,2007
+West Midlands,Coventry,"1,470",2007
+West Midlands,Dudley,"1,209",2007
+West Midlands,East Staffordshire,737,2007
+West Midlands,"Herefordshire, County of","1,038",2007
+West Midlands,Lichfield,488,2007
+West Midlands,Malvern Hills,324,2007
+West Midlands,Newcastle-under-Lyme,469,2007
+West Midlands,North Shropshire,340,2007
+West Midlands,North Warwickshire,544,2007
+West Midlands,Nuneaton and Bedworth,502,2007
+West Midlands,Oswestry,194,2007
+West Midlands,Redditch,409,2007
+West Midlands,Rugby,717,2007
+West Midlands,Sandwell,"1,514",2007
+West Midlands,Shrewsbury and Atcham,484,2007
+West Midlands,Solihull,999,2007
+West Midlands,South Shropshire,221,2007
+West Midlands,South Staffordshire,427,2007
+West Midlands,Stafford,617,2007
+West Midlands,Staffordshire Moorlands,559,2007
+West Midlands,Stoke-on-Trent,"1,069",2007
+West Midlands,Stratford-on-Avon,642,2007
+West Midlands,Tamworth,349,2007
+West Midlands,Telford and Wrekin,947,2007
+West Midlands,Walsall,"1,169",2007
+West Midlands,Warwick,772,2007
+West Midlands,Wolverhampton,"1,129",2007
+West Midlands,Worcester,465,2007
+West Midlands,Wychavon,670,2007
+West Midlands,Wyre Forest,449,2007
+East,Babergh,427,2007
+East,Basildon,928,2007
+East,Bedford,710,2007
+East,Braintree,592,2007
+East,Breckland,681,2007
+East,Brentwood,320,2007
+East,Broadland,510,2007
+East,Broxbourne,412,2007
+East,Cambridge,716,2007
+East,Castle Point,275,2007
+East,Chelmsford,792,2007
+East,Colchester,759,2007
+East,Dacorum,586,2007
+East,East Cambridgeshire,369,2007
+East,East Hertfordshire,645,2007
+East,Epping Forest,506,2007
+East,Fenland,535,2007
+East,Forest Heath,428,2007
+East,Great Yarmouth,420,2007
+East,Harlow,500,2007
+East,Hertsmere,517,2007
+East,Huntingdonshire,939,2007
+East,Ipswich,619,2007
+East,King's Lynn and West Norfolk,874,2007
+East,Luton,792,2007
+East,Maldon,303,2007
+East,Mid Bedfordshire,570,2007
+East,Mid Suffolk,502,2007
+East,North Hertfordshire,561,2007
+East,North Norfolk,550,2007
+East,Norwich,709,2007
+East,Peterborough,973,2007
+East,Rochford,310,2007
+East,South Bedfordshire,491,2007
+East,South Cambridgeshire,824,2007
+East,South Norfolk,565,2007
+East,Southend-on-Sea,716,2007
+East,St Albans,561,2007
+East,St Edmundsbury,589,2007
+East,Stevenage,473,2007
+East,Suffolk Coastal,614,2007
+East,Tendring,551,2007
+East,Three Rivers,358,2007
+East,Thurrock,"1,091",2007
+East,Uttlesford,407,2007
+East,Watford,468,2007
+East,Waveney,626,2007
+East,Welwyn Hatfield,595,2007
+London,Barking and Dagenham,785,2007
+London,Barnet,"1,217",2007
+London,Bexley,851,2007
+London,Brent,"1,219",2007
+London,Bromley,"1,084",2007
+London,Camden,"1,930",2007
+London,City of London,"2,555",2007
+London,Croydon,"1,375",2007
+London,Ealing,"1,435",2007
+London,Enfield,"1,407",2007
+London,Greenwich,819,2007
+London,Hackney,776,2007
+London,Hammersmith and Fulham,"1,030",2007
+London,Haringey,760,2007
+London,Harrow,662,2007
+London,Havering,864,2007
+London,Hillingdon,"1,684",2007
+London,Hounslow,"1,374",2007
+London,Islington,"1,247",2007
+London,Kensington and Chelsea,"1,488",2007
+London,Kingston upon Thames,635,2007
+London,Lambeth,"1,141",2007
+London,Lewisham,870,2007
+London,Merton,666,2007
+London,Newham,"1,243",2007
+London,Redbridge,729,2007
+London,Richmond upon Thames,785,2007
+London,Southwark,"1,783",2007
+London,Sutton,672,2007
+London,Tower Hamlets,"3,090",2007
+London,Waltham Forest,741,2007
+London,Wandsworth,"1,160",2007
+London,Westminster,"4,119",2007
+South East,Adur,240,2007
+South East,Arun,540,2007
+South East,Ashford,529,2007
+South East,Aylesbury Vale,698,2007
+South East,Basingstoke and Deane,883,2007
+South East,Bracknell Forest,643,2007
+South East,Brighton and Hove,"1,101",2007
+South East,Canterbury,584,2007
+South East,Cherwell,799,2007
+South East,Chichester,552,2007
+South East,Chiltern,377,2007
+South East,Crawley,697,2007
+South East,Dartford,490,2007
+South East,Dover,444,2007
+South East,East Hampshire,480,2007
+South East,Eastbourne,404,2007
+South East,Eastleigh,547,2007
+South East,Elmbridge,586,2007
+South East,Epsom and Ewell,251,2007
+South East,Fareham,518,2007
+South East,Gosport,313,2007
+South East,Gravesham,587,2007
+South East,Guildford,658,2007
+South East,Hart,363,2007
+South East,Hastings,344,2007
+South East,Havant,469,2007
+South East,Horsham,601,2007
+South East,Isle of Wight,576,2007
+South East,Lewes,358,2007
+South East,Maidstone,736,2007
+South East,Medway,967,2007
+South East,Mid Sussex,532,2007
+South East,Milton Keynes,"1,521",2007
+South East,Mole Valley,463,2007
+South East,New Forest,799,2007
+South East,Oxford,818,2007
+South East,Portsmouth,989,2007
+South East,Reading,876,2007
+South East,Reigate and Banstead,625,2007
+South East,Rother,393,2007
+South East,Runnymede,442,2007
+South East,Rushmoor,484,2007
+South East,Sevenoaks,504,2007
+South East,Shepway,651,2007
+South East,Slough,531,2007
+South East,South Bucks,360,2007
+South East,South Oxfordshire,873,2007
+South East,Southampton,"1,124",2007
+South East,Spelthorne,475,2007
+South East,Surrey Heath,407,2007
+South East,Swale,"1,126",2007
+South East,Tandridge,324,2007
+South East,Test Valley,576,2007
+South East,Thanet,508,2007
+South East,Tonbridge and Malling,533,2007
+South East,Tunbridge Wells,525,2007
+South East,Vale of White Horse,675,2007
+South East,Waverley,466,2007
+South East,Wealden,561,2007
+South East,West Berkshire,966,2007
+South East,West Oxfordshire,537,2007
+South East,Winchester,641,2007
+South East,Windsor and Maidenhead,744,2007
+South East,Woking,505,2007
+South East,Wokingham,710,2007
+South East,Worthing,456,2007
+South East,Wycombe,730,2007
+South West,Bath and North East Somerset,763,2007
+South West,Bournemouth,766,2007
+South West,"Bristol, City of","1,926",2007
+South West,Caradon,375,2007
+South West,Carrick,442,2007
+South West,Cheltenham,577,2007
+South West,Christchurch,209,2007
+South West,Cotswold,454,2007
+South West,East Devon,522,2007
+South West,East Dorset,331,2007
+South West,Exeter,576,2007
+South West,Forest of Dean,468,2007
+South West,Gloucester,619,2007
+South West,Isles of Scilly,17,2007
+South West,Kennet,427,2007
+South West,Kerrier,456,2007
+South West,Mendip,586,2007
+South West,Mid Devon,381,2007
+South West,North Cornwall,553,2007
+South West,North Devon,490,2007
+South West,North Dorset,284,2007
+South West,North Somerset,843,2007
+South West,North Wiltshire,675,2007
+South West,Penwith,292,2007
+South West,Plymouth,"1,178",2007
+South West,Poole,748,2007
+South West,Purbeck,344,2007
+South West,Restormel,757,2007
+South West,Salisbury,540,2007
+South West,Sedgemoor,616,2007
+South West,South Gloucestershire,"1,553",2007
+South West,South Hams,560,2007
+South West,South Somerset,811,2007
+South West,Stroud,578,2007
+South West,Swindon,"1,257",2007
+South West,Taunton Deane,483,2007
+South West,Teignbridge,509,2007
+South West,Tewkesbury,516,2007
+South West,Torbay,532,2007
+South West,Torridge,282,2007
+South West,West Devon,264,2007
+South West,West Dorset,497,2007
+South West,West Somerset,240,2007
+South West,West Wiltshire,739,2007
+South West,Weymouth and Portland,232,2007
+North East,Alnwick,152,2008
+North East,Berwick-upon-Tweed,179,2008
+North East,Blyth Valley,308,2008
+North East,Castle Morpeth,208,2008
+North East,Chester-le-Street,154,2008
+North East,Darlington,481,2008
+North East,Derwentside,329,2008
+North East,Durham,411,2008
+North East,Easington,417,2008
+North East,Gateshead,956,2008
+North East,Hartlepool,500,2008
+North East,Middlesbrough,730,2008
+North East,Newcastle upon Tyne,"1,366",2008
+North East,North Tyneside,894,2008
+North East,Redcar and Cleveland,"1,165",2008
+North East,Sedgefield,459,2008
+North East,South Tyneside,474,2008
+North East,Stockton-on-Tees,"1,163",2008
+North East,Sunderland,"1,287",2008
+North East,Teesdale,128,2008
+North East,Tynedale,508,2008
+North East,Wansbeck,253,2008
+North East,Wear Valley,237,2008
+North West,Allerdale,672,2008
+North West,Barrow-in-Furness,542,2008
+North West,Blackburn with Darwen,731,2008
+North West,Blackpool,633,2008
+North West,Bolton,"1,083",2008
+North West,Burnley,369,2008
+North West,Bury,738,2008
+North West,Carlisle,628,2008
+North West,Chester,941,2008
+North West,Chorley,393,2008
+North West,Congleton,422,2008
+North West,Copeland,249,2008
+North West,Crewe and Nantwich,640,2008
+North West,Eden,411,2008
+North West,Ellesmere Port & Neston,962,2008
+North West,Fylde,486,2008
+North West,Halton,763,2008
+North West,Hyndburn,328,2008
+North West,Knowsley,756,2008
+North West,Lancaster,583,2008
+North West,Liverpool,"2,063",2008
+North West,Macclesfield,849,2008
+North West,Manchester,"2,760",2008
+North West,Oldham,834,2008
+North West,Pendle,397,2008
+North West,Preston,697,2008
+North West,Ribble Valley,436,2008
+North West,Rochdale,880,2008
+North West,Rossendale,380,2008
+North West,Salford,"1,097",2008
+North West,Sefton,"1,024",2008
+North West,South Lakeland,590,2008
+North West,South Ribble,481,2008
+North West,St. Helens,798,2008
+North West,Stockport,"1,235",2008
+North West,Tameside,906,2008
+North West,Trafford,"1,672",2008
+North West,Vale Royal,573,2008
+North West,Warrington,"1,006",2008
+North West,West Lancashire,549,2008
+North West,Wigan,"1,229",2008
+North West,Wirral,"1,291",2008
+North West,Wyre,495,2008
+Yorkshire and The Humber,Barnsley,927,2008
+Yorkshire and The Humber,Bradford,"2,009",2008
+Yorkshire and The Humber,Calderdale,911,2008
+Yorkshire and The Humber,Craven,271,2008
+Yorkshire and The Humber,Doncaster,"1,409",2008
+Yorkshire and The Humber,East Riding of Yorkshire,"1,649",2008
+Yorkshire and The Humber,Hambleton,502,2008
+Yorkshire and The Humber,Harrogate,830,2008
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,256",2008
+Yorkshire and The Humber,Kirklees,"1,656",2008
+Yorkshire and The Humber,Leeds,"3,708",2008
+Yorkshire and The Humber,North East Lincolnshire,913,2008
+Yorkshire and The Humber,North Lincolnshire,"1,395",2008
+Yorkshire and The Humber,Richmondshire,233,2008
+Yorkshire and The Humber,Rotherham,"1,122",2008
+Yorkshire and The Humber,Ryedale,308,2008
+Yorkshire and The Humber,Scarborough,540,2008
+Yorkshire and The Humber,Selby,561,2008
+Yorkshire and The Humber,Sheffield,"2,608",2008
+Yorkshire and The Humber,Wakefield,"1,645",2008
+Yorkshire and The Humber,York,799,2008
+East Midlands,Amber Valley,608,2008
+East Midlands,Ashfield,605,2008
+East Midlands,Bassetlaw,575,2008
+East Midlands,Blaby,395,2008
+East Midlands,Bolsover,341,2008
+East Midlands,Boston,349,2008
+East Midlands,Broxtowe,386,2008
+East Midlands,Charnwood,788,2008
+East Midlands,Chesterfield,439,2008
+East Midlands,Corby,490,2008
+East Midlands,Daventry,448,2008
+East Midlands,Derby,"1,162",2008
+East Midlands,Derbyshire Dales,469,2008
+East Midlands,East Lindsey,699,2008
+East Midlands,East Northamptonshire,344,2008
+East Midlands,Erewash,474,2008
+East Midlands,Gedling,387,2008
+East Midlands,Harborough,393,2008
+East Midlands,High Peak,766,2008
+East Midlands,Hinckley and Bosworth,460,2008
+East Midlands,Kettering,414,2008
+East Midlands,Leicester,"1,502",2008
+East Midlands,Lincoln,457,2008
+East Midlands,Mansfield,435,2008
+East Midlands,Melton,287,2008
+East Midlands,Newark and Sherwood,633,2008
+East Midlands,North East Derbyshire,427,2008
+East Midlands,North Kesteven,493,2008
+East Midlands,North West Leicestershire,575,2008
+East Midlands,Northampton,"1,066",2008
+East Midlands,Nottingham,"1,428",2008
+East Midlands,Oadby and Wigston,219,2008
+East Midlands,Rushcliffe,436,2008
+East Midlands,Rutland,395,2008
+East Midlands,South Derbyshire,518,2008
+East Midlands,South Holland,508,2008
+East Midlands,South Kesteven,702,2008
+East Midlands,South Northamptonshire,425,2008
+East Midlands,Wellingborough,391,2008
+East Midlands,West Lindsey,390,2008
+West Midlands,Birmingham,"4,769",2008
+West Midlands,Bridgnorth,349,2008
+West Midlands,Bromsgrove,337,2008
+West Midlands,Cannock Chase,353,2008
+West Midlands,Coventry,"1,414",2008
+West Midlands,Dudley,"1,174",2008
+West Midlands,East Staffordshire,722,2008
+West Midlands,"Herefordshire, County of","1,005",2008
+West Midlands,Lichfield,470,2008
+West Midlands,Malvern Hills,311,2008
+West Midlands,Newcastle-under-Lyme,477,2008
+West Midlands,North Shropshire,330,2008
+West Midlands,North Warwickshire,531,2008
+West Midlands,Nuneaton and Bedworth,479,2008
+West Midlands,Oswestry,183,2008
+West Midlands,Redditch,409,2008
+West Midlands,Rugby,691,2008
+West Midlands,Sandwell,"1,455",2008
+West Midlands,Shrewsbury and Atcham,472,2008
+West Midlands,Solihull,936,2008
+West Midlands,South Shropshire,208,2008
+West Midlands,South Staffordshire,394,2008
+West Midlands,Stafford,610,2008
+West Midlands,Staffordshire Moorlands,503,2008
+West Midlands,Stoke-on-Trent,944,2008
+West Midlands,Stratford-on-Avon,616,2008
+West Midlands,Tamworth,330,2008
+West Midlands,Telford and Wrekin,919,2008
+West Midlands,Walsall,"1,110",2008
+West Midlands,Warwick,738,2008
+West Midlands,Wolverhampton,"1,084",2008
+West Midlands,Worcester,427,2008
+West Midlands,Wychavon,684,2008
+West Midlands,Wyre Forest,417,2008
+East,Babergh,433,2008
+East,Basildon,838,2008
+East,Bedford,717,2008
+East,Braintree,584,2008
+East,Breckland,611,2008
+East,Brentwood,318,2008
+East,Broadland,503,2008
+East,Broxbourne,420,2008
+East,Cambridge,731,2008
+East,Castle Point,265,2008
+East,Chelmsford,771,2008
+East,Colchester,721,2008
+East,Dacorum,585,2008
+East,East Cambridgeshire,362,2008
+East,East Hertfordshire,625,2008
+East,Epping Forest,497,2008
+East,Fenland,515,2008
+East,Forest Heath,408,2008
+East,Great Yarmouth,406,2008
+East,Harlow,488,2008
+East,Hertsmere,510,2008
+East,Huntingdonshire,894,2008
+East,Ipswich,595,2008
+East,King's Lynn and West Norfolk,811,2008
+East,Luton,778,2008
+East,Maldon,298,2008
+East,Mid Bedfordshire,553,2008
+East,Mid Suffolk,490,2008
+East,North Hertfordshire,533,2008
+East,North Norfolk,536,2008
+East,Norwich,668,2008
+East,Peterborough,962,2008
+East,Rochford,307,2008
+East,South Bedfordshire,517,2008
+East,South Cambridgeshire,814,2008
+East,South Norfolk,568,2008
+East,Southend-on-Sea,670,2008
+East,St Albans,545,2008
+East,St Edmundsbury,576,2008
+East,Stevenage,456,2008
+East,Suffolk Coastal,606,2008
+East,Tendring,533,2008
+East,Three Rivers,340,2008
+East,Thurrock,"1,087",2008
+East,Uttlesford,409,2008
+East,Watford,495,2008
+East,Waveney,593,2008
+East,Welwyn Hatfield,582,2008
+London,Barking and Dagenham,753,2008
+London,Barnet,"1,211",2008
+London,Bexley,833,2008
+London,Brent,"1,283",2008
+London,Bromley,"1,048",2008
+London,Camden,"1,822",2008
+London,City of London,"2,584",2008
+London,Croydon,"1,365",2008
+London,Ealing,"1,404",2008
+London,Enfield,"1,113",2008
+London,Greenwich,825,2008
+London,Hackney,780,2008
+London,Hammersmith and Fulham,"1,008",2008
+London,Haringey,819,2008
+London,Harrow,638,2008
+London,Havering,849,2008
+London,Hillingdon,"1,807",2008
+London,Hounslow,"1,287",2008
+London,Islington,"1,294",2008
+London,Kensington and Chelsea,"1,483",2008
+London,Kingston upon Thames,614,2008
+London,Lambeth,"1,144",2008
+London,Lewisham,789,2008
+London,Merton,818,2008
+London,Newham,"1,248",2008
+London,Redbridge,711,2008
+London,Richmond upon Thames,760,2008
+London,Southwark,"1,750",2008
+London,Sutton,686,2008
+London,Tower Hamlets,"3,176",2008
+London,Waltham Forest,790,2008
+London,Wandsworth,"1,006",2008
+London,Westminster,"4,115",2008
+South East,Adur,231,2008
+South East,Arun,532,2008
+South East,Ashford,525,2008
+South East,Aylesbury Vale,675,2008
+South East,Basingstoke and Deane,909,2008
+South East,Bracknell Forest,627,2008
+South East,Brighton and Hove,"1,074",2008
+South East,Canterbury,583,2008
+South East,Cherwell,773,2008
+South East,Chichester,568,2008
+South East,Chiltern,359,2008
+South East,Crawley,705,2008
+South East,Dartford,498,2008
+South East,Dover,433,2008
+South East,East Hampshire,484,2008
+South East,Eastbourne,395,2008
+South East,Eastleigh,553,2008
+South East,Elmbridge,595,2008
+South East,Epsom and Ewell,248,2008
+South East,Fareham,529,2008
+South East,Gosport,311,2008
+South East,Gravesham,472,2008
+South East,Guildford,655,2008
+South East,Hart,368,2008
+South East,Hastings,335,2008
+South East,Havant,455,2008
+South East,Horsham,588,2008
+South East,Isle of Wight,588,2008
+South East,Lewes,349,2008
+South East,Maidstone,711,2008
+South East,Medway,938,2008
+South East,Mid Sussex,524,2008
+South East,Milton Keynes,"1,535",2008
+South East,Mole Valley,447,2008
+South East,New Forest,805,2008
+South East,Oxford,918,2008
+South East,Portsmouth,"1,013",2008
+South East,Reading,881,2008
+South East,Reigate and Banstead,606,2008
+South East,Rother,374,2008
+South East,Runnymede,448,2008
+South East,Rushmoor,463,2008
+South East,Sevenoaks,503,2008
+South East,Shepway,515,2008
+South East,Slough,564,2008
+South East,South Bucks,355,2008
+South East,South Oxfordshire,877,2008
+South East,Southampton,"1,144",2008
+South East,Spelthorne,531,2008
+South East,Surrey Heath,448,2008
+South East,Swale,"1,024",2008
+South East,Tandridge,307,2008
+South East,Test Valley,559,2008
+South East,Thanet,502,2008
+South East,Tonbridge and Malling,552,2008
+South East,Tunbridge Wells,520,2008
+South East,Vale of White Horse,722,2008
+South East,Waverley,468,2008
+South East,Wealden,545,2008
+South East,West Berkshire,939,2008
+South East,West Oxfordshire,525,2008
+South East,Winchester,653,2008
+South East,Windsor and Maidenhead,768,2008
+South East,Woking,492,2008
+South East,Wokingham,697,2008
+South East,Worthing,437,2008
+South East,Wycombe,729,2008
+South West,Bath and North East Somerset,741,2008
+South West,Bournemouth,772,2008
+South West,"Bristol, City of","1,878",2008
+South West,Caradon,363,2008
+South West,Carrick,435,2008
+South West,Cheltenham,592,2008
+South West,Christchurch,214,2008
+South West,Cotswold,430,2008
+South West,East Devon,510,2008
+South West,East Dorset,332,2008
+South West,Exeter,590,2008
+South West,Forest of Dean,458,2008
+South West,Gloucester,611,2008
+South West,Isles of Scilly,16,2008
+South West,Kennet,425,2008
+South West,Kerrier,446,2008
+South West,Mendip,565,2008
+South West,Mid Devon,375,2008
+South West,North Cornwall,516,2008
+South West,North Devon,474,2008
+South West,North Dorset,288,2008
+South West,North Somerset,818,2008
+South West,North Wiltshire,656,2008
+South West,Penwith,279,2008
+South West,Plymouth,"1,145",2008
+South West,Poole,750,2008
+South West,Purbeck,360,2008
+South West,Restormel,693,2008
+South West,Salisbury,566,2008
+South West,Sedgemoor,618,2008
+South West,South Gloucestershire,"1,258",2008
+South West,South Hams,527,2008
+South West,South Somerset,819,2008
+South West,Stroud,570,2008
+South West,Swindon,"1,289",2008
+South West,Taunton Deane,484,2008
+South West,Teignbridge,501,2008
+South West,Tewkesbury,483,2008
+South West,Torbay,513,2008
+South West,Torridge,276,2008
+South West,West Devon,257,2008
+South West,West Dorset,489,2008
+South West,West Somerset,250,2008
+South West,West Wiltshire,701,2008
+South West,Weymouth and Portland,234,2008
+North East,Alnwick,152,2009
+North East,Berwick-upon-Tweed,176,2009
+North East,Blyth Valley,299,2009
+North East,Castle Morpeth,193,2009
+North East,Chester-le-Street,148,2009
+North East,Darlington,473,2009
+North East,Derwentside,317,2009
+North East,Durham,400,2009
+North East,Easington,395,2009
+North East,Gateshead,893,2009
+North East,Hartlepool,482,2009
+North East,Middlesbrough,618,2009
+North East,Newcastle upon Tyne,"1,345",2009
+North East,North Tyneside,820,2009
+North East,Redcar and Cleveland,"1,008",2009
+North East,Sedgefield,423,2009
+North East,South Tyneside,474,2009
+North East,Stockton-on-Tees,"1,139",2009
+North East,Sunderland,"1,243",2009
+North East,Teesdale,122,2009
+North East,Tynedale,508,2009
+North East,Wansbeck,183,2009
+North East,Wear Valley,222,2009
+North West,Allerdale,656,2009
+North West,Barrow-in-Furness,331,2009
+North West,Blackburn with Darwen,646,2009
+North West,Blackpool,607,2009
+North West,Bolton,"1,016",2009
+North West,Burnley,342,2009
+North West,Bury,679,2009
+North West,Carlisle,597,2009
+North West,Chester,910,2009
+North West,Chorley,383,2009
+North West,Congleton,383,2009
+North West,Copeland,242,2009
+North West,Crewe and Nantwich,609,2009
+North West,Eden,371,2009
+North West,Ellesmere Port & Neston,896,2009
+North West,Fylde,424,2009
+North West,Halton,713,2009
+North West,Hyndburn,300,2009
+North West,Knowsley,778,2009
+North West,Lancaster,550,2009
+North West,Liverpool,"1,962",2009
+North West,Macclesfield,831,2009
+North West,Manchester,"2,610",2009
+North West,Oldham,804,2009
+North West,Pendle,376,2009
+North West,Preston,616,2009
+North West,Ribble Valley,405,2009
+North West,Rochdale,834,2009
+North West,Rossendale,365,2009
+North West,Salford,"1,033",2009
+North West,Sefton,"1,031",2009
+North West,South Lakeland,566,2009
+North West,South Ribble,404,2009
+North West,St. Helens,756,2009
+North West,Stockport,"1,134",2009
+North West,Tameside,823,2009
+North West,Trafford,"1,506",2009
+North West,Vale Royal,582,2009
+North West,Warrington,984,2009
+North West,West Lancashire,515,2009
+North West,Wigan,"1,178",2009
+North West,Wirral,"1,215",2009
+North West,Wyre,479,2009
+Yorkshire and The Humber,Barnsley,902,2009
+Yorkshire and The Humber,Bradford,"1,935",2009
+Yorkshire and The Humber,Calderdale,879,2009
+Yorkshire and The Humber,Craven,260,2009
+Yorkshire and The Humber,Doncaster,"1,354",2009
+Yorkshire and The Humber,East Riding of Yorkshire,"1,612",2009
+Yorkshire and The Humber,Hambleton,494,2009
+Yorkshire and The Humber,Harrogate,828,2009
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,164",2009
+Yorkshire and The Humber,Kirklees,"1,611",2009
+Yorkshire and The Humber,Leeds,"3,624",2009
+Yorkshire and The Humber,North East Lincolnshire,887,2009
+Yorkshire and The Humber,North Lincolnshire,"1,235",2009
+Yorkshire and The Humber,Richmondshire,245,2009
+Yorkshire and The Humber,Rotherham,"1,072",2009
+Yorkshire and The Humber,Ryedale,303,2009
+Yorkshire and The Humber,Scarborough,530,2009
+Yorkshire and The Humber,Selby,535,2009
+Yorkshire and The Humber,Sheffield,"2,448",2009
+Yorkshire and The Humber,Wakefield,"1,642",2009
+Yorkshire and The Humber,York,812,2009
+East Midlands,Amber Valley,600,2009
+East Midlands,Ashfield,564,2009
+East Midlands,Bassetlaw,554,2009
+East Midlands,Blaby,378,2009
+East Midlands,Bolsover,304,2009
+East Midlands,Boston,348,2009
+East Midlands,Broxtowe,374,2009
+East Midlands,Charnwood,734,2009
+East Midlands,Chesterfield,406,2009
+East Midlands,Corby,454,2009
+East Midlands,Daventry,434,2009
+East Midlands,Derby,"1,132",2009
+East Midlands,Derbyshire Dales,404,2009
+East Midlands,East Lindsey,679,2009
+East Midlands,East Northamptonshire,333,2009
+East Midlands,Erewash,473,2009
+East Midlands,Gedling,373,2009
+East Midlands,Harborough,380,2009
+East Midlands,High Peak,720,2009
+East Midlands,Hinckley and Bosworth,428,2009
+East Midlands,Kettering,397,2009
+East Midlands,Leicester,"1,454",2009
+East Midlands,Lincoln,419,2009
+East Midlands,Mansfield,426,2009
+East Midlands,Melton,275,2009
+East Midlands,Newark and Sherwood,621,2009
+East Midlands,North East Derbyshire,392,2009
+East Midlands,North Kesteven,467,2009
+East Midlands,North West Leicestershire,522,2009
+East Midlands,Northampton,973,2009
+East Midlands,Nottingham,"1,365",2009
+East Midlands,Oadby and Wigston,209,2009
+East Midlands,Rushcliffe,407,2009
+East Midlands,Rutland,347,2009
+East Midlands,South Derbyshire,496,2009
+East Midlands,South Holland,492,2009
+East Midlands,South Kesteven,674,2009
+East Midlands,South Northamptonshire,414,2009
+East Midlands,Wellingborough,380,2009
+East Midlands,West Lindsey,383,2009
+West Midlands,Birmingham,"4,436",2009
+West Midlands,Bridgnorth,342,2009
+West Midlands,Bromsgrove,325,2009
+West Midlands,Cannock Chase,340,2009
+West Midlands,Coventry,"1,326",2009
+West Midlands,Dudley,"1,101",2009
+West Midlands,East Staffordshire,647,2009
+West Midlands,"Herefordshire, County of",981,2009
+West Midlands,Lichfield,432,2009
+West Midlands,Malvern Hills,291,2009
+West Midlands,Newcastle-under-Lyme,454,2009
+West Midlands,North Shropshire,336,2009
+West Midlands,North Warwickshire,523,2009
+West Midlands,Nuneaton and Bedworth,454,2009
+West Midlands,Oswestry,177,2009
+West Midlands,Redditch,366,2009
+West Midlands,Rugby,706,2009
+West Midlands,Sandwell,"1,337",2009
+West Midlands,Shrewsbury and Atcham,466,2009
+West Midlands,Solihull,942,2009
+West Midlands,South Shropshire,187,2009
+West Midlands,South Staffordshire,424,2009
+West Midlands,Stafford,600,2009
+West Midlands,Staffordshire Moorlands,488,2009
+West Midlands,Stoke-on-Trent,995,2009
+West Midlands,Stratford-on-Avon,588,2009
+West Midlands,Tamworth,323,2009
+West Midlands,Telford and Wrekin,875,2009
+West Midlands,Walsall,977,2009
+West Midlands,Warwick,707,2009
+West Midlands,Wolverhampton,"1,029",2009
+West Midlands,Worcester,428,2009
+West Midlands,Wychavon,657,2009
+West Midlands,Wyre Forest,366,2009
+East,Babergh,415,2009
+East,Basildon,786,2009
+East,Bedford,691,2009
+East,Braintree,566,2009
+East,Breckland,602,2009
+East,Brentwood,311,2009
+East,Broadland,499,2009
+East,Broxbourne,420,2009
+East,Cambridge,714,2009
+East,Castle Point,265,2009
+East,Chelmsford,761,2009
+East,Colchester,705,2009
+East,Dacorum,583,2009
+East,East Cambridgeshire,358,2009
+East,East Hertfordshire,604,2009
+East,Epping Forest,485,2009
+East,Fenland,504,2009
+East,Forest Heath,403,2009
+East,Great Yarmouth,396,2009
+East,Harlow,455,2009
+East,Hertsmere,499,2009
+East,Huntingdonshire,860,2009
+East,Ipswich,573,2009
+East,King's Lynn and West Norfolk,904,2009
+East,Luton,739,2009
+East,Maldon,296,2009
+East,Mid Bedfordshire,530,2009
+East,Mid Suffolk,483,2009
+East,North Hertfordshire,507,2009
+East,North Norfolk,519,2009
+East,Norwich,649,2009
+East,Peterborough,929,2009
+East,Rochford,296,2009
+East,South Bedfordshire,502,2009
+East,South Cambridgeshire,779,2009
+East,South Norfolk,553,2009
+East,Southend-on-Sea,659,2009
+East,St Albans,532,2009
+East,St Edmundsbury,551,2009
+East,Stevenage,443,2009
+East,Suffolk Coastal,637,2009
+East,Tendring,519,2009
+East,Three Rivers,338,2009
+East,Thurrock,"1,043",2009
+East,Uttlesford,402,2009
+East,Watford,503,2009
+East,Waveney,587,2009
+East,Welwyn Hatfield,602,2009
+London,Barking and Dagenham,722,2009
+London,Barnet,"1,197",2009
+London,Bexley,807,2009
+London,Brent,"1,246",2009
+London,Bromley,"1,057",2009
+London,Camden,"1,787",2009
+London,City of London,"2,467",2009
+London,Croydon,"1,334",2009
+London,Ealing,"1,395",2009
+London,Enfield,"1,063",2009
+London,Greenwich,802,2009
+London,Hackney,776,2009
+London,Hammersmith and Fulham,"1,055",2009
+London,Haringey,802,2009
+London,Harrow,631,2009
+London,Havering,834,2009
+London,Hillingdon,"1,646",2009
+London,Hounslow,"1,350",2009
+London,Islington,"1,280",2009
+London,Kensington and Chelsea,"1,499",2009
+London,Kingston upon Thames,612,2009
+London,Lambeth,"1,175",2009
+London,Lewisham,791,2009
+London,Merton,813,2009
+London,Newham,"1,301",2009
+London,Redbridge,714,2009
+London,Richmond upon Thames,737,2009
+London,Southwark,"1,650",2009
+London,Sutton,717,2009
+London,Tower Hamlets,"3,032",2009
+London,Waltham Forest,750,2009
+London,Wandsworth,"1,004",2009
+London,Westminster,"4,035",2009
+South East,Adur,221,2009
+South East,Arun,524,2009
+South East,Ashford,521,2009
+South East,Aylesbury Vale,655,2009
+South East,Basingstoke and Deane,898,2009
+South East,Bracknell Forest,589,2009
+South East,Brighton and Hove,"1,054",2009
+South East,Canterbury,585,2009
+South East,Cherwell,740,2009
+South East,Chichester,585,2009
+South East,Chiltern,351,2009
+South East,Crawley,676,2009
+South East,Dartford,483,2009
+South East,Dover,405,2009
+South East,East Hampshire,488,2009
+South East,Eastbourne,390,2009
+South East,Eastleigh,541,2009
+South East,Elmbridge,579,2009
+South East,Epsom and Ewell,243,2009
+South East,Fareham,501,2009
+South East,Gosport,296,2009
+South East,Gravesham,396,2009
+South East,Guildford,649,2009
+South East,Hart,366,2009
+South East,Hastings,330,2009
+South East,Havant,431,2009
+South East,Horsham,563,2009
+South East,Isle of Wight,569,2009
+South East,Lewes,341,2009
+South East,Maidstone,698,2009
+South East,Medway,911,2009
+South East,Mid Sussex,526,2009
+South East,Milton Keynes,"1,471",2009
+South East,Mole Valley,440,2009
+South East,New Forest,792,2009
+South East,Oxford,901,2009
+South East,Portsmouth,996,2009
+South East,Reading,840,2009
+South East,Reigate and Banstead,609,2009
+South East,Rother,362,2009
+South East,Runnymede,432,2009
+South East,Rushmoor,458,2009
+South East,Sevenoaks,490,2009
+South East,Shepway,472,2009
+South East,Slough,775,2009
+South East,South Bucks,356,2009
+South East,South Oxfordshire,761,2009
+South East,Southampton,"1,084",2009
+South East,Spelthorne,582,2009
+South East,Surrey Heath,438,2009
+South East,Swale,989,2009
+South East,Tandridge,314,2009
+South East,Test Valley,548,2009
+South East,Thanet,502,2009
+South East,Tonbridge and Malling,531,2009
+South East,Tunbridge Wells,515,2009
+South East,Vale of White Horse,730,2009
+South East,Waverley,473,2009
+South East,Wealden,543,2009
+South East,West Berkshire,927,2009
+South East,West Oxfordshire,531,2009
+South East,Winchester,659,2009
+South East,Windsor and Maidenhead,762,2009
+South East,Woking,507,2009
+South East,Wokingham,707,2009
+South East,Worthing,420,2009
+South East,Wycombe,724,2009
+South West,Bath and North East Somerset,733,2009
+South West,Bournemouth,763,2009
+South West,"Bristol, City of","1,895",2009
+South West,Caradon,361,2009
+South West,Carrick,433,2009
+South West,Cheltenham,533,2009
+South West,Christchurch,212,2009
+South West,Cotswold,424,2009
+South West,East Devon,507,2009
+South West,East Dorset,324,2009
+South West,Exeter,598,2009
+South West,Forest of Dean,435,2009
+South West,Gloucester,585,2009
+South West,Isles of Scilly,16,2009
+South West,Kennet,421,2009
+South West,Kerrier,439,2009
+South West,Mendip,543,2009
+South West,Mid Devon,374,2009
+South West,North Cornwall,533,2009
+South West,North Devon,473,2009
+South West,North Dorset,287,2009
+South West,North Somerset,784,2009
+South West,North Wiltshire,635,2009
+South West,Penwith,278,2009
+South West,Plymouth,"1,117",2009
+South West,Poole,725,2009
+South West,Purbeck,350,2009
+South West,Restormel,632,2009
+South West,Salisbury,554,2009
+South West,Sedgemoor,602,2009
+South West,South Gloucestershire,"1,250",2009
+South West,South Hams,486,2009
+South West,South Somerset,806,2009
+South West,Stroud,541,2009
+South West,Swindon,"1,186",2009
+South West,Taunton Deane,469,2009
+South West,Teignbridge,504,2009
+South West,Tewkesbury,474,2009
+South West,Torbay,503,2009
+South West,Torridge,272,2009
+South West,West Devon,261,2009
+South West,West Dorset,484,2009
+South West,West Somerset,239,2009
+South West,West Wiltshire,633,2009
+South West,Weymouth and Portland,234,2009
+North East,County Durham,"2,053",2010
+North East,Darlington,461,2010
+North East,Gateshead,904,2010
+North East,Hartlepool,512,2010
+North East,Middlesbrough,581,2010
+North East,Newcastle upon Tyne,"1,373",2010
+North East,North Tyneside,833,2010
+North East,Northumberland,"1,608",2010
+North East,Redcar and Cleveland,954,2010
+North East,South Tyneside,476,2010
+North East,Stockton-on-Tees,"1,117",2010
+North East,Sunderland,"1,271",2010
+North West,Allerdale,675,2010
+North West,Barrow-in-Furness,511,2010
+North West,Blackburn with Darwen,686,2010
+North West,Blackpool,606,2010
+North West,Bolton,"1,042",2010
+North West,Burnley,357,2010
+North West,Bury,698,2010
+North West,Carlisle,568,2010
+North West,Cheshire East,"1,836",2010
+North West,Cheshire West and Chester,"2,390",2010
+North West,Chorley,386,2010
+North West,Copeland,246,2010
+North West,Eden,373,2010
+North West,Fylde,401,2010
+North West,Halton,730,2010
+North West,Hyndburn,309,2010
+North West,Knowsley,823,2010
+North West,Lancaster,581,2010
+North West,Liverpool,"2,046",2010
+North West,Manchester,"2,724",2010
+North West,Oldham,822,2010
+North West,Pendle,389,2010
+North West,Preston,677,2010
+North West,Ribble Valley,435,2010
+North West,Rochdale,849,2010
+North West,Rossendale,278,2010
+North West,Salford,"1,080",2010
+North West,Sefton,"1,033",2010
+North West,South Lakeland,610,2010
+North West,South Ribble,456,2010
+North West,St. Helens,791,2010
+North West,Stockport,"1,149",2010
+North West,Tameside,849,2010
+North West,Trafford,"1,430",2010
+North West,Warrington,"1,020",2010
+North West,West Lancashire,538,2010
+North West,Wigan,"1,206",2010
+North West,Wirral,"1,220",2010
+North West,Wyre,514,2010
+Yorkshire and The Humber,Barnsley,863,2010
+Yorkshire and The Humber,Bradford,"1,964",2010
+Yorkshire and The Humber,Calderdale,889,2010
+Yorkshire and The Humber,Craven,266,2010
+Yorkshire and The Humber,Doncaster,"1,307",2010
+Yorkshire and The Humber,East Riding of Yorkshire,"1,693",2010
+Yorkshire and The Humber,Hambleton,481,2010
+Yorkshire and The Humber,Harrogate,831,2010
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,156",2010
+Yorkshire and The Humber,Kirklees,"1,646",2010
+Yorkshire and The Humber,Leeds,"3,622",2010
+Yorkshire and The Humber,North East Lincolnshire,893,2010
+Yorkshire and The Humber,North Lincolnshire,"1,466",2010
+Yorkshire and The Humber,Richmondshire,243,2010
+Yorkshire and The Humber,Rotherham,"1,098",2010
+Yorkshire and The Humber,Ryedale,299,2010
+Yorkshire and The Humber,Scarborough,525,2010
+Yorkshire and The Humber,Selby,534,2010
+Yorkshire and The Humber,Sheffield,"2,450",2010
+Yorkshire and The Humber,Wakefield,"1,611",2010
+Yorkshire and The Humber,York,840,2010
+East Midlands,Amber Valley,590,2010
+East Midlands,Ashfield,558,2010
+East Midlands,Bassetlaw,545,2010
+East Midlands,Blaby,382,2010
+East Midlands,Bolsover,312,2010
+East Midlands,Boston,338,2010
+East Midlands,Broxtowe,362,2010
+East Midlands,Charnwood,737,2010
+East Midlands,Chesterfield,396,2010
+East Midlands,Corby,464,2010
+East Midlands,Daventry,435,2010
+East Midlands,Derby,"1,150",2010
+East Midlands,Derbyshire Dales,398,2010
+East Midlands,East Lindsey,692,2010
+East Midlands,East Northamptonshire,335,2010
+East Midlands,Erewash,464,2010
+East Midlands,Gedling,372,2010
+East Midlands,Harborough,382,2010
+East Midlands,High Peak,756,2010
+East Midlands,Hinckley and Bosworth,439,2010
+East Midlands,Kettering,408,2010
+East Midlands,Leicester,"1,413",2010
+East Midlands,Lincoln,414,2010
+East Midlands,Mansfield,413,2010
+East Midlands,Melton,265,2010
+East Midlands,Newark and Sherwood,634,2010
+East Midlands,North East Derbyshire,415,2010
+East Midlands,North Kesteven,474,2010
+East Midlands,North West Leicestershire,534,2010
+East Midlands,Northampton,966,2010
+East Midlands,Nottingham,"1,367",2010
+East Midlands,Oadby and Wigston,193,2010
+East Midlands,Rushcliffe,411,2010
+East Midlands,Rutland,362,2010
+East Midlands,South Derbyshire,509,2010
+East Midlands,South Holland,473,2010
+East Midlands,South Kesteven,674,2010
+East Midlands,South Northamptonshire,404,2010
+East Midlands,Wellingborough,365,2010
+East Midlands,West Lindsey,388,2010
+West Midlands,Birmingham,"4,452",2010
+West Midlands,Bromsgrove,329,2010
+West Midlands,Cannock Chase,346,2010
+West Midlands,Coventry,"1,344",2010
+West Midlands,Dudley,"1,147",2010
+West Midlands,East Staffordshire,668,2010
+West Midlands,"Herefordshire, County of",981,2010
+West Midlands,Lichfield,439,2010
+West Midlands,Malvern Hills,291,2010
+West Midlands,Newcastle-under-Lyme,448,2010
+West Midlands,North Warwickshire,565,2010
+West Midlands,Nuneaton and Bedworth,463,2010
+West Midlands,Redditch,374,2010
+West Midlands,Rugby,694,2010
+West Midlands,Sandwell,"1,390",2010
+West Midlands,Shropshire,"1,525",2010
+West Midlands,Solihull,953,2010
+West Midlands,South Staffordshire,410,2010
+West Midlands,Stafford,607,2010
+West Midlands,Staffordshire Moorlands,507,2010
+West Midlands,Stoke-on-Trent,952,2010
+West Midlands,Stratford-on-Avon,598,2010
+West Midlands,Tamworth,324,2010
+West Midlands,Telford and Wrekin,896,2010
+West Midlands,Walsall,"1,007",2010
+West Midlands,Warwick,719,2010
+West Midlands,Wolverhampton,"1,035",2010
+West Midlands,Worcester,428,2010
+West Midlands,Wychavon,657,2010
+West Midlands,Wyre Forest,372,2010
+East,Babergh,423,2010
+East,Basildon,807,2010
+East,Bedford,705,2010
+East,Braintree,581,2010
+East,Breckland,616,2010
+East,Brentwood,317,2010
+East,Broadland,504,2010
+East,Broxbourne,425,2010
+East,Cambridge,716,2010
+East,Castle Point,261,2010
+East,Central Bedfordshire,"1,050",2010
+East,Chelmsford,748,2010
+East,Colchester,712,2010
+East,Dacorum,592,2010
+East,East Cambridgeshire,354,2010
+East,East Hertfordshire,599,2010
+East,Epping Forest,499,2010
+East,Fenland,501,2010
+East,Forest Heath,403,2010
+East,Great Yarmouth,408,2010
+East,Harlow,446,2010
+East,Hertsmere,487,2010
+East,Huntingdonshire,855,2010
+East,Ipswich,572,2010
+East,King's Lynn and West Norfolk,"1,133",2010
+East,Luton,760,2010
+East,Maldon,304,2010
+East,Mid Suffolk,491,2010
+East,North Hertfordshire,523,2010
+East,North Norfolk,540,2010
+East,Norwich,628,2010
+East,Peterborough,954,2010
+East,Rochford,301,2010
+East,South Cambridgeshire,803,2010
+East,South Norfolk,557,2010
+East,Southend-on-Sea,643,2010
+East,St Albans,528,2010
+East,St Edmundsbury,544,2010
+East,Stevenage,447,2010
+East,Suffolk Coastal,584,2010
+East,Tendring,526,2010
+East,Three Rivers,339,2010
+East,Thurrock,"1,016",2010
+East,Uttlesford,411,2010
+East,Watford,509,2010
+East,Waveney,576,2010
+East,Welwyn Hatfield,617,2010
+London,Barking and Dagenham,757,2010
+London,Barnet,"1,213",2010
+London,Bexley,807,2010
+London,Brent,"1,086",2010
+London,Bromley,"1,047",2010
+London,Camden,"1,827",2010
+London,City of London,"2,684",2010
+London,Croydon,"1,337",2010
+London,Ealing,"1,363",2010
+London,Enfield,"1,072",2010
+London,Greenwich,807,2010
+London,Hackney,806,2010
+London,Hammersmith and Fulham,"1,047",2010
+London,Haringey,805,2010
+London,Harrow,628,2010
+London,Havering,905,2010
+London,Hillingdon,"1,584",2010
+London,Hounslow,"1,402",2010
+London,Islington,"1,312",2010
+London,Kensington and Chelsea,"1,644",2010
+London,Kingston upon Thames,604,2010
+London,Lambeth,"1,155",2010
+London,Lewisham,792,2010
+London,Merton,824,2010
+London,Newham,"1,353",2010
+London,Redbridge,713,2010
+London,Richmond upon Thames,734,2010
+London,Southwark,"1,675",2010
+London,Sutton,736,2010
+London,Tower Hamlets,"3,165",2010
+London,Waltham Forest,756,2010
+London,Wandsworth,"1,011",2010
+London,Westminster,"4,064",2010
+South East,Adur,225,2010
+South East,Arun,538,2010
+South East,Ashford,510,2010
+South East,Aylesbury Vale,661,2010
+South East,Basingstoke and Deane,891,2010
+South East,Bracknell Forest,558,2010
+South East,Brighton and Hove,"1,053",2010
+South East,Canterbury,587,2010
+South East,Cherwell,754,2010
+South East,Chichester,592,2010
+South East,Chiltern,357,2010
+South East,Crawley,663,2010
+South East,Dartford,466,2010
+South East,Dover,417,2010
+South East,East Hampshire,478,2010
+South East,Eastbourne,386,2010
+South East,Eastleigh,539,2010
+South East,Elmbridge,581,2010
+South East,Epsom and Ewell,243,2010
+South East,Fareham,510,2010
+South East,Gosport,292,2010
+South East,Gravesham,390,2010
+South East,Guildford,658,2010
+South East,Hart,364,2010
+South East,Hastings,333,2010
+South East,Havant,436,2010
+South East,Horsham,563,2010
+South East,Isle of Wight,574,2010
+South East,Lewes,345,2010
+South East,Maidstone,702,2010
+South East,Medway,908,2010
+South East,Mid Sussex,538,2010
+South East,Milton Keynes,"1,441",2010
+South East,Mole Valley,442,2010
+South East,New Forest,790,2010
+South East,Oxford,909,2010
+South East,Portsmouth,998,2010
+South East,Reading,813,2010
+South East,Reigate and Banstead,615,2010
+South East,Rother,370,2010
+South East,Runnymede,448,2010
+South East,Rushmoor,440,2010
+South East,Sevenoaks,486,2010
+South East,Shepway,469,2010
+South East,Slough,917,2010
+South East,South Bucks,367,2010
+South East,South Oxfordshire,785,2010
+South East,Southampton,"1,045",2010
+South East,Spelthorne,583,2010
+South East,Surrey Heath,437,2010
+South East,Swale,"1,027",2010
+South East,Tandridge,313,2010
+South East,Test Valley,554,2010
+South East,Thanet,574,2010
+South East,Tonbridge and Malling,554,2010
+South East,Tunbridge Wells,532,2010
+South East,Vale of White Horse,722,2010
+South East,Waverley,456,2010
+South East,Wealden,546,2010
+South East,West Berkshire,921,2010
+South East,West Oxfordshire,522,2010
+South East,Winchester,664,2010
+South East,Windsor and Maidenhead,762,2010
+South East,Woking,529,2010
+South East,Wokingham,704,2010
+South East,Worthing,412,2010
+South East,Wycombe,737,2010
+South West,Bath and North East Somerset,731,2010
+South West,Bournemouth,753,2010
+South West,"Bristol, City of","1,922",2010
+South West,Cheltenham,540,2010
+South West,Christchurch,212,2010
+South West,Cornwall,"2,722",2010
+South West,Cotswold,423,2010
+South West,East Devon,520,2010
+South West,East Dorset,329,2010
+South West,Exeter,592,2010
+South West,Forest of Dean,433,2010
+South West,Gloucester,586,2010
+South West,Isles of Scilly,16,2010
+South West,Mendip,548,2010
+South West,Mid Devon,368,2010
+South West,North Devon,471,2010
+South West,North Dorset,284,2010
+South West,North Somerset,796,2010
+South West,Plymouth,"1,114",2010
+South West,Poole,717,2010
+South West,Purbeck,334,2010
+South West,Sedgemoor,607,2010
+South West,South Gloucestershire,"1,246",2010
+South West,South Hams,482,2010
+South West,South Somerset,810,2010
+South West,Stroud,548,2010
+South West,Swindon,"1,170",2010
+South West,Taunton Deane,478,2010
+South West,Teignbridge,513,2010
+South West,Tewkesbury,498,2010
+South West,Torbay,489,2010
+South West,Torridge,277,2010
+South West,West Devon,244,2010
+South West,West Dorset,492,2010
+South West,West Somerset,242,2010
+South West,Weymouth and Portland,233,2010
+South West,Wiltshire,"2,262",2010
+North East,County Durham,"2,008",2011
+North East,Darlington,436,2011
+North East,Gateshead,867,2011
+North East,Hartlepool,390,2011
+North East,Middlesbrough,606,2011
+North East,Newcastle upon Tyne,"1,341",2011
+North East,North Tyneside,822,2011
+North East,Northumberland,"1,520",2011
+North East,Redcar and Cleveland,936,2011
+North East,South Tyneside,463,2011
+North East,Stockton-on-Tees,"1,060",2011
+North East,Sunderland,"1,232",2011
+North West,Allerdale,583,2011
+North West,Barrow-in-Furness,362,2011
+North West,Blackburn with Darwen,634,2011
+North West,Blackpool,558,2011
+North West,Bolton,966,2011
+North West,Burnley,333,2011
+North West,Bury,673,2011
+North West,Carlisle,590,2011
+North West,Cheshire East,"1,776",2011
+North West,Cheshire West and Chester,"2,079",2011
+North West,Chorley,366,2011
+North West,Copeland,223,2011
+North West,Eden,345,2011
+North West,Fylde,384,2011
+North West,Halton,659,2011
+North West,Hyndburn,294,2011
+North West,Knowsley,795,2011
+North West,Lancaster,548,2011
+North West,Liverpool,"2,001",2011
+North West,Manchester,"2,599",2011
+North West,Oldham,770,2011
+North West,Pendle,356,2011
+North West,Preston,632,2011
+North West,Ribble Valley,427,2011
+North West,Rochdale,811,2011
+North West,Rossendale,336,2011
+North West,Salford,"1,030",2011
+North West,Sefton,"1,017",2011
+North West,South Lakeland,512,2011
+North West,South Ribble,426,2011
+North West,St. Helens,798,2011
+North West,Stockport,"1,093",2011
+North West,Tameside,805,2011
+North West,Trafford,"1,166",2011
+North West,Warrington,888,2011
+North West,West Lancashire,475,2011
+North West,Wigan,"1,151",2011
+North West,Wirral,"1,114",2011
+North West,Wyre,440,2011
+Yorkshire and The Humber,Barnsley,837,2011
+Yorkshire and The Humber,Bradford,"1,942",2011
+Yorkshire and The Humber,Calderdale,889,2011
+Yorkshire and The Humber,Craven,263,2011
+Yorkshire and The Humber,Doncaster,"1,256",2011
+Yorkshire and The Humber,East Riding of Yorkshire,"1,631",2011
+Yorkshire and The Humber,Hambleton,488,2011
+Yorkshire and The Humber,Harrogate,841,2011
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,126",2011
+Yorkshire and The Humber,Kirklees,"1,609",2011
+Yorkshire and The Humber,Leeds,"3,522",2011
+Yorkshire and The Humber,North East Lincolnshire,868,2011
+Yorkshire and The Humber,North Lincolnshire,"1,299",2011
+Yorkshire and The Humber,Richmondshire,233,2011
+Yorkshire and The Humber,Rotherham,"1,108",2011
+Yorkshire and The Humber,Ryedale,300,2011
+Yorkshire and The Humber,Scarborough,522,2011
+Yorkshire and The Humber,Selby,542,2011
+Yorkshire and The Humber,Sheffield,"2,453",2011
+Yorkshire and The Humber,Wakefield,"1,584",2011
+Yorkshire and The Humber,York,810,2011
+East Midlands,Amber Valley,597,2011
+East Midlands,Ashfield,540,2011
+East Midlands,Bassetlaw,535,2011
+East Midlands,Blaby,377,2011
+East Midlands,Bolsover,315,2011
+East Midlands,Boston,322,2011
+East Midlands,Broxtowe,350,2011
+East Midlands,Charnwood,677,2011
+East Midlands,Chesterfield,377,2011
+East Midlands,Corby,438,2011
+East Midlands,Daventry,424,2011
+East Midlands,Derby,"1,107",2011
+East Midlands,Derbyshire Dales,406,2011
+East Midlands,East Lindsey,673,2011
+East Midlands,East Northamptonshire,338,2011
+East Midlands,Erewash,410,2011
+East Midlands,Gedling,359,2011
+East Midlands,Harborough,363,2011
+East Midlands,High Peak,754,2011
+East Midlands,Hinckley and Bosworth,418,2011
+East Midlands,Kettering,412,2011
+East Midlands,Leicester,"1,398",2011
+East Midlands,Lincoln,410,2011
+East Midlands,Mansfield,373,2011
+East Midlands,Melton,237,2011
+East Midlands,Newark and Sherwood,592,2011
+East Midlands,North East Derbyshire,408,2011
+East Midlands,North Kesteven,465,2011
+East Midlands,North West Leicestershire,541,2011
+East Midlands,Northampton,954,2011
+East Midlands,Nottingham,"1,317",2011
+East Midlands,Oadby and Wigston,190,2011
+East Midlands,Rushcliffe,419,2011
+East Midlands,Rutland,357,2011
+East Midlands,South Derbyshire,494,2011
+East Midlands,South Holland,450,2011
+East Midlands,South Kesteven,672,2011
+East Midlands,South Northamptonshire,389,2011
+East Midlands,Wellingborough,344,2011
+East Midlands,West Lindsey,380,2011
+West Midlands,Birmingham,"4,323",2011
+West Midlands,Bromsgrove,322,2011
+West Midlands,Cannock Chase,342,2011
+West Midlands,Coventry,"1,250",2011
+West Midlands,Dudley,"1,124",2011
+West Midlands,East Staffordshire,692,2011
+West Midlands,"Herefordshire, County of",975,2011
+West Midlands,Lichfield,440,2011
+West Midlands,Malvern Hills,291,2011
+West Midlands,Newcastle-under-Lyme,455,2011
+West Midlands,North Warwickshire,522,2011
+West Midlands,Nuneaton and Bedworth,451,2011
+West Midlands,Redditch,368,2011
+West Midlands,Rugby,662,2011
+West Midlands,Sandwell,"1,377",2011
+West Midlands,Shropshire,"1,479",2011
+West Midlands,Solihull,983,2011
+West Midlands,South Staffordshire,415,2011
+West Midlands,Stafford,581,2011
+West Midlands,Staffordshire Moorlands,506,2011
+West Midlands,Stoke-on-Trent,993,2011
+West Midlands,Stratford-on-Avon,616,2011
+West Midlands,Tamworth,317,2011
+West Midlands,Telford and Wrekin,902,2011
+West Midlands,Walsall,"1,025",2011
+West Midlands,Warwick,684,2011
+West Midlands,Wolverhampton,"1,060",2011
+West Midlands,Worcester,445,2011
+West Midlands,Wychavon,614,2011
+West Midlands,Wyre Forest,395,2011
+East,Babergh,402,2011
+East,Basildon,766,2011
+East,Bedford,672,2011
+East,Braintree,556,2011
+East,Breckland,583,2011
+East,Brentwood,311,2011
+East,Broadland,485,2011
+East,Broxbourne,423,2011
+East,Cambridge,714,2011
+East,Castle Point,258,2011
+East,Central Bedfordshire,"1,007",2011
+East,Chelmsford,756,2011
+East,Colchester,695,2011
+East,Dacorum,564,2011
+East,East Cambridgeshire,371,2011
+East,East Hertfordshire,570,2011
+East,Epping Forest,477,2011
+East,Fenland,476,2011
+East,Forest Heath,398,2011
+East,Great Yarmouth,391,2011
+East,Harlow,404,2011
+East,Hertsmere,484,2011
+East,Huntingdonshire,848,2011
+East,Ipswich,529,2011
+East,King's Lynn and West Norfolk,"1,096",2011
+East,Luton,728,2011
+East,Maldon,290,2011
+East,Mid Suffolk,491,2011
+East,North Hertfordshire,502,2011
+East,North Norfolk,502,2011
+East,Norwich,604,2011
+East,Peterborough,930,2011
+East,Rochford,288,2011
+East,South Cambridgeshire,718,2011
+East,South Norfolk,544,2011
+East,Southend-on-Sea,618,2011
+East,St Albans,514,2011
+East,St Edmundsbury,499,2011
+East,Stevenage,442,2011
+East,Suffolk Coastal,565,2011
+East,Tendring,506,2011
+East,Three Rivers,318,2011
+East,Thurrock,815,2011
+East,Uttlesford,400,2011
+East,Watford,464,2011
+East,Waveney,564,2011
+East,Welwyn Hatfield,612,2011
+London,Barking and Dagenham,716,2011
+London,Barnet,"1,194",2011
+London,Bexley,783,2011
+London,Brent,"1,033",2011
+London,Bromley,"1,035",2011
+London,Camden,"1,765",2011
+London,City of London,"2,385",2011
+London,Croydon,"1,310",2011
+London,Ealing,"1,379",2011
+London,Enfield,"1,016",2011
+London,Greenwich,758,2011
+London,Hackney,826,2011
+London,Hammersmith and Fulham,"1,024",2011
+London,Haringey,782,2011
+London,Harrow,623,2011
+London,Havering,825,2011
+London,Hillingdon,"1,492",2011
+London,Hounslow,"1,390",2011
+London,Islington,"1,222",2011
+London,Kensington and Chelsea,"1,656",2011
+London,Kingston upon Thames,604,2011
+London,Lambeth,"1,135",2011
+London,Lewisham,764,2011
+London,Merton,795,2011
+London,Newham,"1,359",2011
+London,Redbridge,704,2011
+London,Richmond upon Thames,699,2011
+London,Southwark,"1,592",2011
+London,Sutton,693,2011
+London,Tower Hamlets,"2,764",2011
+London,Waltham Forest,735,2011
+London,Wandsworth,984,2011
+London,Westminster,"3,904",2011
+South East,Adur,215,2011
+South East,Arun,512,2011
+South East,Ashford,490,2011
+South East,Aylesbury Vale,640,2011
+South East,Basingstoke and Deane,919,2011
+South East,Bracknell Forest,540,2011
+South East,Brighton and Hove,"1,024",2011
+South East,Canterbury,579,2011
+South East,Cherwell,750,2011
+South East,Chichester,584,2011
+South East,Chiltern,346,2011
+South East,Crawley,638,2011
+South East,Dartford,455,2011
+South East,Dover,423,2011
+South East,East Hampshire,470,2011
+South East,Eastbourne,383,2011
+South East,Eastleigh,531,2011
+South East,Elmbridge,575,2011
+South East,Epsom and Ewell,241,2011
+South East,Fareham,451,2011
+South East,Gosport,282,2011
+South East,Gravesham,385,2011
+South East,Guildford,646,2011
+South East,Hart,351,2011
+South East,Hastings,325,2011
+South East,Havant,421,2011
+South East,Horsham,561,2011
+South East,Isle of Wight,541,2011
+South East,Lewes,341,2011
+South East,Maidstone,697,2011
+South East,Medway,876,2011
+South East,Mid Sussex,530,2011
+South East,Milton Keynes,"1,345",2011
+South East,Mole Valley,440,2011
+South East,New Forest,786,2011
+South East,Oxford,894,2011
+South East,Portsmouth,"1,009",2011
+South East,Reading,789,2011
+South East,Reigate and Banstead,624,2011
+South East,Rother,361,2011
+South East,Runnymede,424,2011
+South East,Rushmoor,411,2011
+South East,Sevenoaks,482,2011
+South East,Shepway,460,2011
+South East,Slough,961,2011
+South East,South Bucks,355,2011
+South East,South Oxfordshire,757,2011
+South East,Southampton,"1,014",2011
+South East,Spelthorne,638,2011
+South East,Surrey Heath,425,2011
+South East,Swale,964,2011
+South East,Tandridge,317,2011
+South East,Test Valley,554,2011
+South East,Thanet,510,2011
+South East,Tonbridge and Malling,559,2011
+South East,Tunbridge Wells,534,2011
+South East,Vale of White Horse,623,2011
+South East,Waverley,453,2011
+South East,Wealden,544,2011
+South East,West Berkshire,804,2011
+South East,West Oxfordshire,519,2011
+South East,Winchester,649,2011
+South East,Windsor and Maidenhead,748,2011
+South East,Woking,545,2011
+South East,Wokingham,685,2011
+South East,Worthing,399,2011
+South East,Wycombe,717,2011
+South West,Bath and North East Somerset,694,2011
+South West,Bournemouth,724,2011
+South West,"Bristol, City of","1,904",2011
+South West,Cheltenham,566,2011
+South West,Christchurch,205,2011
+South West,Cornwall,"2,620",2011
+South West,Cotswold,423,2011
+South West,East Devon,500,2011
+South West,East Dorset,320,2011
+South West,Exeter,569,2011
+South West,Forest of Dean,428,2011
+South West,Gloucester,587,2011
+South West,Isles of Scilly,16,2011
+South West,Mendip,536,2011
+South West,Mid Devon,357,2011
+South West,North Devon,461,2011
+South West,North Dorset,281,2011
+South West,North Somerset,787,2011
+South West,Plymouth,"1,098",2011
+South West,Poole,706,2011
+South West,Purbeck,320,2011
+South West,Sedgemoor,599,2011
+South West,South Gloucestershire,"1,185",2011
+South West,South Hams,466,2011
+South West,South Somerset,787,2011
+South West,Stroud,554,2011
+South West,Swindon,"1,096",2011
+South West,Taunton Deane,455,2011
+South West,Teignbridge,498,2011
+South West,Tewkesbury,481,2011
+South West,Torbay,476,2011
+South West,Torridge,276,2011
+South West,West Devon,234,2011
+South West,West Dorset,472,2011
+South West,West Somerset,245,2011
+South West,Weymouth and Portland,218,2011
+South West,Wiltshire,"2,169",2011
+North East,County Durham,"1,963",2012
+North East,Darlington,429,2012
+North East,Hartlepool,477,2012
+North East,Middlesbrough,592,2012
+North East,Northumberland,"1,503",2012
+North East,Redcar and Cleveland,952,2012
+North East,Stockton-on-Tees,"1,126",2012
+North East,Gateshead,849,2012
+North East,Newcastle upon Tyne,"1,318",2012
+North East,North Tyneside,818,2012
+North East,South Tyneside,465,2012
+North East,Sunderland,"1,257",2012
+North West,Blackburn with Darwen,646,2012
+North West,Blackpool,579,2012
+North West,Cheshire East,"1,805",2012
+North West,Cheshire West and Chester,"2,383",2012
+North West,Halton,722,2012
+North West,Warrington,938,2012
+North West,Allerdale,629,2012
+North West,Barrow-in-Furness,493,2012
+North West,Carlisle,608,2012
+North West,Copeland,236,2012
+North West,Eden,357,2012
+North West,South Lakeland,571,2012
+North West,Bolton,"1,029",2012
+North West,Bury,672,2012
+North West,Manchester,"2,684",2012
+North West,Oldham ,790,2012
+North West,Rochdale,831,2012
+North West,Salford,"1,082",2012
+North West,Stockport,"1,155",2012
+North West,Tameside,820,2012
+North West,Trafford,"1,402",2012
+North West,Wigan,"1,157",2012
+North West,Burnley,339,2012
+North West,Chorley,380,2012
+North West,Fylde,392,2012
+North West,Hyndburn,301,2012
+North West,Lancaster,570,2012
+North West,Pendle,389,2012
+North West,Preston,649,2012
+North West,Ribble Valley,402,2012
+North West,Rossendale,348,2012
+North West,South Ribble,465,2012
+North West,West Lancashire,511,2012
+North West,Wyre,496,2012
+North West,Knowsley ,772,2012
+North West,Liverpool,"2,047",2012
+North West,Sefton,981,2012
+North West,St. Helens,786,2012
+North West,Wirral,"1,099",2012
+Yorkshire and The Humber,East Riding of Yorkshire,"1,587",2012
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,065",2012
+Yorkshire and The Humber,North East Lincolnshire,798,2012
+Yorkshire and The Humber,North Lincolnshire,"1,227",2012
+Yorkshire and The Humber,York,773,2012
+Yorkshire and The Humber,Craven,254,2012
+Yorkshire and The Humber,Hambleton,503,2012
+Yorkshire and The Humber,Harrogate,835,2012
+Yorkshire and The Humber,Richmondshire,232,2012
+Yorkshire and The Humber,Ryedale,310,2012
+Yorkshire and The Humber,Scarborough,516,2012
+Yorkshire and The Humber,Selby,524,2012
+Yorkshire and The Humber,Barnsley,900,2012
+Yorkshire and The Humber,Doncaster,"1,301",2012
+Yorkshire and The Humber,Rotherham ,"1,031",2012
+Yorkshire and The Humber,Sheffield,"2,354",2012
+Yorkshire and The Humber,Bradford ,"1,879",2012
+Yorkshire and The Humber,Calderdale,850,2012
+Yorkshire and The Humber,Kirklees ,"1,543",2012
+Yorkshire and The Humber,Leeds ,"3,437",2012
+Yorkshire and The Humber,Wakefield,"1,587",2012
+East Midlands,Derby,"1,020",2012
+East Midlands,Leicester,"1,481",2012
+East Midlands,Nottingham,"1,272",2012
+East Midlands,Rutland,350,2012
+East Midlands,Amber Valley,596,2012
+East Midlands,Bolsover,317,2012
+East Midlands,Chesterfield,420,2012
+East Midlands,Derbyshire Dales,397,2012
+East Midlands,Erewash,417,2012
+East Midlands,High Peak,738,2012
+East Midlands,North East Derbyshire,377,2012
+East Midlands,South Derbyshire,490,2012
+East Midlands,Blaby,383,2012
+East Midlands,Charnwood,641,2012
+East Midlands,Harborough,366,2012
+East Midlands,Hinckley and Bosworth,430,2012
+East Midlands,Melton,260,2012
+East Midlands,North West Leicestershire,559,2012
+East Midlands,Oadby and Wigston,197,2012
+East Midlands,Boston,336,2012
+East Midlands,East Lindsey,668,2012
+East Midlands,Lincoln,425,2012
+East Midlands,North Kesteven,454,2012
+East Midlands,South Holland,503,2012
+East Midlands,South Kesteven,656,2012
+East Midlands,West Lindsey,399,2012
+East Midlands,Corby,441,2012
+East Midlands,Daventry,420,2012
+East Midlands,East Northamptonshire,337,2012
+East Midlands,Kettering,387,2012
+East Midlands,Northampton,961,2012
+East Midlands,South Northamptonshire,417,2012
+East Midlands,Wellingborough,367,2012
+East Midlands,Ashfield,555,2012
+East Midlands,Bassetlaw,562,2012
+East Midlands,Broxtowe,361,2012
+East Midlands,Gedling,355,2012
+East Midlands,Mansfield,385,2012
+East Midlands,Newark and Sherwood,604,2012
+East Midlands,Rushcliffe,384,2012
+West Midlands,"Herefordshire, County of",941,2012
+West Midlands,Shropshire,"1,473",2012
+West Midlands,Stoke-on-Trent,967,2012
+West Midlands,Telford and Wrekin,844,2012
+West Midlands,Cannock Chase,347,2012
+West Midlands,East Staffordshire,684,2012
+West Midlands,Lichfield,438,2012
+West Midlands,Newcastle-under-Lyme,447,2012
+West Midlands,South Staffordshire,408,2012
+West Midlands,Stafford,619,2012
+West Midlands,Staffordshire Moorlands,487,2012
+West Midlands,Tamworth,321,2012
+West Midlands,North Warwickshire,530,2012
+West Midlands,Nuneaton and Bedworth,446,2012
+West Midlands,Rugby,668,2012
+West Midlands,Stratford-on-Avon,648,2012
+West Midlands,Warwick,664,2012
+West Midlands,Birmingham,"4,271",2012
+West Midlands,Coventry,"1,316",2012
+West Midlands,Dudley ,"1,096",2012
+West Midlands,Sandwell ,"1,356",2012
+West Midlands,Solihull,996,2012
+West Midlands,Walsall,982,2012
+West Midlands,Wolverhampton,"1,011",2012
+West Midlands,Bromsgrove,320,2012
+West Midlands,Malvern Hills,289,2012
+West Midlands,Redditch,362,2012
+West Midlands,Worcester,429,2012
+West Midlands,Wychavon,614,2012
+West Midlands,Wyre Forest,378,2012
+East,Bedford,716,2012
+East,Central Bedfordshire,"1,022",2012
+East,Luton,735,2012
+East,Peterborough,935,2012
+East,Southend-on-Sea,631,2012
+East,Thurrock,981,2012
+East,Cambridge,734,2012
+East,East Cambridgeshire,380,2012
+East,Fenland,525,2012
+East,Huntingdonshire,855,2012
+East,South Cambridgeshire,794,2012
+East,Basildon,792,2012
+East,Braintree,579,2012
+East,Brentwood,304,2012
+East,Castle Point,260,2012
+East,Chelmsford,748,2012
+East,Colchester,714,2012
+East,Epping Forest,479,2012
+East,Harlow,393,2012
+East,Maldon,298,2012
+East,Rochford,296,2012
+East,Tendring,514,2012
+East,Uttlesford,399,2012
+East,Broxbourne,433,2012
+East,Dacorum,588,2012
+East,East Hertfordshire,558,2012
+East,Hertsmere,484,2012
+East,North Hertfordshire,517,2012
+East,St Albans,516,2012
+East,Stevenage,437,2012
+East,Three Rivers,343,2012
+East,Watford,503,2012
+East,Welwyn Hatfield,623,2012
+East,Breckland,613,2012
+East,Broadland,478,2012
+East,Great Yarmouth,394,2012
+East,King’s Lynn and West Norfolk,"1,131",2012
+East,North Norfolk,522,2012
+East,Norwich,624,2012
+East,South Norfolk,560,2012
+East,Babergh,412,2012
+East,Forest Heath,409,2012
+East,Ipswich,527,2012
+East,Mid Suffolk,484,2012
+East,St Edmundsbury,552,2012
+East,Suffolk Coastal,624,2012
+East,Waveney,560,2012
+London,City of London ,"2,482",2012
+London,Barking and Dagenham,713,2012
+London,Barnet,"1,169",2012
+London,Bexley,794,2012
+London,Brent,"1,265",2012
+London,Bromley,"1,026",2012
+London,Camden,"1,782",2012
+London,Croydon,"1,314",2012
+London,Ealing,"1,419",2012
+London,Enfield,"1,050",2012
+London,Greenwich,800,2012
+London,Hackney,899,2012
+London,Hammersmith and Fulham,"1,011",2012
+London,Haringey,780,2012
+London,Harrow ,612,2012
+London,Havering,818,2012
+London,Hillingdon,"1,747",2012
+London,Hounslow,"1,370",2012
+London,Islington,"1,262",2012
+London,Kensington and Chelsea,"1,500",2012
+London,Kingston upon Thames,596,2012
+London,Lambeth,"1,129",2012
+London,Lewisham,761,2012
+London,Merton,783,2012
+London,Newham,"1,378",2012
+London,Redbridge,696,2012
+London,Richmond upon Thames,711,2012
+London,Southwark,"1,680",2012
+London,Sutton,721,2012
+London,Tower Hamlets,"2,873",2012
+London,Waltham Forest,707,2012
+London,Wandsworth,990,2012
+London,Westminster,"3,968",2012
+South East,Bracknell Forest,544,2012
+South East,Brighton and Hove,"1,028",2012
+South East,Isle of Wight,556,2012
+South East,Medway,889,2012
+South East,Milton Keynes,"1,437",2012
+South East,Portsmouth,"1,003",2012
+South East,Reading,791,2012
+South East,Slough,"1,013",2012
+South East,Southampton,"1,022",2012
+South East,West Berkshire,918,2012
+South East,Windsor and Maidenhead,762,2012
+South East,Wokingham,715,2012
+South East,Aylesbury Vale,650,2012
+South East,Chiltern,354,2012
+South East,South Bucks,369,2012
+South East,Wycombe,724,2012
+South East,Eastbourne,375,2012
+South East,Hastings,325,2012
+South East,Lewes,342,2012
+South East,Rother,356,2012
+South East,Wealden,541,2012
+South East,Basingstoke and Deane,868,2012
+South East,East Hampshire,469,2012
+South East,Eastleigh,528,2012
+South East,Fareham,441,2012
+South East,Gosport,286,2012
+South East,Hart,342,2012
+South East,Havant,425,2012
+South East,New Forest,762,2012
+South East,Rushmoor,414,2012
+South East,Test Valley,578,2012
+South East,Winchester,647,2012
+South East,Ashford,512,2012
+South East,Canterbury,580,2012
+South East,Dartford,455,2012
+South East,Dover,433,2012
+South East,Gravesham,484,2012
+South East,Maidstone,685,2012
+South East,Sevenoaks,480,2012
+South East,Shepway,456,2012
+South East,Swale,638,2012
+South East,Thanet,515,2012
+South East,Tonbridge and Malling,534,2012
+South East,Tunbridge Wells,536,2012
+South East,Cherwell,720,2012
+South East,Oxford,886,2012
+South East,South Oxfordshire,794,2012
+South East,Vale of White Horse,733,2012
+South East,West Oxfordshire,521,2012
+South East,Elmbridge,574,2012
+South East,Epsom and Ewell,239,2012
+South East,Guildford,643,2012
+South East,Mole Valley,442,2012
+South East,Reigate and Banstead,634,2012
+South East,Runnymede,435,2012
+South East,Spelthorne,395,2012
+South East,Surrey Heath,427,2012
+South East,Tandridge,305,2012
+South East,Waverley,456,2012
+South East,Woking,568,2012
+South East,Adur,209,2012
+South East,Arun,523,2012
+South East,Chichester,588,2012
+South East,Crawley,632,2012
+South East,Horsham,562,2012
+South East,Mid Sussex,529,2012
+South East,Worthing,396,2012
+South West,Bath and North East Somerset,692,2012
+South West,Bournemouth,732,2012
+South West,"Bristol, City of ","1,851",2012
+South West,Cornwall,"2,646",2012
+South West,Isles of Scilly,17,2012
+South West,North Somerset,787,2012
+South West,Plymouth,"1,074",2012
+South West,Poole,697,2012
+South West,South Gloucestershire,"1,263",2012
+South West,Swindon,"1,127",2012
+South West,Torbay,476,2012
+South West,Wiltshire,"2,161",2012
+South West,East Devon,515,2012
+South West,Exeter,602,2012
+South West,Mid Devon,347,2012
+South West,North Devon,467,2012
+South West,South Hams,459,2012
+South West,Teignbridge,499,2012
+South West,Torridge,270,2012
+South West,West Devon,243,2012
+South West,Christchurch,197,2012
+South West,East Dorset,317,2012
+South West,North Dorset,291,2012
+South West,Purbeck,342,2012
+South West,West Dorset,469,2012
+South West,Weymouth and Portland,223,2012
+South West,Cheltenham,539,2012
+South West,Cotswold,423,2012
+South West,Forest of Dean,418,2012
+South West,Gloucester,605,2012
+South West,Stroud,548,2012
+South West,Tewkesbury,482,2012
+South West,Mendip,541,2012
+South West,Sedgemoor,614,2012
+South West,South Somerset,779,2012
+South West,Taunton Deane,450,2012
+South West,West Somerset,249,2012
+North East,County Durham,"1,971",2013
+North East,Darlington,419,2013
+North East,Hartlepool,458,2013
+North East,Middlesbrough,495,2013
+North East,Northumberland,"1,483",2013
+North East,Redcar and Cleveland,"1,027",2013
+North East,Stockton-on-Tees,"1,312",2013
+North East,Gateshead,842,2013
+North East,Newcastle upon Tyne,"1,338",2013
+North East,North Tyneside,804,2013
+North East,South Tyneside,465,2013
+North East,Sunderland,"1,256",2013
+North West,Blackburn with Darwen,611,2013
+North West,Blackpool,564,2013
+North West,Cheshire East,"1,795",2013
+North West,Cheshire West and Chester,"2,303",2013
+North West,Halton,699,2013
+North West,Warrington,931,2013
+North West,Allerdale,637,2013
+North West,Barrow-in-Furness,493,2013
+North West,Carlisle,603,2013
+North West,Copeland,234,2013
+North West,Eden,359,2013
+North West,South Lakeland,565,2013
+North West,Bolton,"1,020",2013
+North West,Bury,665,2013
+North West,Manchester,"2,720",2013
+North West,Oldham ,779,2013
+North West,Rochdale,835,2013
+North West,Salford,"1,069",2013
+North West,Stockport,"1,135",2013
+North West,Tameside,808,2013
+North West,Trafford,"1,397",2013
+North West,Wigan,"1,144",2013
+North West,Burnley,339,2013
+North West,Chorley,378,2013
+North West,Fylde,377,2013
+North West,Hyndburn,298,2013
+North West,Lancaster,556,2013
+North West,Pendle,388,2013
+North West,Preston,630,2013
+North West,Ribble Valley,425,2013
+North West,Rossendale,342,2013
+North West,South Ribble,470,2013
+North West,West Lancashire,515,2013
+North West,Wyre,496,2013
+North West,Knowsley ,764,2013
+North West,Liverpool,"1,983",2013
+North West,Sefton,952,2013
+North West,St. Helens,778,2013
+North West,Wirral,"1,112",2013
+Yorkshire and The Humber,East Riding of Yorkshire,"1,580",2013
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,097",2013
+Yorkshire and The Humber,North East Lincolnshire,850,2013
+Yorkshire and The Humber,North Lincolnshire,"1,253",2013
+Yorkshire and The Humber,York,773,2013
+Yorkshire and The Humber,Craven,258,2013
+Yorkshire and The Humber,Hambleton,483,2013
+Yorkshire and The Humber,Harrogate,815,2013
+Yorkshire and The Humber,Richmondshire,227,2013
+Yorkshire and The Humber,Ryedale,305,2013
+Yorkshire and The Humber,Scarborough,509,2013
+Yorkshire and The Humber,Selby,544,2013
+Yorkshire and The Humber,Barnsley,921,2013
+Yorkshire and The Humber,Doncaster,"1,303",2013
+Yorkshire and The Humber,Rotherham ,"1,053",2013
+Yorkshire and The Humber,Sheffield,"2,407",2013
+Yorkshire and The Humber,Bradford ,"1,892",2013
+Yorkshire and The Humber,Calderdale,854,2013
+Yorkshire and The Humber,Kirklees ,"1,527",2013
+Yorkshire and The Humber,Leeds ,"3,408",2013
+Yorkshire and The Humber,Wakefield,"1,629",2013
+East Midlands,Derby,"1,098",2013
+East Midlands,Leicester,"1,463",2013
+East Midlands,Nottingham,"1,257",2013
+East Midlands,Rutland,352,2013
+East Midlands,Amber Valley,603,2013
+East Midlands,Bolsover,337,2013
+East Midlands,Chesterfield,417,2013
+East Midlands,Derbyshire Dales,420,2013
+East Midlands,Erewash,416,2013
+East Midlands,High Peak,746,2013
+East Midlands,North East Derbyshire,427,2013
+East Midlands,South Derbyshire,517,2013
+East Midlands,Blaby,399,2013
+East Midlands,Charnwood,692,2013
+East Midlands,Harborough,370,2013
+East Midlands,Hinckley and Bosworth,432,2013
+East Midlands,Melton,276,2013
+East Midlands,North West Leicestershire,565,2013
+East Midlands,Oadby and Wigston,194,2013
+East Midlands,Boston,334,2013
+East Midlands,East Lindsey,663,2013
+East Midlands,Lincoln,429,2013
+East Midlands,North Kesteven,486,2013
+East Midlands,South Holland,509,2013
+East Midlands,South Kesteven,653,2013
+East Midlands,West Lindsey,403,2013
+East Midlands,Corby,472,2013
+East Midlands,Daventry,421,2013
+East Midlands,East Northamptonshire,330,2013
+East Midlands,Kettering,403,2013
+East Midlands,Northampton,963,2013
+East Midlands,South Northamptonshire,416,2013
+East Midlands,Wellingborough,369,2013
+East Midlands,Ashfield,584,2013
+East Midlands,Bassetlaw,568,2013
+East Midlands,Broxtowe,354,2013
+East Midlands,Gedling,353,2013
+East Midlands,Mansfield,394,2013
+East Midlands,Newark and Sherwood,608,2013
+East Midlands,Rushcliffe,421,2013
+West Midlands,"Herefordshire, County of",952,2013
+West Midlands,Shropshire,"1,455",2013
+West Midlands,Stoke-on-Trent,982,2013
+West Midlands,Telford and Wrekin,859,2013
+West Midlands,Cannock Chase,356,2013
+West Midlands,East Staffordshire,685,2013
+West Midlands,Lichfield,446,2013
+West Midlands,Newcastle-under-Lyme,468,2013
+West Midlands,South Staffordshire,416,2013
+West Midlands,Stafford,617,2013
+West Midlands,Staffordshire Moorlands,506,2013
+West Midlands,Tamworth,329,2013
+West Midlands,North Warwickshire,488,2013
+West Midlands,Nuneaton and Bedworth,449,2013
+West Midlands,Rugby,679,2013
+West Midlands,Stratford-on-Avon,640,2013
+West Midlands,Warwick,669,2013
+West Midlands,Birmingham,"4,306",2013
+West Midlands,Coventry,"1,316",2013
+West Midlands,Dudley ,"1,089",2013
+West Midlands,Sandwell ,"1,355",2013
+West Midlands,Solihull,"1,004",2013
+West Midlands,Walsall,995,2013
+West Midlands,Wolverhampton,"1,019",2013
+West Midlands,Bromsgrove,320,2013
+West Midlands,Malvern Hills,296,2013
+West Midlands,Redditch,361,2013
+West Midlands,Worcester,435,2013
+West Midlands,Wychavon,615,2013
+West Midlands,Wyre Forest,382,2013
+East,Bedford,715,2013
+East,Central Bedfordshire,"1,023",2013
+East,Luton,728,2013
+East,Peterborough,934,2013
+East,Southend-on-Sea,624,2013
+East,Thurrock,923,2013
+East,Cambridge,738,2013
+East,East Cambridgeshire,378,2013
+East,Fenland,519,2013
+East,Huntingdonshire,857,2013
+East,South Cambridgeshire,785,2013
+East,Basildon,779,2013
+East,Braintree,580,2013
+East,Brentwood,304,2013
+East,Castle Point,258,2013
+East,Chelmsford,741,2013
+East,Colchester,708,2013
+East,Epping Forest,471,2013
+East,Harlow,384,2013
+East,Maldon,285,2013
+East,Rochford,291,2013
+East,Tendring,506,2013
+East,Uttlesford,396,2013
+East,Broxbourne,431,2013
+East,Dacorum,593,2013
+East,East Hertfordshire,547,2013
+East,Hertsmere,479,2013
+East,North Hertfordshire,514,2013
+East,St Albans,517,2013
+East,Stevenage,430,2013
+East,Three Rivers,348,2013
+East,Watford,510,2013
+East,Welwyn Hatfield,633,2013
+East,Breckland,607,2013
+East,Broadland,484,2013
+East,Great Yarmouth,390,2013
+East,King’s Lynn and West Norfolk,"1,122",2013
+East,North Norfolk,520,2013
+East,Norwich,624,2013
+East,South Norfolk,547,2013
+East,Babergh,415,2013
+East,Forest Heath,403,2013
+East,Ipswich,523,2013
+East,Mid Suffolk,480,2013
+East,St Edmundsbury,551,2013
+East,Suffolk Coastal,605,2013
+East,Waveney,554,2013
+London,City of London ,"2,440",2013
+London,Barking and Dagenham,693,2013
+London,Barnet,"1,158",2013
+London,Bexley,785,2013
+London,Brent,"1,251",2013
+London,Bromley,"1,012",2013
+London,Camden,"1,759",2013
+London,Croydon,"1,286",2013
+London,Ealing,"1,446",2013
+London,Enfield,"1,058",2013
+London,Greenwich,816,2013
+London,Hackney,903,2013
+London,Hammersmith and Fulham,"1,001",2013
+London,Haringey,768,2013
+London,Harrow ,611,2013
+London,Havering,829,2013
+London,Hillingdon,"1,747",2013
+London,Hounslow,"1,363",2013
+London,Islington,"1,219",2013
+London,Kensington and Chelsea,"1,429",2013
+London,Kingston upon Thames,597,2013
+London,Lambeth,"1,132",2013
+London,Lewisham,746,2013
+London,Merton,810,2013
+London,Newham,"1,454",2013
+London,Redbridge,687,2013
+London,Richmond upon Thames,702,2013
+London,Southwark,"1,630",2013
+London,Sutton,709,2013
+London,Tower Hamlets,"2,816",2013
+London,Waltham Forest,702,2013
+London,Wandsworth,968,2013
+London,Westminster,"3,950",2013
+South East,Bracknell Forest,552,2013
+South East,Brighton and Hove,"1,020",2013
+South East,Isle of Wight,546,2013
+South East,Medway,879,2013
+South East,Milton Keynes,"1,459",2013
+South East,Portsmouth,996,2013
+South East,Reading,771,2013
+South East,Slough,"1,038",2013
+South East,Southampton,979,2013
+South East,West Berkshire,908,2013
+South East,Windsor and Maidenhead,740,2013
+South East,Wokingham,692,2013
+South East,Aylesbury Vale,651,2013
+South East,Chiltern,348,2013
+South East,South Bucks,366,2013
+South East,Wycombe,705,2013
+South East,Eastbourne,372,2013
+South East,Hastings,321,2013
+South East,Lewes,346,2013
+South East,Rother,353,2013
+South East,Wealden,533,2013
+South East,Basingstoke and Deane,847,2013
+South East,East Hampshire,463,2013
+South East,Eastleigh,532,2013
+South East,Fareham,440,2013
+South East,Gosport,285,2013
+South East,Hart,342,2013
+South East,Havant,424,2013
+South East,New Forest,762,2013
+South East,Rushmoor,398,2013
+South East,Test Valley,581,2013
+South East,Winchester,640,2013
+South East,Ashford,516,2013
+South East,Canterbury,571,2013
+South East,Dartford,450,2013
+South East,Dover,440,2013
+South East,Gravesham,475,2013
+South East,Maidstone,756,2013
+South East,Sevenoaks,470,2013
+South East,Shepway,440,2013
+South East,Swale,650,2013
+South East,Thanet,523,2013
+South East,Tonbridge and Malling,530,2013
+South East,Tunbridge Wells,526,2013
+South East,Cherwell,742,2013
+South East,Oxford,884,2013
+South East,South Oxfordshire,788,2013
+South East,Vale of White Horse,721,2013
+South East,West Oxfordshire,522,2013
+South East,Elmbridge,569,2013
+South East,Epsom and Ewell,237,2013
+South East,Guildford,634,2013
+South East,Mole Valley,437,2013
+South East,Reigate and Banstead,631,2013
+South East,Runnymede,428,2013
+South East,Spelthorne,395,2013
+South East,Surrey Heath,419,2013
+South East,Tandridge,320,2013
+South East,Waverley,447,2013
+South East,Woking,584,2013
+South East,Adur,203,2013
+South East,Arun,516,2013
+South East,Chichester,582,2013
+South East,Crawley,639,2013
+South East,Horsham,554,2013
+South East,Mid Sussex,529,2013
+South East,Worthing,386,2013
+South West,Bath and North East Somerset,682,2013
+South West,Bournemouth,718,2013
+South West,"Bristol, City of ","1,862",2013
+South West,Cornwall,"2,648",2013
+South West,Isles of Scilly,16,2013
+South West,North Somerset,776,2013
+South West,Plymouth,"1,076",2013
+South West,Poole,690,2013
+South West,South Gloucestershire,"1,248",2013
+South West,Swindon,"1,112",2013
+South West,Torbay,467,2013
+South West,Wiltshire,"2,154",2013
+South West,East Devon,510,2013
+South West,Exeter,602,2013
+South West,Mid Devon,343,2013
+South West,North Devon,457,2013
+South West,South Hams,443,2013
+South West,Teignbridge,493,2013
+South West,Torridge,269,2013
+South West,West Devon,251,2013
+South West,Christchurch,193,2013
+South West,East Dorset,316,2013
+South West,North Dorset,286,2013
+South West,Purbeck,346,2013
+South West,West Dorset,464,2013
+South West,Weymouth and Portland,214,2013
+South West,Cheltenham,543,2013
+South West,Cotswold,419,2013
+South West,Forest of Dean,428,2013
+South West,Gloucester,606,2013
+South West,Stroud,550,2013
+South West,Tewkesbury,495,2013
+South West,Mendip,550,2013
+South West,Sedgemoor,603,2013
+South West,South Somerset,760,2013
+South West,Taunton Deane,441,2013
+South West,West Somerset,243,2013
+North East,County Durham,"1,973",2014
+North East,Darlington,418,2014
+North East,Hartlepool,454,2014
+North East,Middlesbrough,494,2014
+North East,Northumberland,"1,504",2014
+North East,Redcar and Cleveland,"1,084",2014
+North East,Stockton-on-Tees,"1,342",2014
+North East,Gateshead,898,2014
+North East,Newcastle upon Tyne,"1,298",2014
+North East,North Tyneside,768,2014
+North East,South Tyneside,462,2014
+North East,Sunderland,"1,270",2014
+North West,Blackburn with Darwen,611,2014
+North West,Blackpool,567,2014
+North West,Cheshire East,"1,817",2014
+North West,Cheshire West and Chester,"2,337",2014
+North West,Halton,704,2014
+North West,Warrington,930,2014
+North West,Allerdale,519,2014
+North West,Barrow-in-Furness,505,2014
+North West,Carlisle,613,2014
+North West,Copeland,235,2014
+North West,Eden,365,2014
+North West,South Lakeland,568,2014
+North West,Bolton,"1,016",2014
+North West,Bury,672,2014
+North West,Manchester,"2,682",2014
+North West,Oldham,774,2014
+North West,Rochdale,839,2014
+North West,Salford,"1,053",2014
+North West,Stockport,"1,081",2014
+North West,Tameside,805,2014
+North West,Trafford,"1,387",2014
+North West,Wigan,"1,180",2014
+North West,Burnley,341,2014
+North West,Chorley,385,2014
+North West,Fylde,399,2014
+North West,Hyndburn,300,2014
+North West,Lancaster,560,2014
+North West,Pendle,385,2014
+North West,Preston,634,2014
+North West,Ribble Valley,449,2014
+North West,Rossendale,342,2014
+North West,South Ribble,489,2014
+North West,West Lancashire,526,2014
+North West,Wyre,508,2014
+North West,Knowsley,767,2014
+North West,Liverpool,"1,980",2014
+North West,Sefton,963,2014
+North West,St. Helens,755,2014
+North West,Wirral,"1,109",2014
+Yorkshire and The Humber,East Riding of Yorkshire,"1,641",2014
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,095",2014
+Yorkshire and The Humber,North East Lincolnshire,891,2014
+Yorkshire and The Humber,North Lincolnshire,"1,156",2014
+Yorkshire and The Humber,York,806,2014
+Yorkshire and The Humber,Craven,267,2014
+Yorkshire and The Humber,Hambleton,479,2014
+Yorkshire and The Humber,Harrogate,816,2014
+Yorkshire and The Humber,Richmondshire,228,2014
+Yorkshire and The Humber,Ryedale,314,2014
+Yorkshire and The Humber,Scarborough,515,2014
+Yorkshire and The Humber,Selby,540,2014
+Yorkshire and The Humber,Barnsley,924,2014
+Yorkshire and The Humber,Doncaster,"1,332",2014
+Yorkshire and The Humber,Rotherham,"1,058",2014
+Yorkshire and The Humber,Sheffield,"2,482",2014
+Yorkshire and The Humber,Bradford,"1,844",2014
+Yorkshire and The Humber,Calderdale,864,2014
+Yorkshire and The Humber,Kirklees,"1,524",2014
+Yorkshire and The Humber,Leeds,"3,389",2014
+Yorkshire and The Humber,Wakefield,"1,643",2014
+East Midlands,Derby,944,2014
+East Midlands,Leicester,"1,435",2014
+East Midlands,Nottingham,"1,253",2014
+East Midlands,Rutland,344,2014
+East Midlands,Amber Valley,598,2014
+East Midlands,Bolsover,343,2014
+East Midlands,Chesterfield,418,2014
+East Midlands,Derbyshire Dales,410,2014
+East Midlands,Erewash,411,2014
+East Midlands,High Peak,773,2014
+East Midlands,North East Derbyshire,430,2014
+East Midlands,South Derbyshire,511,2014
+East Midlands,Blaby,407,2014
+East Midlands,Charnwood,709,2014
+East Midlands,Harborough,388,2014
+East Midlands,Hinckley and Bosworth,441,2014
+East Midlands,Melton,282,2014
+East Midlands,North West Leicestershire,565,2014
+East Midlands,Oadby and Wigston,189,2014
+East Midlands,Boston,337,2014
+East Midlands,East Lindsey,682,2014
+East Midlands,Lincoln,421,2014
+East Midlands,North Kesteven,506,2014
+East Midlands,South Holland,561,2014
+East Midlands,South Kesteven,662,2014
+East Midlands,West Lindsey,407,2014
+East Midlands,Corby,458,2014
+East Midlands,Daventry,435,2014
+East Midlands,East Northamptonshire,354,2014
+East Midlands,Kettering,406,2014
+East Midlands,Northampton,954,2014
+East Midlands,South Northamptonshire,419,2014
+East Midlands,Wellingborough,373,2014
+East Midlands,Ashfield,593,2014
+East Midlands,Bassetlaw,570,2014
+East Midlands,Broxtowe,347,2014
+East Midlands,Gedling,356,2014
+East Midlands,Mansfield,402,2014
+East Midlands,Newark and Sherwood,604,2014
+East Midlands,Rushcliffe,429,2014
+West Midlands,"Herefordshire, County of",979,2014
+West Midlands,Shropshire,"1,501",2014
+West Midlands,Stoke-on-Trent,981,2014
+West Midlands,Telford and Wrekin,879,2014
+West Midlands,Cannock Chase,362,2014
+West Midlands,East Staffordshire,680,2014
+West Midlands,Lichfield,449,2014
+West Midlands,Newcastle-under-Lyme,478,2014
+West Midlands,South Staffordshire,435,2014
+West Midlands,Stafford,580,2014
+West Midlands,Staffordshire Moorlands,508,2014
+West Midlands,Tamworth,330,2014
+West Midlands,North Warwickshire,524,2014
+West Midlands,Nuneaton and Bedworth,453,2014
+West Midlands,Rugby,688,2014
+West Midlands,Stratford-on-Avon,655,2014
+West Midlands,Warwick,661,2014
+West Midlands,Birmingham,"4,247",2014
+West Midlands,Coventry,"1,314",2014
+West Midlands,Dudley,"1,072",2014
+West Midlands,Sandwell,"1,362",2014
+West Midlands,Solihull,996,2014
+West Midlands,Walsall,"1,005",2014
+West Midlands,Wolverhampton,"1,006",2014
+West Midlands,Bromsgrove,329,2014
+West Midlands,Malvern Hills,297,2014
+West Midlands,Redditch,365,2014
+West Midlands,Worcester,434,2014
+West Midlands,Wychavon,636,2014
+West Midlands,Wyre Forest,385,2014
+East,Bedford,719,2014
+East,Central Bedfordshire,"1,054",2014
+East,Luton,729,2014
+East,Peterborough,927,2014
+East,Southend-on-Sea,619,2014
+East,Thurrock,965,2014
+East,Cambridge,746,2014
+East,East Cambridgeshire,384,2014
+East,Fenland,540,2014
+East,Huntingdonshire,871,2014
+East,South Cambridgeshire,800,2014
+East,Basildon,769,2014
+East,Braintree,592,2014
+East,Brentwood,308,2014
+East,Castle Point,258,2014
+East,Chelmsford,737,2014
+East,Colchester,716,2014
+East,Epping Forest,479,2014
+East,Harlow,368,2014
+East,Maldon,284,2014
+East,Rochford,290,2014
+East,Tendring,512,2014
+East,Uttlesford,412,2014
+East,Broxbourne,431,2014
+East,Dacorum,599,2014
+East,East Hertfordshire,575,2014
+East,Hertsmere,478,2014
+East,North Hertfordshire,544,2014
+East,St Albans,516,2014
+East,Stevenage,425,2014
+East,Three Rivers,345,2014
+East,Watford,513,2014
+East,Welwyn Hatfield,639,2014
+East,Breckland,656,2014
+East,Broadland,487,2014
+East,Great Yarmouth,388,2014
+East,King’s Lynn and West Norfolk,"1,122",2014
+East,North Norfolk,536,2014
+East,Norwich,642,2014
+East,South Norfolk,558,2014
+East,Babergh,418,2014
+East,Forest Heath,421,2014
+East,Ipswich,520,2014
+East,Mid Suffolk,490,2014
+East,St Edmundsbury,562,2014
+East,Suffolk Coastal,633,2014
+East,Waveney,542,2014
+London,Camden,"1,759",2014
+London,City of London,"2,331",2014
+London,Hackney,914,2014
+London,Hammersmith and Fulham,987,2014
+London,Haringey,785,2014
+London,Islington,"1,221",2014
+London,Kensington and Chelsea,"1,510",2014
+London,Lambeth,"1,132",2014
+London,Lewisham,752,2014
+London,Newham,"1,456",2014
+London,Southwark,"1,665",2014
+London,Tower Hamlets,"2,713",2014
+London,Wandsworth,993,2014
+London,Westminster,"3,874",2014
+London,Barking and Dagenham,673,2014
+London,Barnet,"1,166",2014
+London,Bexley,816,2014
+London,Brent,"1,110",2014
+London,Bromley,"1,016",2014
+London,Croydon,"1,256",2014
+London,Ealing,"1,418",2014
+London,Enfield,"1,060",2014
+London,Greenwich,837,2014
+London,Harrow,618,2014
+London,Havering,823,2014
+London,Hillingdon,"1,534",2014
+London,Hounslow,"1,366",2014
+London,Kingston upon Thames,602,2014
+London,Merton,796,2014
+London,Redbridge,690,2014
+London,Richmond upon Thames,700,2014
+London,Sutton,713,2014
+London,Waltham Forest,705,2014
+South East,Bracknell Forest,544,2014
+South East,Brighton and Hove,"1,026",2014
+South East,Isle of Wight,564,2014
+South East,Medway,872,2014
+South East,Milton Keynes,"1,434",2014
+South East,Portsmouth,990,2014
+South East,Reading,768,2014
+South East,Slough,"1,071",2014
+South East,Southampton,979,2014
+South East,West Berkshire,919,2014
+South East,Windsor and Maidenhead,744,2014
+South East,Wokingham,700,2014
+South East,Aylesbury Vale,656,2014
+South East,Chiltern,350,2014
+South East,South Bucks,364,2014
+South East,Wycombe,709,2014
+South East,Eastbourne,372,2014
+South East,Hastings,317,2014
+South East,Lewes,347,2014
+South East,Rother,362,2014
+South East,Wealden,547,2014
+South East,Basingstoke and Deane,855,2014
+South East,East Hampshire,464,2014
+South East,Eastleigh,534,2014
+South East,Fareham,437,2014
+South East,Gosport,287,2014
+South East,Hart,347,2014
+South East,Havant,433,2014
+South East,New Forest,781,2014
+South East,Rushmoor,411,2014
+South East,Test Valley,583,2014
+South East,Winchester,636,2014
+South East,Ashford,519,2014
+South East,Canterbury,577,2014
+South East,Dartford,445,2014
+South East,Dover,439,2014
+South East,Gravesham,491,2014
+South East,Maidstone,669,2014
+South East,Sevenoaks,471,2014
+South East,Shepway,437,2014
+South East,Swale,660,2014
+South East,Thanet,538,2014
+South East,Tonbridge and Malling,527,2014
+South East,Tunbridge Wells,527,2014
+South East,Cherwell,741,2014
+South East,Oxford,889,2014
+South East,South Oxfordshire,789,2014
+South East,Vale of White Horse,732,2014
+South East,West Oxfordshire,527,2014
+South East,Elmbridge,573,2014
+South East,Epsom and Ewell,240,2014
+South East,Guildford,635,2014
+South East,Mole Valley,433,2014
+South East,Reigate and Banstead,633,2014
+South East,Runnymede,428,2014
+South East,Spelthorne,391,2014
+South East,Surrey Heath,417,2014
+South East,Tandridge,325,2014
+South East,Waverley,454,2014
+South East,Woking,606,2014
+South East,Adur,203,2014
+South East,Arun,517,2014
+South East,Chichester,590,2014
+South East,Crawley,637,2014
+South East,Horsham,554,2014
+South East,Mid Sussex,533,2014
+South East,Worthing,393,2014
+South West,Bath and North East Somerset,682,2014
+South West,Bournemouth,712,2014
+South West,"Bristol, City of","1,859",2014
+South West,Cornwall,"2,709",2014
+South West,Isles of Scilly,16,2014
+South West,North Somerset,784,2014
+South West,Plymouth,"1,068",2014
+South West,Poole,688,2014
+South West,South Gloucestershire,"1,217",2014
+South West,Swindon,"1,088",2014
+South West,Torbay,470,2014
+South West,Wiltshire,"2,208",2014
+South West,East Devon,522,2014
+South West,Exeter,597,2014
+South West,Mid Devon,354,2014
+South West,North Devon,461,2014
+South West,South Hams,448,2014
+South West,Teignbridge,503,2014
+South West,Torridge,267,2014
+South West,West Devon,255,2014
+South West,Christchurch,199,2014
+South West,East Dorset,318,2014
+South West,North Dorset,293,2014
+South West,Purbeck,374,2014
+South West,West Dorset,467,2014
+South West,Weymouth and Portland,216,2014
+South West,Cheltenham,550,2014
+South West,Cotswold,429,2014
+South West,Forest of Dean,427,2014
+South West,Gloucester,586,2014
+South West,Stroud,550,2014
+South West,Tewkesbury,507,2014
+South West,Mendip,559,2014
+South West,Sedgemoor,603,2014
+South West,South Somerset,765,2014
+South West,Taunton Deane,448,2014
+South West,West Somerset,242,2014
+North East,Hartlepool,453,2015
+North East,Middlesbrough,493,2015
+North East,Redcar and Cleveland,"1,039",2015
+North East,Stockton-on-Tees,"1,358",2015
+North East,Darlington,418,2015
+North East,County Durham,"1,967",2015
+North East,Northumberland,"1,521",2015
+North East,Newcastle upon Tyne,"1,281",2015
+North East,North Tyneside,770,2015
+North East,South Tyneside,450,2015
+North East,Sunderland,"1,249",2015
+North East,Gateshead,881,2015
+North West,Halton,709,2015
+North West,Warrington,919,2015
+North West,Blackburn with Darwen,603,2015
+North West,Blackpool,550,2015
+North West,Cheshire East,"1,776",2015
+North West,Cheshire West and Chester,"2,312",2015
+North West,Allerdale,488,2015
+North West,Barrow-in-Furness,504,2015
+North West,Carlisle,585,2015
+North West,Copeland,231,2015
+North West,Eden,360,2015
+North West,South Lakeland,579,2015
+North West,Burnley,338,2015
+North West,Chorley,381,2015
+North West,Fylde,370,2015
+North West,Hyndburn,306,2015
+North West,Lancaster,540,2015
+North West,Pendle,378,2015
+North West,Preston,574,2015
+North West,Ribble Valley,444,2015
+North West,Rossendale,329,2015
+North West,South Ribble,485,2015
+North West,West Lancashire,526,2015
+North West,Wyre,530,2015
+North West,Bolton,978,2015
+North West,Bury,660,2015
+North West,Manchester,"2,659",2015
+North West,Oldham,771,2015
+North West,Rochdale,819,2015
+North West,Salford,"1,047",2015
+North West,Stockport,"1,054",2015
+North West,Tameside,782,2015
+North West,Trafford,"1,372",2015
+North West,Wigan,"1,142",2015
+North West,Knowsley,744,2015
+North West,Liverpool,"1,955",2015
+North West,St. Helens,747,2015
+North West,Sefton,944,2015
+North West,Wirral,"1,093",2015
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,105",2015
+Yorkshire and The Humber,East Riding of Yorkshire,"1,581",2015
+Yorkshire and The Humber,North East Lincolnshire,833,2015
+Yorkshire and The Humber,North Lincolnshire,"1,226",2015
+Yorkshire and The Humber,York,759,2015
+Yorkshire and The Humber,Craven,264,2015
+Yorkshire and The Humber,Hambleton,467,2015
+Yorkshire and The Humber,Harrogate,825,2015
+Yorkshire and The Humber,Richmondshire,230,2015
+Yorkshire and The Humber,Ryedale,318,2015
+Yorkshire and The Humber,Scarborough,513,2015
+Yorkshire and The Humber,Selby,532,2015
+Yorkshire and The Humber,Barnsley,926,2015
+Yorkshire and The Humber,Doncaster,"1,294",2015
+Yorkshire and The Humber,Rotherham,"1,036",2015
+Yorkshire and The Humber,Sheffield,"2,318",2015
+Yorkshire and The Humber,Bradford,"1,807",2015
+Yorkshire and The Humber,Calderdale,853,2015
+Yorkshire and The Humber,Kirklees,"1,534",2015
+Yorkshire and The Humber,Leeds,"3,323",2015
+Yorkshire and The Humber,Wakefield,"1,652",2015
+East Midlands,Derby,"1,055",2015
+East Midlands,Leicester,"1,380",2015
+East Midlands,Rutland,351,2015
+East Midlands,Nottingham,"1,265",2015
+East Midlands,North Northamptonshire,"1,591",2015
+East Midlands,West Northamptonshire,"1,777",2015
+East Midlands,Amber Valley,592,2015
+East Midlands,Bolsover,346,2015
+East Midlands,Chesterfield,407,2015
+East Midlands,Derbyshire Dales,417,2015
+East Midlands,Erewash,411,2015
+East Midlands,High Peak,757,2015
+East Midlands,North East Derbyshire,421,2015
+East Midlands,South Derbyshire,535,2015
+East Midlands,Blaby,411,2015
+East Midlands,Charnwood,708,2015
+East Midlands,Harborough,373,2015
+East Midlands,Hinckley and Bosworth,443,2015
+East Midlands,Melton,283,2015
+East Midlands,North West Leicestershire,558,2015
+East Midlands,Oadby and Wigston,188,2015
+East Midlands,Boston,330,2015
+East Midlands,East Lindsey,692,2015
+East Midlands,Lincoln,413,2015
+East Midlands,North Kesteven,485,2015
+East Midlands,South Holland,507,2015
+East Midlands,South Kesteven,652,2015
+East Midlands,West Lindsey,390,2015
+East Midlands,Ashfield,593,2015
+East Midlands,Bassetlaw,564,2015
+East Midlands,Broxtowe,344,2015
+East Midlands,Gedling,354,2015
+East Midlands,Mansfield,402,2015
+East Midlands,Newark and Sherwood,574,2015
+East Midlands,Rushcliffe,411,2015
+West Midlands,"Herefordshire, County of",983,2015
+West Midlands,Telford and Wrekin,882,2015
+West Midlands,Stoke-on-Trent,986,2015
+West Midlands,Shropshire,"1,481",2015
+West Midlands,Cannock Chase,360,2015
+West Midlands,East Staffordshire,671,2015
+West Midlands,Lichfield,441,2015
+West Midlands,Newcastle-under-Lyme,481,2015
+West Midlands,South Staffordshire,447,2015
+West Midlands,Stafford,603,2015
+West Midlands,Staffordshire Moorlands,504,2015
+West Midlands,Tamworth,329,2015
+West Midlands,North Warwickshire,531,2015
+West Midlands,Nuneaton and Bedworth,445,2015
+West Midlands,Rugby,650,2015
+West Midlands,Stratford-on-Avon,647,2015
+West Midlands,Warwick,663,2015
+West Midlands,Bromsgrove,336,2015
+West Midlands,Malvern Hills,299,2015
+West Midlands,Redditch,369,2015
+West Midlands,Worcester,427,2015
+West Midlands,Wychavon,645,2015
+West Midlands,Wyre Forest,385,2015
+West Midlands,Birmingham,"4,227",2015
+West Midlands,Coventry,"1,327",2015
+West Midlands,Dudley,"1,088",2015
+West Midlands,Sandwell,"1,338",2015
+West Midlands,Solihull,"1,057",2015
+West Midlands,Walsall,"1,000",2015
+West Midlands,Wolverhampton,985,2015
+East,Peterborough,910,2015
+East,Luton,727,2015
+East,Southend-on-Sea,618,2015
+East,Thurrock,943,2015
+East,Bedford,715,2015
+East,Central Bedfordshire,"1,059",2015
+East,Cambridge,747,2015
+East,East Cambridgeshire,388,2015
+East,Fenland,514,2015
+East,Huntingdonshire,859,2015
+East,South Cambridgeshire,796,2015
+East,Basildon,776,2015
+East,Braintree,590,2015
+East,Brentwood,298,2015
+East,Castle Point,253,2015
+East,Chelmsford,730,2015
+East,Colchester,693,2015
+East,Epping Forest,469,2015
+East,Harlow,361,2015
+East,Maldon,274,2015
+East,Rochford,282,2015
+East,Tendring,508,2015
+East,Uttlesford,400,2015
+East,Broxbourne,431,2015
+East,Dacorum,611,2015
+East,Hertsmere,479,2015
+East,North Hertfordshire,520,2015
+East,Three Rivers,338,2015
+East,Watford,488,2015
+East,Breckland,607,2015
+East,Broadland,487,2015
+East,Great Yarmouth,386,2015
+East,King's Lynn and West Norfolk,"1,114",2015
+East,North Norfolk,513,2015
+East,Norwich,624,2015
+East,South Norfolk,563,2015
+East,Babergh,404,2015
+East,Ipswich,517,2015
+East,Mid Suffolk,481,2015
+East,St Albans,501,2015
+East,Welwyn Hatfield,635,2015
+East,East Hertfordshire,539,2015
+East,Stevenage,399,2015
+East,East Suffolk,"1,139",2015
+East,West Suffolk,926,2015
+Inner London,City of London,"2,261",2015
+Inner London,Camden,"1,710",2015
+Inner London,Hackney,927,2015
+Inner London,Hammersmith and Fulham,955,2015
+Inner London,Haringey,783,2015
+Inner London,Islington,"1,193",2015
+Inner London,Kensington and Chelsea,"1,540",2015
+Inner London,Lambeth,"1,108",2015
+Inner London,Lewisham,737,2015
+Inner London,Newham,"1,446",2015
+Inner London,Southwark,"1,698",2015
+Inner London,Tower Hamlets,"2,909",2015
+Inner London,Wandsworth,977,2015
+Inner London,Westminster,"3,778",2015
+Outer London,Barking and Dagenham,661,2015
+Outer London,Barnet,"1,148",2015
+Outer London,Bexley,795,2015
+Outer London,Brent,"1,013",2015
+Outer London,Bromley,999,2015
+Outer London,Croydon,"1,241",2015
+Outer London,Ealing,"1,357",2015
+Outer London,Enfield,"1,040",2015
+Outer London,Greenwich,834,2015
+Outer London,Harrow,600,2015
+Outer London,Havering,807,2015
+Outer London,Hillingdon,"1,434",2015
+Outer London,Hounslow,"1,329",2015
+Outer London,Kingston upon Thames,605,2015
+Outer London,Merton,783,2015
+Outer London,Redbridge,680,2015
+Outer London,Richmond upon Thames,683,2015
+Outer London,Sutton,700,2015
+Outer London,Waltham Forest,698,2015
+South East,Medway,866,2015
+South East,Bracknell Forest,531,2015
+South East,West Berkshire,900,2015
+South East,Reading,757,2015
+South East,Slough,"1,084",2015
+South East,Windsor and Maidenhead,731,2015
+South East,Wokingham,678,2015
+South East,Milton Keynes,"1,445",2015
+South East,Brighton and Hove,"1,016",2015
+South East,Portsmouth,956,2015
+South East,Southampton,948,2015
+South East,Isle of Wight,548,2015
+South East,Buckinghamshire,"2,073",2015
+South East,Eastbourne,368,2015
+South East,Hastings,312,2015
+South East,Lewes,341,2015
+South East,Rother,364,2015
+South East,Wealden,542,2015
+South East,Basingstoke and Deane,847,2015
+South East,East Hampshire,453,2015
+South East,Eastleigh,525,2015
+South East,Fareham,438,2015
+South East,Gosport,286,2015
+South East,Hart,350,2015
+South East,Havant,426,2015
+South East,New Forest,766,2015
+South East,Rushmoor,404,2015
+South East,Test Valley,569,2015
+South East,Winchester,619,2015
+South East,Ashford,507,2015
+South East,Canterbury,586,2015
+South East,Dartford,434,2015
+South East,Dover,438,2015
+South East,Gravesham,463,2015
+South East,Maidstone,670,2015
+South East,Sevenoaks,464,2015
+South East,Folkestone and Hythe,445,2015
+South East,Swale,650,2015
+South East,Thanet,539,2015
+South East,Tonbridge and Malling,554,2015
+South East,Tunbridge Wells,522,2015
+South East,Cherwell,737,2015
+South East,Oxford,876,2015
+South East,South Oxfordshire,778,2015
+South East,Vale of White Horse,745,2015
+South East,West Oxfordshire,524,2015
+South East,Elmbridge,562,2015
+South East,Epsom and Ewell,237,2015
+South East,Guildford,618,2015
+South East,Mole Valley,445,2015
+South East,Reigate and Banstead,622,2015
+South East,Runnymede,421,2015
+South East,Spelthorne,381,2015
+South East,Surrey Heath,399,2015
+South East,Tandridge,320,2015
+South East,Waverley,445,2015
+South East,Woking,613,2015
+South East,Adur,202,2015
+South East,Arun,508,2015
+South East,Chichester,593,2015
+South East,Crawley,629,2015
+South East,Horsham,546,2015
+South East,Mid Sussex,527,2015
+South East,Worthing,386,2015
+South West,Bath and North East Somerset,671,2015
+South West,"Bristol, City of","1,855",2015
+South West,North Somerset,769,2015
+South West,South Gloucestershire,"1,242",2015
+South West,Plymouth,"1,018",2015
+South West,Torbay,462,2015
+South West,Swindon,"1,082",2015
+South West,Cornwall,"2,656",2015
+South West,Wiltshire,"2,185",2015
+South West,"Bournemouth, Christchurch and Poole","1,561",2015
+South West,Dorset,"1,644",2015
+South West,East Devon,509,2015
+South West,Exeter,582,2015
+South West,Mid Devon,347,2015
+South West,North Devon,457,2015
+South West,South Hams,439,2015
+South West,Teignbridge,498,2015
+South West,Torridge,269,2015
+South West,West Devon,254,2015
+South West,Cheltenham,529,2015
+South West,Cotswold,429,2015
+South West,Forest of Dean,421,2015
+South West,Gloucester,577,2015
+South West,Stroud,540,2015
+South West,Tewkesbury,510,2015
+South West,Mendip,547,2015
+South West,Sedgemoor,602,2015
+South West,South Somerset,756,2015
+South West,Isles of Scilly,17,2015
+South West,Somerset West and Taunton,673,2015
+North East,Hartlepool,433,2016
+North East,Middlesbrough,471,2016
+North East,Redcar and Cleveland,848,2016
+North East,Stockton-on-Tees,"1,283",2016
+North East,Darlington,408,2016
+North East,County Durham,"1,889",2016
+North East,Northumberland,"1,455",2016
+North East,Newcastle upon Tyne,"1,216",2016
+North East,North Tyneside,736,2016
+North East,South Tyneside,416,2016
+North East,Sunderland,"1,222",2016
+North East,Gateshead,835,2016
+North West,Halton,699,2016
+North West,Warrington,890,2016
+North West,Blackburn with Darwen,595,2016
+North West,Blackpool,532,2016
+North West,Cheshire East,"1,740",2016
+North West,Cheshire West and Chester,"2,246",2016
+North West,Allerdale,450,2016
+North West,Barrow-in-Furness,464,2016
+North West,Carlisle,571,2016
+North West,Copeland,225,2016
+North West,Eden,360,2016
+North West,South Lakeland,556,2016
+North West,Burnley,331,2016
+North West,Chorley,374,2016
+North West,Fylde,378,2016
+North West,Hyndburn,291,2016
+North West,Lancaster,517,2016
+North West,Pendle,366,2016
+North West,Preston,551,2016
+North West,Ribble Valley,432,2016
+North West,Rossendale,305,2016
+North West,South Ribble,464,2016
+North West,West Lancashire,517,2016
+North West,Wyre,479,2016
+North West,Bolton,962,2016
+North West,Bury,636,2016
+North West,Manchester,"2,623",2016
+North West,Oldham,749,2016
+North West,Rochdale,799,2016
+North West,Salford,"1,017",2016
+North West,Stockport,"1,014",2016
+North West,Tameside,764,2016
+North West,Trafford,"1,367",2016
+North West,Wigan,"1,116",2016
+North West,Knowsley,731,2016
+North West,Liverpool,"1,923",2016
+North West,St. Helens,735,2016
+North West,Sefton,877,2016
+North West,Wirral,"1,063",2016
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,095",2016
+Yorkshire and The Humber,East Riding of Yorkshire,"1,571",2016
+Yorkshire and The Humber,North East Lincolnshire,816,2016
+Yorkshire and The Humber,North Lincolnshire,"1,184",2016
+Yorkshire and The Humber,York,742,2016
+Yorkshire and The Humber,Craven,256,2016
+Yorkshire and The Humber,Hambleton,450,2016
+Yorkshire and The Humber,Harrogate,788,2016
+Yorkshire and The Humber,Richmondshire,226,2016
+Yorkshire and The Humber,Ryedale,310,2016
+Yorkshire and The Humber,Scarborough,502,2016
+Yorkshire and The Humber,Selby,451,2016
+Yorkshire and The Humber,Barnsley,915,2016
+Yorkshire and The Humber,Doncaster,"1,252",2016
+Yorkshire and The Humber,Rotherham,"1,009",2016
+Yorkshire and The Humber,Sheffield,"2,209",2016
+Yorkshire and The Humber,Bradford,"1,777",2016
+Yorkshire and The Humber,Calderdale,822,2016
+Yorkshire and The Humber,Kirklees,"1,510",2016
+Yorkshire and The Humber,Leeds,"3,201",2016
+Yorkshire and The Humber,Wakefield,"1,649",2016
+East Midlands,Derby,"1,022",2016
+East Midlands,Leicester,"1,342",2016
+East Midlands,Rutland,338,2016
+East Midlands,Nottingham,"1,227",2016
+East Midlands,North Northamptonshire,"1,585",2016
+East Midlands,West Northamptonshire,"1,758",2016
+East Midlands,Amber Valley,573,2016
+East Midlands,Bolsover,344,2016
+East Midlands,Chesterfield,390,2016
+East Midlands,Derbyshire Dales,407,2016
+East Midlands,Erewash,399,2016
+East Midlands,High Peak,739,2016
+East Midlands,North East Derbyshire,407,2016
+East Midlands,South Derbyshire,531,2016
+East Midlands,Blaby,406,2016
+East Midlands,Charnwood,703,2016
+East Midlands,Harborough,365,2016
+East Midlands,Hinckley and Bosworth,441,2016
+East Midlands,Melton,276,2016
+East Midlands,North West Leicestershire,558,2016
+East Midlands,Oadby and Wigston,185,2016
+East Midlands,Boston,319,2016
+East Midlands,East Lindsey,717,2016
+East Midlands,Lincoln,404,2016
+East Midlands,North Kesteven,473,2016
+East Midlands,South Holland,507,2016
+East Midlands,South Kesteven,646,2016
+East Midlands,West Lindsey,380,2016
+East Midlands,Ashfield,572,2016
+East Midlands,Bassetlaw,549,2016
+East Midlands,Broxtowe,336,2016
+East Midlands,Gedling,347,2016
+East Midlands,Mansfield,393,2016
+East Midlands,Newark and Sherwood,533,2016
+East Midlands,Rushcliffe,403,2016
+West Midlands,"Herefordshire, County of",969,2016
+West Midlands,Telford and Wrekin,868,2016
+West Midlands,Stoke-on-Trent,949,2016
+West Midlands,Shropshire,"1,439",2016
+West Midlands,Cannock Chase,348,2016
+West Midlands,East Staffordshire,667,2016
+West Midlands,Lichfield,433,2016
+West Midlands,Newcastle-under-Lyme,464,2016
+West Midlands,South Staffordshire,448,2016
+West Midlands,Stafford,592,2016
+West Midlands,Staffordshire Moorlands,500,2016
+West Midlands,Tamworth,321,2016
+West Midlands,North Warwickshire,533,2016
+West Midlands,Nuneaton and Bedworth,432,2016
+West Midlands,Rugby,679,2016
+West Midlands,Stratford-on-Avon,638,2016
+West Midlands,Warwick,646,2016
+West Midlands,Bromsgrove,327,2016
+West Midlands,Malvern Hills,295,2016
+West Midlands,Redditch,359,2016
+West Midlands,Worcester,414,2016
+West Midlands,Wychavon,642,2016
+West Midlands,Wyre Forest,376,2016
+West Midlands,Birmingham,"4,135",2016
+West Midlands,Coventry,"1,306",2016
+West Midlands,Dudley,"1,048",2016
+West Midlands,Sandwell,"1,268",2016
+West Midlands,Solihull,"1,015",2016
+West Midlands,Walsall,979,2016
+West Midlands,Wolverhampton,943,2016
+East,Peterborough,892,2016
+East,Luton,703,2016
+East,Southend-on-Sea,608,2016
+East,Thurrock,961,2016
+East,Bedford,711,2016
+East,Central Bedfordshire,"1,058",2016
+East,Cambridge,736,2016
+East,East Cambridgeshire,384,2016
+East,Fenland,511,2016
+East,Huntingdonshire,835,2016
+East,South Cambridgeshire,787,2016
+East,Basildon,762,2016
+East,Braintree,563,2016
+East,Brentwood,285,2016
+East,Castle Point,247,2016
+East,Chelmsford,720,2016
+East,Colchester,692,2016
+East,Epping Forest,457,2016
+East,Harlow,363,2016
+East,Maldon,268,2016
+East,Rochford,274,2016
+East,Tendring,501,2016
+East,Uttlesford,400,2016
+East,Broxbourne,417,2016
+East,Dacorum,617,2016
+East,Hertsmere,465,2016
+East,North Hertfordshire,519,2016
+East,Three Rivers,338,2016
+East,Watford,477,2016
+East,Breckland,597,2016
+East,Broadland,480,2016
+East,Great Yarmouth,371,2016
+East,King's Lynn and West Norfolk,"1,058",2016
+East,North Norfolk,503,2016
+East,Norwich,602,2016
+East,South Norfolk,553,2016
+East,Babergh,393,2016
+East,Ipswich,489,2016
+East,Mid Suffolk,463,2016
+East,St Albans,483,2016
+East,Welwyn Hatfield,625,2016
+East,East Hertfordshire,527,2016
+East,Stevenage,381,2016
+East,East Suffolk,"1,104",2016
+East,West Suffolk,914,2016
+Inner London,City of London,"2,177",2016
+Inner London,Camden,"1,689",2016
+Inner London,Hackney,901,2016
+Inner London,Hammersmith and Fulham,940,2016
+Inner London,Haringey,768,2016
+Inner London,Islington,"1,155",2016
+Inner London,Kensington and Chelsea,"1,459",2016
+Inner London,Lambeth,"1,083",2016
+Inner London,Lewisham,704,2016
+Inner London,Newham,"1,477",2016
+Inner London,Southwark,"1,684",2016
+Inner London,Tower Hamlets,"2,836",2016
+Inner London,Wandsworth,986,2016
+Inner London,Westminster,"3,690",2016
+Outer London,Barking and Dagenham,640,2016
+Outer London,Barnet,"1,122",2016
+Outer London,Bexley,768,2016
+Outer London,Brent,"1,058",2016
+Outer London,Bromley,966,2016
+Outer London,Croydon,"1,181",2016
+Outer London,Ealing,"1,324",2016
+Outer London,Enfield,"1,023",2016
+Outer London,Greenwich,828,2016
+Outer London,Harrow,585,2016
+Outer London,Havering,788,2016
+Outer London,Hillingdon,"1,386",2016
+Outer London,Hounslow,"1,298",2016
+Outer London,Kingston upon Thames,596,2016
+Outer London,Merton,785,2016
+Outer London,Redbridge,662,2016
+Outer London,Richmond upon Thames,648,2016
+Outer London,Sutton,675,2016
+Outer London,Waltham Forest,683,2016
+South East,Medway,833,2016
+South East,Bracknell Forest,518,2016
+South East,West Berkshire,877,2016
+South East,Reading,746,2016
+South East,Slough,"1,121",2016
+South East,Windsor and Maidenhead,710,2016
+South East,Wokingham,653,2016
+South East,Milton Keynes,"1,404",2016
+South East,Brighton and Hove,956,2016
+South East,Portsmouth,920,2016
+South East,Southampton,910,2016
+South East,Isle of Wight,539,2016
+South East,Buckinghamshire,"2,022",2016
+South East,Eastbourne,352,2016
+South East,Hastings,293,2016
+South East,Lewes,322,2016
+South East,Rother,349,2016
+South East,Wealden,523,2016
+South East,Basingstoke and Deane,836,2016
+South East,East Hampshire,436,2016
+South East,Eastleigh,520,2016
+South East,Fareham,428,2016
+South East,Gosport,278,2016
+South East,Hart,396,2016
+South East,Havant,416,2016
+South East,New Forest,742,2016
+South East,Rushmoor,391,2016
+South East,Test Valley,563,2016
+South East,Winchester,599,2016
+South East,Ashford,491,2016
+South East,Canterbury,567,2016
+South East,Dartford,411,2016
+South East,Dover,425,2016
+South East,Gravesham,433,2016
+South East,Maidstone,643,2016
+South East,Sevenoaks,437,2016
+South East,Folkestone and Hythe,412,2016
+South East,Swale,657,2016
+South East,Thanet,516,2016
+South East,Tonbridge and Malling,505,2016
+South East,Tunbridge Wells,493,2016
+South East,Cherwell,727,2016
+South East,Oxford,853,2016
+South East,South Oxfordshire,777,2016
+South East,Vale of White Horse,739,2016
+South East,West Oxfordshire,519,2016
+South East,Elmbridge,540,2016
+South East,Epsom and Ewell,226,2016
+South East,Guildford,593,2016
+South East,Mole Valley,410,2016
+South East,Reigate and Banstead,598,2016
+South East,Runnymede,404,2016
+South East,Spelthorne,371,2016
+South East,Surrey Heath,389,2016
+South East,Tandridge,305,2016
+South East,Waverley,428,2016
+South East,Woking,602,2016
+South East,Adur,193,2016
+South East,Arun,494,2016
+South East,Chichester,585,2016
+South East,Crawley,634,2016
+South East,Horsham,521,2016
+South East,Mid Sussex,506,2016
+South East,Worthing,370,2016
+South West,Bath and North East Somerset,659,2016
+South West,"Bristol, City of","1,804",2016
+South West,North Somerset,759,2016
+South West,South Gloucestershire,"1,191",2016
+South West,Plymouth,910,2016
+South West,Torbay,446,2016
+South West,Swindon,"1,063",2016
+South West,Cornwall,"2,598",2016
+South West,Wiltshire,"2,163",2016
+South West,"Bournemouth, Christchurch and Poole","1,519",2016
+South West,Dorset,"1,616",2016
+South West,East Devon,503,2016
+South West,Exeter,570,2016
+South West,Mid Devon,342,2016
+South West,North Devon,444,2016
+South West,South Hams,456,2016
+South West,Teignbridge,490,2016
+South West,Torridge,266,2016
+South West,West Devon,250,2016
+South West,Cheltenham,512,2016
+South West,Cotswold,424,2016
+South West,Forest of Dean,419,2016
+South West,Gloucester,562,2016
+South West,Stroud,533,2016
+South West,Tewkesbury,495,2016
+South West,Mendip,533,2016
+South West,Sedgemoor,596,2016
+South West,South Somerset,739,2016
+South West,Isles of Scilly,17,2016
+South West,Somerset West and Taunton,584,2016
+North East,Hartlepool,441,2017
+North East,Middlesbrough,462,2017
+North East,Redcar and Cleveland,804,2017
+North East,Stockton-on-Tees,"1,278",2017
+North East,Darlington,400,2017
+North East,County Durham,"1,911",2017
+North East,Northumberland,"1,497",2017
+North East,Newcastle upon Tyne,"1,233",2017
+North East,North Tyneside,739,2017
+North East,South Tyneside,413,2017
+North East,Sunderland,"1,248",2017
+North East,Gateshead,843,2017
+North West,Halton,709,2017
+North West,Warrington,902,2017
+North West,Blackburn with Darwen,602,2017
+North West,Blackpool,530,2017
+North West,Cheshire East,"1,709",2017
+North West,Cheshire West and Chester,"2,202",2017
+North West,Allerdale,464,2017
+North West,Barrow-in-Furness,441,2017
+North West,Carlisle,581,2017
+North West,Copeland,226,2017
+North West,Eden,375,2017
+North West,South Lakeland,571,2017
+North West,Burnley,339,2017
+North West,Chorley,382,2017
+North West,Fylde,381,2017
+North West,Hyndburn,292,2017
+North West,Lancaster,535,2017
+North West,Pendle,371,2017
+North West,Preston,557,2017
+North West,Ribble Valley,432,2017
+North West,Rossendale,306,2017
+North West,South Ribble,467,2017
+North West,West Lancashire,517,2017
+North West,Wyre,496,2017
+North West,Bolton,967,2017
+North West,Bury,637,2017
+North West,Manchester,"2,628",2017
+North West,Oldham,754,2017
+North West,Rochdale,807,2017
+North West,Salford,"1,021",2017
+North West,Stockport,"1,030",2017
+North West,Tameside,763,2017
+North West,Trafford,"1,411",2017
+North West,Wigan,"1,119",2017
+North West,Knowsley,718,2017
+North West,Liverpool,"1,905",2017
+North West,St. Helens,730,2017
+North West,Sefton,848,2017
+North West,Wirral,"1,036",2017
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,111",2017
+Yorkshire and The Humber,East Riding of Yorkshire,"1,600",2017
+Yorkshire and The Humber,North East Lincolnshire,824,2017
+Yorkshire and The Humber,North Lincolnshire,"1,223",2017
+Yorkshire and The Humber,York,738,2017
+Yorkshire and The Humber,Craven,261,2017
+Yorkshire and The Humber,Hambleton,476,2017
+Yorkshire and The Humber,Harrogate,802,2017
+Yorkshire and The Humber,Richmondshire,226,2017
+Yorkshire and The Humber,Ryedale,318,2017
+Yorkshire and The Humber,Scarborough,501,2017
+Yorkshire and The Humber,Selby,453,2017
+Yorkshire and The Humber,Barnsley,937,2017
+Yorkshire and The Humber,Doncaster,"1,262",2017
+Yorkshire and The Humber,Rotherham,"1,010",2017
+Yorkshire and The Humber,Sheffield,"2,215",2017
+Yorkshire and The Humber,Bradford,"1,761",2017
+Yorkshire and The Humber,Calderdale,825,2017
+Yorkshire and The Humber,Kirklees,"1,508",2017
+Yorkshire and The Humber,Leeds,"3,252",2017
+Yorkshire and The Humber,Wakefield,"1,640",2017
+East Midlands,Derby,"1,026",2017
+East Midlands,Leicester,"1,348",2017
+East Midlands,Rutland,338,2017
+East Midlands,Nottingham,"1,256",2017
+East Midlands,North Northamptonshire,"1,613",2017
+East Midlands,West Northamptonshire,"1,782",2017
+East Midlands,Amber Valley,571,2017
+East Midlands,Bolsover,368,2017
+East Midlands,Chesterfield,399,2017
+East Midlands,Derbyshire Dales,409,2017
+East Midlands,Erewash,402,2017
+East Midlands,High Peak,760,2017
+East Midlands,North East Derbyshire,410,2017
+East Midlands,South Derbyshire,541,2017
+East Midlands,Blaby,410,2017
+East Midlands,Charnwood,705,2017
+East Midlands,Harborough,363,2017
+East Midlands,Hinckley and Bosworth,446,2017
+East Midlands,Melton,270,2017
+East Midlands,North West Leicestershire,566,2017
+East Midlands,Oadby and Wigston,184,2017
+East Midlands,Boston,323,2017
+East Midlands,East Lindsey,730,2017
+East Midlands,Lincoln,416,2017
+East Midlands,North Kesteven,471,2017
+East Midlands,South Holland,516,2017
+East Midlands,South Kesteven,642,2017
+East Midlands,West Lindsey,385,2017
+East Midlands,Ashfield,550,2017
+East Midlands,Bassetlaw,581,2017
+East Midlands,Broxtowe,333,2017
+East Midlands,Gedling,345,2017
+East Midlands,Mansfield,401,2017
+East Midlands,Newark and Sherwood,524,2017
+East Midlands,Rushcliffe,407,2017
+West Midlands,"Herefordshire, County of",984,2017
+West Midlands,Telford and Wrekin,852,2017
+West Midlands,Stoke-on-Trent,950,2017
+West Midlands,Shropshire,"1,457",2017
+West Midlands,Cannock Chase,355,2017
+West Midlands,East Staffordshire,675,2017
+West Midlands,Lichfield,438,2017
+West Midlands,Newcastle-under-Lyme,465,2017
+West Midlands,South Staffordshire,460,2017
+West Midlands,Stafford,590,2017
+West Midlands,Staffordshire Moorlands,487,2017
+West Midlands,Tamworth,302,2017
+West Midlands,North Warwickshire,531,2017
+West Midlands,Nuneaton and Bedworth,429,2017
+West Midlands,Rugby,647,2017
+West Midlands,Stratford-on-Avon,650,2017
+West Midlands,Warwick,642,2017
+West Midlands,Bromsgrove,332,2017
+West Midlands,Malvern Hills,300,2017
+West Midlands,Redditch,358,2017
+West Midlands,Worcester,418,2017
+West Midlands,Wychavon,661,2017
+West Midlands,Wyre Forest,386,2017
+West Midlands,Birmingham,"4,149",2017
+West Midlands,Coventry,"1,316",2017
+West Midlands,Dudley,"1,060",2017
+West Midlands,Sandwell,"1,303",2017
+West Midlands,Solihull,"1,023",2017
+West Midlands,Walsall,988,2017
+West Midlands,Wolverhampton,936,2017
+East,Peterborough,908,2017
+East,Luton,700,2017
+East,Southend-on-Sea,606,2017
+East,Thurrock,979,2017
+East,Bedford,717,2017
+East,Central Bedfordshire,"1,071",2017
+East,Cambridge,752,2017
+East,East Cambridgeshire,399,2017
+East,Fenland,517,2017
+East,Huntingdonshire,840,2017
+East,South Cambridgeshire,797,2017
+East,Basildon,756,2017
+East,Braintree,553,2017
+East,Brentwood,287,2017
+East,Castle Point,249,2017
+East,Chelmsford,720,2017
+East,Colchester,685,2017
+East,Epping Forest,466,2017
+East,Harlow,366,2017
+East,Maldon,275,2017
+East,Rochford,273,2017
+East,Tendring,503,2017
+East,Uttlesford,404,2017
+East,Broxbourne,408,2017
+East,Dacorum,637,2017
+East,Hertsmere,461,2017
+East,North Hertfordshire,527,2017
+East,Three Rivers,333,2017
+East,Watford,474,2017
+East,Breckland,606,2017
+East,Broadland,481,2017
+East,Great Yarmouth,371,2017
+East,King's Lynn and West Norfolk,"1,077",2017
+East,North Norfolk,519,2017
+East,Norwich,593,2017
+East,South Norfolk,564,2017
+East,Babergh,398,2017
+East,Ipswich,487,2017
+East,Mid Suffolk,479,2017
+East,St Albans,485,2017
+East,Welwyn Hatfield,647,2017
+East,East Hertfordshire,533,2017
+East,Stevenage,376,2017
+East,East Suffolk,"1,127",2017
+East,West Suffolk,911,2017
+Inner London,City of London,"2,097",2017
+Inner London,Camden,"1,702",2017
+Inner London,Hackney,904,2017
+Inner London,Hammersmith and Fulham,952,2017
+Inner London,Haringey,768,2017
+Inner London,Islington,"1,134",2017
+Inner London,Kensington and Chelsea,"1,342",2017
+Inner London,Lambeth,"1,068",2017
+Inner London,Lewisham,703,2017
+Inner London,Newham,"1,410",2017
+Inner London,Southwark,"1,660",2017
+Inner London,Tower Hamlets,"2,751",2017
+Inner London,Wandsworth,"1,009",2017
+Inner London,Westminster,"3,644",2017
+Outer London,Barking and Dagenham,657,2017
+Outer London,Barnet,"1,120",2017
+Outer London,Bexley,771,2017
+Outer London,Brent,"1,191",2017
+Outer London,Bromley,954,2017
+Outer London,Croydon,"1,224",2017
+Outer London,Ealing,"1,366",2017
+Outer London,Enfield,"1,023",2017
+Outer London,Greenwich,834,2017
+Outer London,Harrow,568,2017
+Outer London,Havering,785,2017
+Outer London,Hillingdon,"1,388",2017
+Outer London,Hounslow,"1,306",2017
+Outer London,Kingston upon Thames,614,2017
+Outer London,Merton,776,2017
+Outer London,Redbridge,666,2017
+Outer London,Richmond upon Thames,653,2017
+Outer London,Sutton,681,2017
+Outer London,Waltham Forest,679,2017
+South East,Medway,843,2017
+South East,Bracknell Forest,516,2017
+South East,West Berkshire,866,2017
+South East,Reading,746,2017
+South East,Slough,"1,183",2017
+South East,Windsor and Maidenhead,706,2017
+South East,Wokingham,651,2017
+South East,Milton Keynes,"1,405",2017
+South East,Brighton and Hove,972,2017
+South East,Portsmouth,888,2017
+South East,Southampton,918,2017
+South East,Isle of Wight,542,2017
+South East,Buckinghamshire,"2,046",2017
+South East,Eastbourne,352,2017
+South East,Hastings,302,2017
+South East,Lewes,328,2017
+South East,Rother,362,2017
+South East,Wealden,537,2017
+South East,Basingstoke and Deane,828,2017
+South East,East Hampshire,443,2017
+South East,Eastleigh,524,2017
+South East,Fareham,431,2017
+South East,Gosport,280,2017
+South East,Hart,422,2017
+South East,Havant,412,2017
+South East,New Forest,751,2017
+South East,Rushmoor,376,2017
+South East,Test Valley,573,2017
+South East,Winchester,602,2017
+South East,Ashford,504,2017
+South East,Canterbury,568,2017
+South East,Dartford,416,2017
+South East,Dover,431,2017
+South East,Gravesham,445,2017
+South East,Maidstone,653,2017
+South East,Sevenoaks,446,2017
+South East,Folkestone and Hythe,447,2017
+South East,Swale,693,2017
+South East,Thanet,522,2017
+South East,Tonbridge and Malling,519,2017
+South East,Tunbridge Wells,504,2017
+South East,Cherwell,738,2017
+South East,Oxford,853,2017
+South East,South Oxfordshire,781,2017
+South East,Vale of White Horse,723,2017
+South East,West Oxfordshire,529,2017
+South East,Elmbridge,551,2017
+South East,Epsom and Ewell,225,2017
+South East,Guildford,604,2017
+South East,Mole Valley,407,2017
+South East,Reigate and Banstead,608,2017
+South East,Runnymede,412,2017
+South East,Spelthorne,374,2017
+South East,Surrey Heath,389,2017
+South East,Tandridge,310,2017
+South East,Waverley,438,2017
+South East,Woking,597,2017
+South East,Adur,198,2017
+South East,Arun,500,2017
+South East,Chichester,586,2017
+South East,Crawley,638,2017
+South East,Horsham,542,2017
+South East,Mid Sussex,513,2017
+South East,Worthing,377,2017
+South West,Bath and North East Somerset,661,2017
+South West,"Bristol, City of","1,819",2017
+South West,North Somerset,770,2017
+South West,South Gloucestershire,"1,176",2017
+South West,Plymouth,911,2017
+South West,Torbay,451,2017
+South West,Swindon,"1,070",2017
+South West,Cornwall,"2,658",2017
+South West,Wiltshire,"2,185",2017
+South West,"Bournemouth, Christchurch and Poole","1,521",2017
+South West,Dorset,"1,611",2017
+South West,East Devon,512,2017
+South West,Exeter,568,2017
+South West,Mid Devon,350,2017
+South West,North Devon,454,2017
+South West,South Hams,463,2017
+South West,Teignbridge,498,2017
+South West,Torridge,270,2017
+South West,West Devon,251,2017
+South West,Cheltenham,510,2017
+South West,Cotswold,432,2017
+South West,Forest of Dean,429,2017
+South West,Gloucester,569,2017
+South West,Stroud,546,2017
+South West,Tewkesbury,497,2017
+South West,Mendip,538,2017
+South West,Sedgemoor,609,2017
+South West,South Somerset,738,2017
+South West,Isles of Scilly,18,2017
+South West,Somerset West and Taunton,593,2017
+North East,Hartlepool,442,2018
+North East,Middlesbrough,490,2018
+North East,Redcar and Cleveland,794,2018
+North East,Stockton-on-Tees,"1,244",2018
+North East,Darlington,408,2018
+North East,County Durham,"1,882",2018
+North East,Northumberland,"1,485",2018
+North East,Newcastle upon Tyne,"1,228",2018
+North East,North Tyneside,739,2018
+North East,South Tyneside,410,2018
+North East,Sunderland,"1,226",2018
+North East,Gateshead,825,2018
+North West,Halton,706,2018
+North West,Warrington,901,2018
+North West,Blackburn with Darwen,591,2018
+North West,Blackpool,519,2018
+North West,Cheshire East,"1,699",2018
+North West,Cheshire West and Chester,"2,141",2018
+North West,Allerdale,446,2018
+North West,Barrow-in-Furness,454,2018
+North West,Carlisle,568,2018
+North West,Copeland,223,2018
+North West,Eden,375,2018
+North West,South Lakeland,570,2018
+North West,Burnley,338,2018
+North West,Chorley,376,2018
+North West,Fylde,368,2018
+North West,Hyndburn,293,2018
+North West,Lancaster,535,2018
+North West,Pendle,359,2018
+North West,Preston,548,2018
+North West,Ribble Valley,435,2018
+North West,Rossendale,297,2018
+North West,South Ribble,458,2018
+North West,West Lancashire,553,2018
+North West,Wyre,489,2018
+North West,Bolton,941,2018
+North West,Bury,629,2018
+North West,Manchester,"2,613",2018
+North West,Oldham,748,2018
+North West,Rochdale,800,2018
+North West,Salford,"1,009",2018
+North West,Stockport,986,2018
+North West,Tameside,746,2018
+North West,Trafford,"1,369",2018
+North West,Wigan,"1,104",2018
+North West,Knowsley,707,2018
+North West,Liverpool,"1,889",2018
+North West,St. Helens,724,2018
+North West,Sefton,832,2018
+North West,Wirral,"1,006",2018
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,106",2018
+Yorkshire and The Humber,East Riding of Yorkshire,"1,592",2018
+Yorkshire and The Humber,North East Lincolnshire,840,2018
+Yorkshire and The Humber,North Lincolnshire,"1,206",2018
+Yorkshire and The Humber,York,741,2018
+Yorkshire and The Humber,Craven,256,2018
+Yorkshire and The Humber,Hambleton,462,2018
+Yorkshire and The Humber,Harrogate,797,2018
+Yorkshire and The Humber,Richmondshire,224,2018
+Yorkshire and The Humber,Ryedale,316,2018
+Yorkshire and The Humber,Scarborough,492,2018
+Yorkshire and The Humber,Selby,455,2018
+Yorkshire and The Humber,Barnsley,922,2018
+Yorkshire and The Humber,Doncaster,"1,277",2018
+Yorkshire and The Humber,Rotherham,"1,010",2018
+Yorkshire and The Humber,Sheffield,"2,176",2018
+Yorkshire and The Humber,Bradford,"1,723",2018
+Yorkshire and The Humber,Calderdale,814,2018
+Yorkshire and The Humber,Kirklees,"1,469",2018
+Yorkshire and The Humber,Leeds,"3,270",2018
+Yorkshire and The Humber,Wakefield,"1,632",2018
+East Midlands,Derby,"1,022",2018
+East Midlands,Leicester,"1,338",2018
+East Midlands,Rutland,341,2018
+East Midlands,Nottingham,"1,227",2018
+East Midlands,North Northamptonshire,"1,595",2018
+East Midlands,West Northamptonshire,"1,776",2018
+East Midlands,Amber Valley,572,2018
+East Midlands,Bolsover,371,2018
+East Midlands,Chesterfield,405,2018
+East Midlands,Derbyshire Dales,404,2018
+East Midlands,Erewash,401,2018
+East Midlands,High Peak,749,2018
+East Midlands,North East Derbyshire,419,2018
+East Midlands,South Derbyshire,525,2018
+East Midlands,Blaby,402,2018
+East Midlands,Charnwood,705,2018
+East Midlands,Harborough,354,2018
+East Midlands,Hinckley and Bosworth,440,2018
+East Midlands,Melton,268,2018
+East Midlands,North West Leicestershire,572,2018
+East Midlands,Oadby and Wigston,182,2018
+East Midlands,Boston,320,2018
+East Midlands,East Lindsey,687,2018
+East Midlands,Lincoln,409,2018
+East Midlands,North Kesteven,470,2018
+East Midlands,South Holland,516,2018
+East Midlands,South Kesteven,627,2018
+East Midlands,West Lindsey,385,2018
+East Midlands,Ashfield,536,2018
+East Midlands,Bassetlaw,553,2018
+East Midlands,Broxtowe,325,2018
+East Midlands,Gedling,343,2018
+East Midlands,Mansfield,397,2018
+East Midlands,Newark and Sherwood,534,2018
+East Midlands,Rushcliffe,404,2018
+West Midlands,"Herefordshire, County of",967,2018
+West Midlands,Telford and Wrekin,851,2018
+West Midlands,Stoke-on-Trent,948,2018
+West Midlands,Shropshire,"1,451",2018
+West Midlands,Cannock Chase,348,2018
+West Midlands,East Staffordshire,663,2018
+West Midlands,Lichfield,440,2018
+West Midlands,Newcastle-under-Lyme,459,2018
+West Midlands,South Staffordshire,464,2018
+West Midlands,Stafford,578,2018
+West Midlands,Staffordshire Moorlands,491,2018
+West Midlands,Tamworth,293,2018
+West Midlands,North Warwickshire,534,2018
+West Midlands,Nuneaton and Bedworth,423,2018
+West Midlands,Rugby,641,2018
+West Midlands,Stratford-on-Avon,654,2018
+West Midlands,Warwick,634,2018
+West Midlands,Bromsgrove,328,2018
+West Midlands,Malvern Hills,299,2018
+West Midlands,Redditch,356,2018
+West Midlands,Worcester,412,2018
+West Midlands,Wychavon,656,2018
+West Midlands,Wyre Forest,383,2018
+West Midlands,Birmingham,"4,098",2018
+West Midlands,Coventry,"1,293",2018
+West Midlands,Dudley,"1,039",2018
+West Midlands,Sandwell,"1,283",2018
+West Midlands,Solihull,"1,009",2018
+West Midlands,Walsall,980,2018
+West Midlands,Wolverhampton,925,2018
+East,Peterborough,902,2018
+East,Luton,688,2018
+East,Southend-on-Sea,585,2018
+East,Thurrock,989,2018
+East,Bedford,706,2018
+East,Central Bedfordshire,"1,069",2018
+East,Cambridge,754,2018
+East,East Cambridgeshire,402,2018
+East,Fenland,519,2018
+East,Huntingdonshire,831,2018
+East,South Cambridgeshire,812,2018
+East,Basildon,747,2018
+East,Braintree,547,2018
+East,Brentwood,284,2018
+East,Castle Point,244,2018
+East,Chelmsford,715,2018
+East,Colchester,674,2018
+East,Epping Forest,459,2018
+East,Harlow,362,2018
+East,Maldon,269,2018
+East,Rochford,270,2018
+East,Tendring,508,2018
+East,Uttlesford,406,2018
+East,Broxbourne,374,2018
+East,Dacorum,635,2018
+East,Hertsmere,455,2018
+East,North Hertfordshire,532,2018
+East,Three Rivers,335,2018
+East,Watford,461,2018
+East,Breckland,601,2018
+East,Broadland,480,2018
+East,Great Yarmouth,364,2018
+East,King's Lynn and West Norfolk,938,2018
+East,North Norfolk,513,2018
+East,Norwich,572,2018
+East,South Norfolk,574,2018
+East,Babergh,391,2018
+East,Ipswich,477,2018
+East,Mid Suffolk,455,2018
+East,St Albans,477,2018
+East,Welwyn Hatfield,677,2018
+East,East Hertfordshire,551,2018
+East,Stevenage,365,2018
+East,East Suffolk,"1,104",2018
+East,West Suffolk,903,2018
+Inner London,City of London,"2,101",2018
+Inner London,Camden,"1,682",2018
+Inner London,Hackney,903,2018
+Inner London,Hammersmith and Fulham,971,2018
+Inner London,Haringey,768,2018
+Inner London,Islington,"1,110",2018
+Inner London,Kensington and Chelsea,"1,260",2018
+Inner London,Lambeth,"1,063",2018
+Inner London,Lewisham,695,2018
+Inner London,Newham,"1,380",2018
+Inner London,Southwark,"1,634",2018
+Inner London,Tower Hamlets,"2,746",2018
+Inner London,Wandsworth,982,2018
+Inner London,Westminster,"3,620",2018
+Outer London,Barking and Dagenham,635,2018
+Outer London,Barnet,"1,109",2018
+Outer London,Bexley,782,2018
+Outer London,Brent,"1,191",2018
+Outer London,Bromley,946,2018
+Outer London,Croydon,"1,211",2018
+Outer London,Ealing,"1,353",2018
+Outer London,Enfield,"1,020",2018
+Outer London,Greenwich,832,2018
+Outer London,Harrow,560,2018
+Outer London,Havering,785,2018
+Outer London,Hillingdon,"1,363",2018
+Outer London,Hounslow,"1,303",2018
+Outer London,Kingston upon Thames,602,2018
+Outer London,Merton,802,2018
+Outer London,Redbridge,649,2018
+Outer London,Richmond upon Thames,642,2018
+Outer London,Sutton,672,2018
+Outer London,Waltham Forest,674,2018
+South East,Medway,822,2018
+South East,Bracknell Forest,513,2018
+South East,West Berkshire,862,2018
+South East,Reading,743,2018
+South East,Slough,"1,256",2018
+South East,Windsor and Maidenhead,711,2018
+South East,Wokingham,649,2018
+South East,Milton Keynes,"1,370",2018
+South East,Brighton and Hove,952,2018
+South East,Portsmouth,907,2018
+South East,Southampton,925,2018
+South East,Isle of Wight,539,2018
+South East,Buckinghamshire,"2,016",2018
+South East,Eastbourne,347,2018
+South East,Hastings,294,2018
+South East,Lewes,323,2018
+South East,Rother,357,2018
+South East,Wealden,525,2018
+South East,Basingstoke and Deane,808,2018
+South East,East Hampshire,440,2018
+South East,Eastleigh,521,2018
+South East,Fareham,427,2018
+South East,Gosport,272,2018
+South East,Hart,435,2018
+South East,Havant,403,2018
+South East,New Forest,756,2018
+South East,Rushmoor,386,2018
+South East,Test Valley,563,2018
+South East,Winchester,598,2018
+South East,Ashford,495,2018
+South East,Canterbury,561,2018
+South East,Dartford,418,2018
+South East,Dover,410,2018
+South East,Gravesham,438,2018
+South East,Maidstone,649,2018
+South East,Sevenoaks,439,2018
+South East,Folkestone and Hythe,428,2018
+South East,Swale,661,2018
+South East,Thanet,505,2018
+South East,Tonbridge and Malling,513,2018
+South East,Tunbridge Wells,505,2018
+South East,Cherwell,726,2018
+South East,Oxford,811,2018
+South East,South Oxfordshire,776,2018
+South East,Vale of White Horse,718,2018
+South East,West Oxfordshire,526,2018
+South East,Elmbridge,539,2018
+South East,Epsom and Ewell,224,2018
+South East,Guildford,594,2018
+South East,Mole Valley,420,2018
+South East,Reigate and Banstead,608,2018
+South East,Runnymede,410,2018
+South East,Spelthorne,368,2018
+South East,Surrey Heath,391,2018
+South East,Tandridge,305,2018
+South East,Waverley,435,2018
+South East,Woking,584,2018
+South East,Adur,190,2018
+South East,Arun,497,2018
+South East,Chichester,579,2018
+South East,Crawley,649,2018
+South East,Horsham,535,2018
+South East,Mid Sussex,509,2018
+South East,Worthing,363,2018
+South West,Bath and North East Somerset,657,2018
+South West,"Bristol, City of","1,810",2018
+South West,North Somerset,761,2018
+South West,South Gloucestershire,"1,175",2018
+South West,Plymouth,898,2018
+South West,Torbay,444,2018
+South West,Swindon,"1,054",2018
+South West,Cornwall,"2,597",2018
+South West,Wiltshire,"2,176",2018
+South West,"Bournemouth, Christchurch and Poole","1,499",2018
+South West,Dorset,"1,604",2018
+South West,East Devon,513,2018
+South West,Exeter,562,2018
+South West,Mid Devon,347,2018
+South West,North Devon,449,2018
+South West,South Hams,456,2018
+South West,Teignbridge,494,2018
+South West,Torridge,268,2018
+South West,West Devon,252,2018
+South West,Cheltenham,501,2018
+South West,Cotswold,429,2018
+South West,Forest of Dean,430,2018
+South West,Gloucester,557,2018
+South West,Stroud,544,2018
+South West,Tewkesbury,491,2018
+South West,Mendip,529,2018
+South West,Sedgemoor,604,2018
+South West,South Somerset,731,2018
+South West,Isles of Scilly,17,2018
+South West,Somerset West and Taunton,587,2018
+North East,Hartlepool,442,2019
+North East,Middlesbrough,450,2019
+North East,Redcar and Cleveland,779,2019
+North East,Stockton-on-Tees,"1,269",2019
+North East,Darlington,434,2019
+North East,County Durham,"1,847",2019
+North East,Northumberland,"1,470",2019
+North East,Newcastle upon Tyne,"1,187",2019
+North East,North Tyneside,735,2019
+North East,South Tyneside,402,2019
+North East,Sunderland,"1,176",2019
+North East,Gateshead,806,2019
+North West,Halton,658,2019
+North West,Warrington,881,2019
+North West,Blackburn with Darwen,582,2019
+North West,Blackpool,517,2019
+North West,Cheshire East,"1,684",2019
+North West,Cheshire West and Chester,"2,093",2019
+North West,Allerdale,443,2019
+North West,Barrow-in-Furness,447,2019
+North West,Carlisle,561,2019
+North West,Copeland,220,2019
+North West,Eden,368,2019
+North West,South Lakeland,563,2019
+North West,Burnley,341,2019
+North West,Chorley,375,2019
+North West,Fylde,362,2019
+North West,Hyndburn,284,2019
+North West,Lancaster,529,2019
+North West,Pendle,352,2019
+North West,Preston,531,2019
+North West,Ribble Valley,430,2019
+North West,Rossendale,295,2019
+North West,South Ribble,450,2019
+North West,West Lancashire,561,2019
+North West,Wyre,492,2019
+North West,Bolton,927,2019
+North West,Bury,620,2019
+North West,Manchester,"2,544",2019
+North West,Oldham,735,2019
+North West,Rochdale,788,2019
+North West,Salford,992,2019
+North West,Stockport,991,2019
+North West,Tameside,734,2019
+North West,Trafford,"1,351",2019
+North West,Wigan,"1,088",2019
+North West,Knowsley,677,2019
+North West,Liverpool,"1,832",2019
+North West,St. Helens,720,2019
+North West,Sefton,820,2019
+North West,Wirral,987,2019
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,088",2019
+Yorkshire and The Humber,East Riding of Yorkshire,"1,595",2019
+Yorkshire and The Humber,North East Lincolnshire,815,2019
+Yorkshire and The Humber,North Lincolnshire,"1,203",2019
+Yorkshire and The Humber,York,735,2019
+Yorkshire and The Humber,Craven,254,2019
+Yorkshire and The Humber,Hambleton,456,2019
+Yorkshire and The Humber,Harrogate,790,2019
+Yorkshire and The Humber,Richmondshire,225,2019
+Yorkshire and The Humber,Ryedale,323,2019
+Yorkshire and The Humber,Scarborough,482,2019
+Yorkshire and The Humber,Selby,458,2019
+Yorkshire and The Humber,Barnsley,921,2019
+Yorkshire and The Humber,Doncaster,"1,299",2019
+Yorkshire and The Humber,Rotherham,996,2019
+Yorkshire and The Humber,Sheffield,"2,133",2019
+Yorkshire and The Humber,Bradford,"1,715",2019
+Yorkshire and The Humber,Calderdale,793,2019
+Yorkshire and The Humber,Kirklees,"1,430",2019
+Yorkshire and The Humber,Leeds,"3,200",2019
+Yorkshire and The Humber,Wakefield,"1,636",2019
+East Midlands,Derby,"1,000",2019
+East Midlands,Leicester,"1,310",2019
+East Midlands,Rutland,344,2019
+East Midlands,Nottingham,"1,199",2019
+East Midlands,North Northamptonshire,"1,566",2019
+East Midlands,West Northamptonshire,"1,739",2019
+East Midlands,Amber Valley,558,2019
+East Midlands,Bolsover,372,2019
+East Midlands,Chesterfield,397,2019
+East Midlands,Derbyshire Dales,405,2019
+East Midlands,Erewash,400,2019
+East Midlands,High Peak,750,2019
+East Midlands,North East Derbyshire,421,2019
+East Midlands,South Derbyshire,516,2019
+East Midlands,Blaby,392,2019
+East Midlands,Charnwood,690,2019
+East Midlands,Harborough,353,2019
+East Midlands,Hinckley and Bosworth,430,2019
+East Midlands,Melton,268,2019
+East Midlands,North West Leicestershire,579,2019
+East Midlands,Oadby and Wigston,178,2019
+East Midlands,Boston,312,2019
+East Midlands,East Lindsey,674,2019
+East Midlands,Lincoln,395,2019
+East Midlands,North Kesteven,469,2019
+East Midlands,South Holland,509,2019
+East Midlands,South Kesteven,618,2019
+East Midlands,West Lindsey,390,2019
+East Midlands,Ashfield,519,2019
+East Midlands,Bassetlaw,543,2019
+East Midlands,Broxtowe,322,2019
+East Midlands,Gedling,339,2019
+East Midlands,Mansfield,392,2019
+East Midlands,Newark and Sherwood,523,2019
+East Midlands,Rushcliffe,410,2019
+West Midlands,"Herefordshire, County of",950,2019
+West Midlands,Telford and Wrekin,849,2019
+West Midlands,Stoke-on-Trent,931,2019
+West Midlands,Shropshire,"1,398",2019
+West Midlands,Cannock Chase,339,2019
+West Midlands,East Staffordshire,654,2019
+West Midlands,Lichfield,436,2019
+West Midlands,Newcastle-under-Lyme,443,2019
+West Midlands,South Staffordshire,471,2019
+West Midlands,Stafford,563,2019
+West Midlands,Staffordshire Moorlands,469,2019
+West Midlands,Tamworth,283,2019
+West Midlands,North Warwickshire,529,2019
+West Midlands,Nuneaton and Bedworth,412,2019
+West Midlands,Rugby,640,2019
+West Midlands,Stratford-on-Avon,655,2019
+West Midlands,Warwick,613,2019
+West Midlands,Bromsgrove,323,2019
+West Midlands,Malvern Hills,297,2019
+West Midlands,Redditch,341,2019
+West Midlands,Worcester,400,2019
+West Midlands,Wychavon,641,2019
+West Midlands,Wyre Forest,379,2019
+West Midlands,Birmingham,"4,015",2019
+West Midlands,Coventry,"1,268",2019
+West Midlands,Dudley,"1,019",2019
+West Midlands,Sandwell,"1,245",2019
+West Midlands,Solihull,983,2019
+West Midlands,Walsall,958,2019
+West Midlands,Wolverhampton,909,2019
+East,Peterborough,894,2019
+East,Luton,678,2019
+East,Southend-on-Sea,573,2019
+East,Thurrock,961,2019
+East,Bedford,713,2019
+East,Central Bedfordshire,"1,078",2019
+East,Cambridge,745,2019
+East,East Cambridgeshire,402,2019
+East,Fenland,507,2019
+East,Huntingdonshire,821,2019
+East,South Cambridgeshire,800,2019
+East,Basildon,854,2019
+East,Braintree,535,2019
+East,Brentwood,280,2019
+East,Castle Point,239,2019
+East,Chelmsford,708,2019
+East,Colchester,667,2019
+East,Epping Forest,455,2019
+East,Harlow,358,2019
+East,Maldon,264,2019
+East,Rochford,266,2019
+East,Tendring,490,2019
+East,Uttlesford,403,2019
+East,Broxbourne,367,2019
+East,Dacorum,649,2019
+East,Hertsmere,443,2019
+East,North Hertfordshire,506,2019
+East,Three Rivers,333,2019
+East,Watford,452,2019
+East,Breckland,586,2019
+East,Broadland,469,2019
+East,Great Yarmouth,357,2019
+East,King's Lynn and West Norfolk,866,2019
+East,North Norfolk,507,2019
+East,Norwich,555,2019
+East,South Norfolk,552,2019
+East,Babergh,384,2019
+East,Ipswich,461,2019
+East,Mid Suffolk,474,2019
+East,St Albans,469,2019
+East,Welwyn Hatfield,689,2019
+East,East Hertfordshire,557,2019
+East,Stevenage,360,2019
+East,East Suffolk,"1,067",2019
+East,West Suffolk,886,2019
+Inner London,City of London,"2,030",2019
+Inner London,Camden,"1,624",2019
+Inner London,Hackney,902,2019
+Inner London,Hammersmith and Fulham,948,2019
+Inner London,Haringey,781,2019
+Inner London,Islington,"1,065",2019
+Inner London,Kensington and Chelsea,"1,282",2019
+Inner London,Lambeth,"1,030",2019
+Inner London,Lewisham,687,2019
+Inner London,Newham,"1,359",2019
+Inner London,Southwark,"1,481",2019
+Inner London,Tower Hamlets,"2,674",2019
+Inner London,Wandsworth,989,2019
+Inner London,Westminster,"3,505",2019
+Outer London,Barking and Dagenham,609,2019
+Outer London,Barnet,"1,098",2019
+Outer London,Bexley,780,2019
+Outer London,Brent,"1,182",2019
+Outer London,Bromley,932,2019
+Outer London,Croydon,"1,237",2019
+Outer London,Ealing,"1,358",2019
+Outer London,Enfield,998,2019
+Outer London,Greenwich,821,2019
+Outer London,Harrow,549,2019
+Outer London,Havering,767,2019
+Outer London,Hillingdon,"1,366",2019
+Outer London,Hounslow,"1,257",2019
+Outer London,Kingston upon Thames,586,2019
+Outer London,Merton,804,2019
+Outer London,Redbridge,637,2019
+Outer London,Richmond upon Thames,636,2019
+Outer London,Sutton,662,2019
+Outer London,Waltham Forest,655,2019
+South East,Medway,814,2019
+South East,Bracknell Forest,505,2019
+South East,West Berkshire,860,2019
+South East,Reading,718,2019
+South East,Slough,"1,334",2019
+South East,Windsor and Maidenhead,690,2019
+South East,Wokingham,638,2019
+South East,Milton Keynes,"1,335",2019
+South East,Brighton and Hove,928,2019
+South East,Portsmouth,880,2019
+South East,Southampton,886,2019
+South East,Isle of Wight,531,2019
+South East,Buckinghamshire,"2,005",2019
+South East,Eastbourne,340,2019
+South East,Hastings,289,2019
+South East,Lewes,322,2019
+South East,Rother,352,2019
+South East,Wealden,529,2019
+South East,Basingstoke and Deane,809,2019
+South East,East Hampshire,438,2019
+South East,Eastleigh,523,2019
+South East,Fareham,418,2019
+South East,Gosport,266,2019
+South East,Hart,451,2019
+South East,Havant,392,2019
+South East,New Forest,747,2019
+South East,Rushmoor,366,2019
+South East,Test Valley,552,2019
+South East,Winchester,586,2019
+South East,Ashford,488,2019
+South East,Canterbury,556,2019
+South East,Dartford,405,2019
+South East,Dover,384,2019
+South East,Gravesham,443,2019
+South East,Maidstone,641,2019
+South East,Sevenoaks,430,2019
+South East,Folkestone and Hythe,410,2019
+South East,Swale,634,2019
+South East,Thanet,482,2019
+South East,Tonbridge and Malling,520,2019
+South East,Tunbridge Wells,505,2019
+South East,Cherwell,721,2019
+South East,Oxford,796,2019
+South East,South Oxfordshire,760,2019
+South East,Vale of White Horse,718,2019
+South East,West Oxfordshire,524,2019
+South East,Elmbridge,528,2019
+South East,Epsom and Ewell,220,2019
+South East,Guildford,586,2019
+South East,Mole Valley,422,2019
+South East,Reigate and Banstead,604,2019
+South East,Runnymede,403,2019
+South East,Spelthorne,369,2019
+South East,Surrey Heath,368,2019
+South East,Tandridge,303,2019
+South East,Waverley,427,2019
+South East,Woking,598,2019
+South East,Adur,188,2019
+South East,Arun,488,2019
+South East,Chichester,572,2019
+South East,Crawley,651,2019
+South East,Horsham,532,2019
+South East,Mid Sussex,513,2019
+South East,Worthing,352,2019
+South West,Bath and North East Somerset,643,2019
+South West,"Bristol, City of","1,769",2019
+South West,North Somerset,752,2019
+South West,South Gloucestershire,"1,162",2019
+South West,Plymouth,882,2019
+South West,Torbay,441,2019
+South West,Swindon,"1,019",2019
+South West,Cornwall,"2,565",2019
+South West,Wiltshire,"2,172",2019
+South West,"Bournemouth, Christchurch and Poole","1,473",2019
+South West,Dorset,"1,588",2019
+South West,East Devon,506,2019
+South West,Exeter,554,2019
+South West,Mid Devon,341,2019
+South West,North Devon,445,2019
+South West,South Hams,431,2019
+South West,Teignbridge,468,2019
+South West,Torridge,263,2019
+South West,West Devon,254,2019
+South West,Cheltenham,499,2019
+South West,Cotswold,426,2019
+South West,Forest of Dean,415,2019
+South West,Gloucester,543,2019
+South West,Stroud,535,2019
+South West,Tewkesbury,469,2019
+South West,Mendip,527,2019
+South West,Sedgemoor,596,2019
+South West,South Somerset,723,2019
+South West,Isles of Scilly,17,2019
+South West,Somerset West and Taunton,576,2019
+North East,Hartlepool,463,2020
+North East,Middlesbrough,422,2020
+North East,Redcar and Cleveland,744,2020
+North East,Stockton-on-Tees,"1,204",2020
+North East,Darlington,415,2020
+North East,County Durham,"1,779",2020
+North East,Northumberland,"1,422",2020
+North East,Newcastle upon Tyne,"1,076",2020
+North East,North Tyneside,732,2020
+North East,South Tyneside,382,2020
+North East,Sunderland,"1,065",2020
+North East,Gateshead,780,2020
+North West,Halton,618,2020
+North West,Warrington,883,2020
+North West,Blackburn with Darwen,543,2020
+North West,Blackpool,470,2020
+North West,Cheshire East,"1,627",2020
+North West,Cheshire West and Chester,"1,985",2020
+North West,Allerdale,453,2020
+North West,Barrow-in-Furness,404,2020
+North West,Carlisle,542,2020
+North West,Copeland,221,2020
+North West,Eden,349,2020
+North West,South Lakeland,516,2020
+North West,Burnley,323,2020
+North West,Chorley,376,2020
+North West,Fylde,350,2020
+North West,Hyndburn,279,2020
+North West,Lancaster,504,2020
+North West,Pendle,324,2020
+North West,Preston,533,2020
+North West,Ribble Valley,425,2020
+North West,Rossendale,297,2020
+North West,South Ribble,431,2020
+North West,West Lancashire,567,2020
+North West,Wyre,474,2020
+North West,Bolton,893,2020
+North West,Bury,592,2020
+North West,Manchester,"2,306",2020
+North West,Oldham,703,2020
+North West,Rochdale,759,2020
+North West,Salford,969,2020
+North West,Stockport,950,2020
+North West,Tameside,709,2020
+North West,Trafford,"1,297",2020
+North West,Wigan,"1,072",2020
+North West,Knowsley,610,2020
+North West,Liverpool,"1,709",2020
+North West,St. Helens,691,2020
+North West,Sefton,793,2020
+North West,Wirral,951,2020
+Yorkshire and The Humber,"Kingston upon Hull, City of","1,028",2020
+Yorkshire and The Humber,East Riding of Yorkshire,"1,592",2020
+Yorkshire and The Humber,North East Lincolnshire,795,2020
+Yorkshire and The Humber,North Lincolnshire,"1,217",2020
+Yorkshire and The Humber,York,704,2020
+Yorkshire and The Humber,Craven,249,2020
+Yorkshire and The Humber,Hambleton,484,2020
+Yorkshire and The Humber,Harrogate,772,2020
+Yorkshire and The Humber,Richmondshire,216,2020
+Yorkshire and The Humber,Ryedale,309,2020
+Yorkshire and The Humber,Scarborough,461,2020
+Yorkshire and The Humber,Selby,448,2020
+Yorkshire and The Humber,Barnsley,894,2020
+Yorkshire and The Humber,Doncaster,"1,269",2020
+Yorkshire and The Humber,Rotherham,945,2020
+Yorkshire and The Humber,Sheffield,"2,109",2020
+Yorkshire and The Humber,Bradford,"1,643",2020
+Yorkshire and The Humber,Calderdale,755,2020
+Yorkshire and The Humber,Kirklees,"1,354",2020
+Yorkshire and The Humber,Leeds,"3,034",2020
+Yorkshire and The Humber,Wakefield,"1,588",2020
+East Midlands,Derby,920,2020
+East Midlands,Leicester,"1,229",2020
+East Midlands,Rutland,324,2020
+East Midlands,Nottingham,"1,102",2020
+East Midlands,North Northamptonshire,"1,506",2020
+East Midlands,West Northamptonshire,"1,688",2020
+East Midlands,Amber Valley,522,2020
+East Midlands,Bolsover,360,2020
+East Midlands,Chesterfield,370,2020
+East Midlands,Derbyshire Dales,399,2020
+East Midlands,Erewash,382,2020
+East Midlands,High Peak,705,2020
+East Midlands,North East Derbyshire,390,2020
+East Midlands,South Derbyshire,499,2020
+East Midlands,Blaby,378,2020
+East Midlands,Charnwood,660,2020
+East Midlands,Harborough,352,2020
+East Midlands,Hinckley and Bosworth,414,2020
+East Midlands,Melton,260,2020
+East Midlands,North West Leicestershire,560,2020
+East Midlands,Oadby and Wigston,167,2020
+East Midlands,Boston,304,2020
+East Midlands,East Lindsey,638,2020
+East Midlands,Lincoln,363,2020
+East Midlands,North Kesteven,506,2020
+East Midlands,South Holland,553,2020
+East Midlands,South Kesteven,583,2020
+East Midlands,West Lindsey,385,2020
+East Midlands,Ashfield,491,2020
+East Midlands,Bassetlaw,527,2020
+East Midlands,Broxtowe,314,2020
+East Midlands,Gedling,335,2020
+East Midlands,Mansfield,377,2020
+East Midlands,Newark and Sherwood,508,2020
+East Midlands,Rushcliffe,397,2020
+West Midlands,"Herefordshire, County of",920,2020
+West Midlands,Telford and Wrekin,789,2020
+West Midlands,Stoke-on-Trent,863,2020
+West Midlands,Shropshire,"1,345",2020
+West Midlands,Cannock Chase,352,2020
+West Midlands,East Staffordshire,607,2020
+West Midlands,Lichfield,423,2020
+West Midlands,Newcastle-under-Lyme,410,2020
+West Midlands,South Staffordshire,483,2020
+West Midlands,Stafford,546,2020
+West Midlands,Staffordshire Moorlands,444,2020
+West Midlands,Tamworth,268,2020
+West Midlands,North Warwickshire,506,2020
+West Midlands,Nuneaton and Bedworth,394,2020
+West Midlands,Rugby,625,2020
+West Midlands,Stratford-on-Avon,627,2020
+West Midlands,Warwick,582,2020
+West Midlands,Bromsgrove,313,2020
+West Midlands,Malvern Hills,290,2020
+West Midlands,Redditch,309,2020
+West Midlands,Worcester,373,2020
+West Midlands,Wychavon,624,2020
+West Midlands,Wyre Forest,354,2020
+West Midlands,Birmingham,"3,712",2020
+West Midlands,Coventry,"1,173",2020
+West Midlands,Dudley,949,2020
+West Midlands,Sandwell,"1,173",2020
+West Midlands,Solihull,874,2020
+West Midlands,Walsall,874,2020
+West Midlands,Wolverhampton,917,2020
+East,Peterborough,915,2020
+East,Luton,636,2020
+East,Southend-on-Sea,554,2020
+East,Thurrock,924,2020
+East,Bedford,699,2020
+East,Central Bedfordshire,"1,020",2020
+East,Cambridge,686,2020
+East,East Cambridgeshire,403,2020
+East,Fenland,504,2020
+East,Huntingdonshire,811,2020
+East,South Cambridgeshire,829,2020
+East,Basildon,800,2020
+East,Braintree,525,2020
+East,Brentwood,277,2020
+East,Castle Point,236,2020
+East,Chelmsford,683,2020
+East,Colchester,648,2020
+East,Epping Forest,446,2020
+East,Harlow,347,2020
+East,Maldon,263,2020
+East,Rochford,265,2020
+East,Tendring,484,2020
+East,Uttlesford,387,2020
+East,Broxbourne,371,2020
+East,Dacorum,667,2020
+East,Hertsmere,425,2020
+East,North Hertfordshire,482,2020
+East,Three Rivers,323,2020
+East,Watford,419,2020
+East,Breckland,590,2020
+East,Broadland,458,2020
+East,Great Yarmouth,336,2020
+East,King's Lynn and West Norfolk,775,2020
+East,North Norfolk,554,2020
+East,Norwich,486,2020
+East,South Norfolk,555,2020
+East,Babergh,363,2020
+East,Ipswich,433,2020
+East,Mid Suffolk,486,2020
+East,St Albans,463,2020
+East,Welwyn Hatfield,669,2020
+East,East Hertfordshire,594,2020
+East,Stevenage,351,2020
+East,East Suffolk,"1,067",2020
+East,West Suffolk,893,2020
+Inner London,City of London,"1,611",2020
+Inner London,Camden,"1,394",2020
+Inner London,Hackney,836,2020
+Inner London,Hammersmith and Fulham,849,2020
+Inner London,Haringey,748,2020
+Inner London,Islington,933,2020
+Inner London,Kensington and Chelsea,"1,149",2020
+Inner London,Lambeth,956,2020
+Inner London,Lewisham,668,2020
+Inner London,Newham,"1,258",2020
+Inner London,Southwark,"1,222",2020
+Inner London,Tower Hamlets,"2,462",2020
+Inner London,Wandsworth,937,2020
+Inner London,Westminster,"2,803",2020
+Outer London,Barking and Dagenham,564,2020
+Outer London,Barnet,"1,064",2020
+Outer London,Bexley,729,2020
+Outer London,Brent,"1,114",2020
+Outer London,Bromley,911,2020
+Outer London,Croydon,"1,169",2020
+Outer London,Ealing,"1,318",2020
+Outer London,Enfield,977,2020
+Outer London,Greenwich,777,2020
+Outer London,Harrow,535,2020
+Outer London,Havering,752,2020
+Outer London,Hillingdon,"1,422",2020
+Outer London,Hounslow,"1,207",2020
+Outer London,Kingston upon Thames,551,2020
+Outer London,Merton,755,2020
+Outer London,Redbridge,626,2020
+Outer London,Richmond upon Thames,610,2020
+Outer London,Sutton,653,2020
+Outer London,Waltham Forest,632,2020
+South East,Medway,796,2020
+South East,Bracknell Forest,483,2020
+South East,West Berkshire,828,2020
+South East,Reading,676,2020
+South East,Slough,"1,411",2020
+South East,Windsor and Maidenhead,647,2020
+South East,Wokingham,620,2020
+South East,Milton Keynes,"1,251",2020
+South East,Brighton and Hove,829,2020
+South East,Portsmouth,775,2020
+South East,Southampton,824,2020
+South East,Isle of Wight,520,2020
+South East,Buckinghamshire,"1,946",2020
+South East,Eastbourne,326,2020
+South East,Hastings,277,2020
+South East,Lewes,323,2020
+South East,Rother,346,2020
+South East,Wealden,527,2020
+South East,Basingstoke and Deane,791,2020
+South East,East Hampshire,432,2020
+South East,Eastleigh,491,2020
+South East,Fareham,402,2020
+South East,Gosport,257,2020
+South East,Hart,436,2020
+South East,Havant,375,2020
+South East,New Forest,727,2020
+South East,Rushmoor,354,2020
+South East,Test Valley,580,2020
+South East,Winchester,557,2020
+South East,Ashford,476,2020
+South East,Canterbury,581,2020
+South East,Dartford,386,2020
+South East,Dover,377,2020
+South East,Gravesham,436,2020
+South East,Maidstone,622,2020
+South East,Sevenoaks,424,2020
+South East,Folkestone and Hythe,408,2020
+South East,Swale,615,2020
+South East,Thanet,468,2020
+South East,Tonbridge and Malling,503,2020
+South East,Tunbridge Wells,515,2020
+South East,Cherwell,695,2020
+South East,Oxford,714,2020
+South East,South Oxfordshire,760,2020
+South East,Vale of White Horse,683,2020
+South East,West Oxfordshire,508,2020
+South East,Elmbridge,509,2020
+South East,Epsom and Ewell,213,2020
+South East,Guildford,561,2020
+South East,Mole Valley,401,2020
+South East,Reigate and Banstead,616,2020
+South East,Runnymede,379,2020
+South East,Spelthorne,354,2020
+South East,Surrey Heath,348,2020
+South East,Tandridge,309,2020
+South East,Waverley,419,2020
+South East,Woking,557,2020
+South East,Adur,217,2020
+South East,Arun,477,2020
+South East,Chichester,562,2020
+South East,Crawley,584,2020
+South East,Horsham,540,2020
+South East,Mid Sussex,504,2020
+South East,Worthing,337,2020
+South West,Bath and North East Somerset,616,2020
+South West,"Bristol, City of","1,661",2020
+South West,North Somerset,734,2020
+South West,South Gloucestershire,"1,114",2020
+South West,Plymouth,916,2020
+South West,Torbay,417,2020
+South West,Swindon,944,2020
+South West,Cornwall,"2,531",2020
+South West,Wiltshire,"2,155",2020
+South West,"Bournemouth, Christchurch and Poole","1,365",2020
+South West,Dorset,"1,563",2020
+South West,East Devon,498,2020
+South West,Exeter,511,2020
+South West,Mid Devon,349,2020
+South West,North Devon,430,2020
+South West,South Hams,441,2020
+South West,Teignbridge,450,2020
+South West,Torridge,261,2020
+South West,West Devon,249,2020
+South West,Cheltenham,470,2020
+South West,Cotswold,411,2020
+South West,Forest of Dean,390,2020
+South West,Gloucester,521,2020
+South West,Stroud,509,2020
+South West,Tewkesbury,455,2020
+South West,Mendip,514,2020
+South West,Sedgemoor,580,2020
+South West,South Somerset,704,2020
+South West,Isles of Scilly,16,2020
+South West,Somerset West and Taunton,553,2020

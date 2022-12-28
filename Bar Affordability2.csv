@@ -1,13 +1,13 @@
-year,Median DPI,value
-2022,Disposable Income Leftover,422.78
-2022,Remaining Cost of Groceries,66.76
-2022,Cost of Wheat Produce,13.63
-2021,Disposable Income Leftover,414.07
-2021,Remaining Cost of Groceries,57.4
-2021,Cost of Wheat Produce,11.8
-2020,Disposable Income Leftover,404.57
-2020,Remaining Cost of Groceries,52.25
-2020,Cost of Wheat Produce,11.45
-2019,Disposable Income Leftover,404.04
-2019,Remaining Cost of Groceries,50.75
-2019,Cost of Wheat Produce,11.15
+year,Median DPI,value,value_start,value_end
+2022,Disposable Income Leftover,422.78,80.41,503.19
+2022,Remaining Cost of Groceries,66.76,13.63,80.41
+2022,Cost of Wheat Produce,13.63,0,13.63
+2021,Disposable Income Leftover,414.07,69.2,483.27
+2021,Remaining Cost of Groceries,57.4,11.8,69.2
+2021,Cost of Wheat Produce,11.8,0,11.8
+2020,Disposable Income Leftover,402.57,63.7,466.27
+2020,Remaining Cost of Groceries,52.25,11.45,63.7
+2020,Cost of Wheat Produce,11.45,0,11.45
+2019,Disposable Income Leftover,404.04,61.9,465.94
+2019,Remaining Cost of Groceries,50.75,11.15,61.9
+2019,Cost of Wheat Produce,11.15,0,11.15

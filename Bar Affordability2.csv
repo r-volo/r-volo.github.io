@@ -1,13 +1,13 @@
-year,Median Weekly DPI,value,_count_start,_count_end
-2022,Median Weekly DPI Left,422.78,80.41,503.19
-2022,Average Weekly Expenditure Leftover On Groceries,66.76,13.63,80.41
-2022,Cost of Wheat Produce,13.63,0,13.63
-2021,Median Weekly DPI Left,414.07,69.2,483.27
-2021,Average Weekly Expenditure Leftover On Groceries,57.4,11.8,69.2
-2021,Cost of Wheat Produce,11.8,0,11.8
-2020,Median Weekly DPI Left,402.57,63.7,466.27
-2020,Average Weekly Expenditure Leftover On Groceries,52.25,11.45,63.7
-2020,Cost of Wheat Produce,11.45,0,11.45
-2019,Median Weekly DPI Left,404.04,61.9,465.94
-2019,Average Weekly Expenditure Leftover On Groceries,50.75,11.15,61.9
-2019,Cost of Wheat Produce,11.15,0,11.15
+year,Median Weekly DPI,value
+2022,Median Weekly DPI Left,422.78
+2022,Average Weekly Expenditure Leftover On Groceries,66.76
+2022,Cost of Wheat Produce,13.63
+2021,Median Weekly DPI Left,414.07
+2021,Average Weekly Expenditure Leftover On Groceries,57.4
+2021,Cost of Wheat Produce,11.8
+2020,Median Weekly DPI Left,402.57
+2020,Average Weekly Expenditure Leftover On Groceries,52.25
+2020,Cost of Wheat Produce,11.45
+2019,Median Weekly DPI Left,404.04
+2019,Average Weekly Expenditure Leftover On Groceries,50.75
+2019,Cost of Wheat Produce,11.15

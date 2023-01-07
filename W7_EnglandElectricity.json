@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 400,
-    "height": 500,
+    "width": 300,
+    "height": 300,
     "title": {
       "text": "Total electricity consumed in England - All meter types",
       "subtitle": ["Yearly by Local Authority Area [2005-2020], Source: ONS & MartinJC"],

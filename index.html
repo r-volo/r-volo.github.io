@@ -23,48 +23,299 @@
 
 
 <body>
-    <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
-    <div class="myWeek1">
-        <h1>Data Science for Economists.</h1>
-        <a href="Project.html">weekly portfolio</a>
+<div class="header">
+    <h1>Portfolio</h1>
+</div>
 
-        <h2>WEEK 1</h2>
-        <h3>Inflation Rate Chart</h3>
-        <p>The first chart tracks the yearly % change of the UK's inflation rate between 1990-2020.</p>
-        <div class="chart" id="Rob1"></div>
+<!------------------------------------------- Week 1  ----------------------------------------->
+<div class="PortfolioTitles">
+    <h2>Week 1</h2>
+</div>
+    
+<div class="weekly-container">
+    <div class='weekly-container-text'> 
+        <p>The first task was to embed two charts from the <a href="https://rapidcharts.io/library" target="_blank">Rapid Charts</a> library and present them on the website.</p>
+    </div>
+    
+    <div class="weekly-container-charts">
+        <div class="weekly-container-charts-left">
+            <h3>UK Inflation Chart</h3>
+            <p>This first chart shows the annual % change in the UK's consumer price index between 1989-2020.</p>
+            <div class="chart" id="Rob1"></div>
+        </div>
 
-        <h3>Bank Rate Chart</h3>
-        <p>My second chart looks at the change of the Bank of England's main policy rate between 1975-2020. </p>
-        <div class="chart" id="Rob2"></div>
+        <div class="weekly-container-charts-right">
+            <h3>Bank of England Base Rate</h3>
+            <p>This second chart looks at the Bank of England's base rate over a 45-year period.</p>
+            <div class="chart" id="Rob2"></div>
+        </div>
+    </div>
 
-        <h4>Week 2</h4>
-        <h3>IMF Chart - uncorrected</h3>
-        <p>The 3rd chart is from the following FT</p>
-        <a href="https://www.ft.com/content/eddedee3-669d-42cc-9597-33609a8bff99">FT article.</a>
-        <p>It claims that IMF lending is currently at an all time high</p>
-        <div class="chart" id="Rob3"></div>
+    <br>
+    <div class='weekly-container-text'>
+        <p> The code for these charts were from <a href="https://github.com/RDeconomist/RDeconomist.github.io/tree/main/charts/library" target="_blank">Richard Davies' GitHub.</a></p>
+    </div>
+</div>
+
+
+<!------------------------------------------- Week 2  ----------------------------------------->
+<div class="PortfolioTitles">
+    <h2>Week 2</h2>
+</div>
+
+<div class="weekly-container">
+    <div class="weekly-container-text">
+        <p>The second task had me embedding two charts from the following 
+        <a href="https://www.ft.com/content/eddedee3-669d-42cc-9597-33609a8bff99">FT article.</a> It claimed that IMF lending was currently at an all time high since 1984. I had replicated and adjusted the chart for inflation to test the case.</p>
+    </div>
+
+    <div class="weekly-container-charts">
+        <div class="weekly-container-charts-left">
+            <h3>IMF Chart - Uncorrected</h3>
+            <p>This chart shows the outstanding loans between 1984-2022 in nominal terms. </p>
+            <div class="chart" id="Rob3"></div>
+        </div>
+    
+
+        <div class="weekly-container-charts-right2">
+            <h3>IMF Chart - Corrected</h3>
+            <p>This corrected chart shows the IMF's outstanding loans between 1984-2022, relative to global GDP. </p>
+            <div class="chart" id="Rob4"></div>
+        </div>
+    </div>
+
+</div>
+
+<!------------------------------------------- Week 3----------------------------------------- -->
+<div class="PortfolioTitles">
+    <h2>Week 3</h2>
+</div>
+
+<div class="weekly-container">
+    <div class='weekly-container-text'>
+        <p> This weeks task was to convert csv data to a dictionary format using Google Colab. </p>
+    </div>
+
+    <div class="weekly-container-charts">
+        <div class="weekly-container-charts-left">
+            <h3>Scatter Chart </h3>
+            <div class="chart" id="Rob5"></div>
+        </div>
         
-        <h3>IMF Chart - corrected</h3>
-        <div class="chart" id="Rob4"></div>
-        <p>Howerver, 1984 is the most risky year as the IMF's lending was at it's highest point when proportioned to the world's GDP at that respective time. </p>
-</div> 
+        <div class="weekly-container-charts-right2">
+            <h3>Bar Chart </h3>
+            <div class="chart" id="Rob6"></div>
+        </div>
+    </div>
 
+    <div class='weekly-container-text'>
+        <p> The scatter chart had data inputed directly as values in vega-lite whearas the bar chart used a url from my github page. I had visually encoded the bar chart differently to highlight the direction of the price change. </p>
+    </div> 
+
+</div>
+
+<!------------------------------------------- Week 4 ------------------------------------------->
+<div class="PortfolioTitles">
+    <h2>Week 4</h2>
+</div>
+
+<div class="weekly-container">
+    <div class='weekly-container-text'>
+        <p> Week 4 involved further python coding on Google Colab to reshape csv data frame from wide to long format. Take a look <a href="https://colab.research.google.com/drive/1Twt1WGbrr0OIZGlEKw-6H235PP51Oqai" target="_blank">here.</a></p>
+    </div>
+
+    <div class="weekly-container-charts2">
+        <h3>Co2 Emmisions of The Top 8 Countries by GDP</h3>
+        <div class="chart" id="Rob7"></div>
+    </div>    
+    
+    <div class='weekly-container-text'>
+        <p>I chose The World Bank website for this chart because the data was easily accessible, from a reliable source and untidely formatted (wide).
+    </div>   
+</div>
+
+<!------------------------------------------- Week 5  ------------------------------------------->
+<div class="PortfolioTitles">
+    <h2>Week 5</h2>
+</div>
+
+<div class="weekly-container">
+    <div class='weekly-container-text'> 
+        <p> Week 5' task was to use loops to batch download data from API's, using the ONS website. The data analysis was conducted in <a href="https://colab.research.google.com/drive/1J9B5Rrr7MZpnYLgda_pbGJTw0D7aD82U" target="_blank">Google Colab.</a></p>
+    </div> 
+
+    <div class="weekly-container-charts3">
+        <h3>Yearly Total Value of UK Service Sectors (£m)</h3>
+        <p>8 different specific sector charts and 1 GB services total chart, from the year 2000</p>
+        <div class="chart" id="Rob8"></div>
+        <div class="chart" id="Rob9"></div>
+        <div class="chart" id="Rob10"></div>
+        <div class="chart" id="Rob11"></div>
+        <div class="chart" id="Rob12"></div>
+        <div class="chart" id="Rob13"></div>
+        <div class="chart" id="Rob14"></div>
+        <div class="chart" id="Rob15"></div>
+        <div class="chart" id="Rob16"></div>
+    </div>
+</div> 
+    
+ <!------------------------------------------- Week 7  ------------------------------------------->
+<div class="PortfolioTitles">
+    <h2>Week 7</h2>
+</div>
+    
+<div class="weekly-container">
+    <div class="weekly-container-text">
+        <p>This weeks task was to produce two maps: a base map using GeoJSON, and a choropleth map of the base one using another dataset.</p>
+    </div>
+
+    <div class="weekly-container-charts">
+        <div class="weekly-container-charts-left">
+            <h3>A Base Map of England</h3>
+            <div class="chart" id="Rob17"></div>
+        </div>
+
+        <div class="weekly-container-charts-right2">
+            <h3>England's Consumption of Electricty </h3>
+            <div class="chart" id="Rob18"></div>
+        </div>
+    </div>
+
+
+    <div class="weekly-container-text">
+        <p>The charts show maps of local authorities in England. The second chart goes further in displaying the total consumption of electricty from all meter types over a 15-year period.</p>
+    </div>
+</div>
+
+ <!------------------------------------------- Week 8  ------------------------------------------->
+<div class="PortfolioTitles">
+    <h2>Week 8</h2>
+</div>
+        
+<div class="weekly-container">
+    <div class="weekly-container-text">
+        <p>In week 8 I produced two charts that supported the argument made by Sarah Smith at the Festival of Economics (Prices and Wages). Due to supply chain disruptions, she argued the inflationary effects in the UK were greater among staple foods.</p>
+    </div>
+
+    <div class="weekly-container-charts3">
+        <div class="weekly-container-charts-top">
+            <h3>Daily Price of Wheat</h3>
+            <div class="chart" id="Rob19"></div>
+        </div>
+
+        <div class="weekly-container-charts-bottom">
+            <h3>Top global Wheat Producers</h3>
+            <div class="chart" id="Rob20"></div>
+        </div>
+    </div>
+
+    <div class="weekly-container-text">
+        <p>Ukraine and Russia are among the top wheat producers globally. The current war caused a wheat supply disruption. The inflationary effects are evidently shown in the second chart.</p>
+    </div>
+</div>
+
+ <!------------------------------------------- Week 9  ------------------------------------------->
+<div class="PortfolioTitles">
+    <h2>Week 9</h2>
+</div>
+    
+<div class="weekly-container">
+    <div class="weekly-container-text">
+        <p>This weeks task was to produce two charts that used advanced analytics.</p>
+    </div>
+        
+    <div class="weekly-container-charts4">
+        <div class="weekly-container-charts-top">
+            <h3>Heat Scatter Map of GDP Growth from Spending on Education</h3>
+            <div class="chart" id="Rob21"></div>
+        </div>  
+
+        <div class="weekly-container-charts-bottom">
+            <h3>Bubble Chart of Wheat Derived Produce</h3>
+            <div class="chart" id="Rob22"></div>
+        </div>
+    </div>
+</div>
+        
+    
+
+    <!-----------------------------------------Week 10 + 11--------------------------------------->
+<div class="PortfolioTitles">
+    <h2>Week 10 and 11</h2>
+</div>
+        
+    <div class="weekly-container">
+        <div class="weekly-container-text">
+            <p>The last week's task was to produce two charts using machine learning techniques. In this <a href="https://colab.research.google.com/drive/1o2zfr8deaswPWIXjaQXPsmNJbOB3PRds" target="_blank">Google Colab document,</a>I created a supervised classification chart via K nearest neighbors and another dimensionally Reduced chart using Principle Component Analysis. The second of which I have shown below.</p>
+        </div>  
+        
+        <div class="weekly-container-charts">
+            <h3>Analysing Breast Cancer Tumours</h3>
+            <div class="chart" id="Rob23"></div>
+        </div>    
+        
+        <div class="weekly-container-text">
+            <p>The analysis shows that when examining a patient, it is far easier to diagnose them  when the tumour is malignant. This is because for this type of tumour the patient's breasts would be very specified across the 30 attributes examined.</p>
+        </div>
+        
+    </div>
+       
 
 </body>
-
 
 <script>
     //Define charts:
     var myChart1 = "InflationChart.json";
-    var myChart2 = "BankRateChart.json";
-    var myChart3 = "Uncorrected_IMFChart.json"
-    var myChart4 = "Corrected_IMFChart.json"
+    var myChart11 = "BankRateChart.json";
+    var myChart2 = "W2Uncorrected_IMFChart.json";
+    var myChart22 = "w2Corrected_IMFChart.json";
+    var myChart3 = "W3_WheatPrices.json";
+    var myChart33 = "W3_WheatPrices2.json";
+    var myChart4 = "W4Co2.json";
+    var myChart5 = "W5_DYQO_Courier.json";
+    var myChart5B = "W5_JT28_GB.json";
+    var myChart5C = "W5_JQ3I_CP&C.json";
+    var myChart5D = "W5_JQ3S_Marketing.json";
+    var myChart5E = "W5_JQ44_Security.json";
+    var myChart5F = "W5_JSK8_Veterinary.json";
+    var myChart5G = "W5_JSK9_Research.json";
+    var myChart5H = "W5_JSM2_Creative.json";
+    var myChart5I = "W5_JQ3E_Telecom.json";
+    var myChart7 = "W7_England.json";
+    var myChart77 = "W7_EnglandElectricity.json";
+    var myChart8 = "W8_WheatPrice.json";
+    var myChart88 = "W8_Top10.json";
+    var myChart9 = "W9_heatmap.json";
+    var myChart99 = "W9_Bubble.json";
+    var myChart0 = "W10_11_Breast.json";
+
 
     // Embed charts:
     vegaEmbed('#Rob1', myChart1);
-    vegaEmbed('#Rob2', myChart2);
-    vegaEmbed('#Rob3', myChart3);
-    vegaEmbed('#Rob4', myChart4);
+    vegaEmbed('#Rob2', myChart11);
+    vegaEmbed('#Rob3', myChart2);
+    vegaEmbed('#Rob4', myChart22);
+    vegaEmbed('#Rob5', myChart3);
+    vegaEmbed('#Rob6', myChart33);
+    vegaEmbed('#Rob7', myChart4);
+    vegaEmbed('#Rob8', myChart5);
+    vegaEmbed('#Rob9', myChart5B);
+    vegaEmbed('#Rob10', myChart5C);
+    vegaEmbed('#Rob11', myChart5D);
+    vegaEmbed('#Rob12', myChart5E);
+    vegaEmbed('#Rob13', myChart5F);
+    vegaEmbed('#Rob14', myChart5G);
+    vegaEmbed('#Rob15', myChart5H);
+    vegaEmbed('#Rob16', myChart5I);
+    vegaEmbed('#Rob17', myChart7);
+    vegaEmbed('#Rob18', myChart77);
+    vegaEmbed('#Rob19', myChart8);
+    vegaEmbed('#Rob20', myChart88);
+    vegaEmbed('#Rob21', myChart9);
+    vegaEmbed('#Rob22', myChart99);
+    vegaEmbed('#Rob23', myChart0);
+
+
 </script>
 
 </html>

@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 400,
+    "title": {
+      "text": "Map of England",
+      "subtitle": ["by Local Authority Area"],
+      "subtitleFontSize": 10,
+      "anchor": "start"
+       
+    },
+
+
+    "data": {
+      "url": "https://raw.githubusercontent.com/martinjc/UK-GeoJSON/master/json/administrative/eng/lad.json",
+      "format": {"property": "features"}
+    },
+
+
+    "projection": {"type": "mercator"},
+    "mark": {
+      "type": "geoshape",
+      "stroke": "black",
+      "strokeWidth": 0.3,
+      "fill": "greenyellow"
+    },
+
+
+    "encoding": {
+      "tooltip": [
+        {
+          "field": "properties.LAD13NM",
+          "type": "nominal"   
+        }
+      ]
+
+    }
+  }

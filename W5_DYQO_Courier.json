@@ -1,4 +1,4 @@
-"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "data": {
   "url": "https://raw.githubusercontent.com/r-volo/r-volo.github.io/main/data_ons-DYQO.json",
 "format": {"type":"json", "property": "years"}},
@@ -21,3 +21,4 @@
   "y": {"field": "value", "type": "quantitative", "title": ""}
 }
 }
+

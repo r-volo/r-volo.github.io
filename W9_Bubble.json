@@ -1,0 +1,107 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    
+    "title": {
+        "text": "The impact rising wheat prices have had on UK consumable goods",
+        "fontSize":14,
+        "subtitle": "Average annual price increase of the lowest-priced groceries for households (Sep 2022). Source: ONS",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start",
+        "color": "black"
+      },
+  
+    "width": 500,
+    "height": 500,
+    "padding": {"left": 5, "right": 5, "top": 40, "bottom": 0},
+    "autosize": "none",
+    "signals": [
+      {"name": "cx", "update": "width / 2"},
+      {"name": "cy", "update": "height / 2"}
+      ],
+  
+  
+    "data": [
+      {
+        "name": "table",
+        "values": [
+          {"Category": "Bread", "PriceChange": "+18p", "Percentage": 38, "Amount": "800g"},
+          {"Category": "Biscuits", "PriceChange": "+14p", "Percentage": 35, "Amount": "400g"},
+          {"Category": "Pasta", "PriceChange": "+23p", "Percentage": 61, "Amount": "500g"},
+          {"Category": "Cereal", "PriceChange": "+7p", "Percentage": 11, "Amount": "500g"},
+          {"Category": "Beef", "PriceChange": "-15p", "Percentage": -7, "Amount": "500g"},
+          {"Category": "Baked Beans", "PriceChange": "+4p", "Percentage": 13, "Amount": "400g"},
+          {"Category": "Milk", "PriceChange": "+35p", "Percentage": 30, "Amount": "4 pints"},
+          {"Category": "Chicken", "PriceChange": "+31p", "Percentage": 12, "Amount": "1kg"},
+          {"Category": "Crisps", "PriceChange": "+18p", "Percentage": 25, "Amount": "150g"},
+          {"Category": "Tin Soup", "PriceChange": "+20p", "Percentage": 30, "Amount": "400g"},
+          {"Category": "Beer", "PriceChange": "+23p", "Percentage": 6, "Amount": "Pint"},
+          {"Category": "Eggs", "PriceChange": "+26p", "Percentage":17, "Amount": "6-pack medium"}
+        ]
+      }
+    ],
+    "scales": [
+      {
+        "name": "Percentage",
+        "domain": {"data": "table", "field": "Percentage"},
+        "range": [100, 300]
+      },
+      {
+        "name": "color",
+        "type": "ordinal",
+        "domain": {"data": "table", "field": "Category"},
+        "range": "ramp"
+      }
+    ],
+    "marks": [
+      {
+        "name": "nodes",
+        "type": "symbol",
+        "from": {"data": "table"},
+        "encode": {
+          "enter": {
+            "fill": {"scale": "color", "field": "Category"},
+            "xfocus": {"signal": "cx"},
+            "yfocus": {"signal": "cy"}
+            
+          },
+          "update": {
+            "size": {"signal": "pow(2 * datum.Percentage, 2)", "scale": "Percentage"},
+            "stroke": {"value": "white"},
+            "strokeWidth": {"value": 1},
+            "tooltip": {"signal": "datum"}
+          }
+        },
+        "transform": [
+          {
+            "type": "force",
+            "forces": [
+              {
+                "force": "collide",
+                "iterations": 1,
+                "radius": {"expr": "sqrt(datum.size) / 2"}
+              },
+              {"force": "center", "x": {"signal": "cx"}, "y": {"signal": "cy"}}
+            ]
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "from": {"data": "nodes"},
+        "encode": {
+          "enter": {
+            "align": {"value": "center"},
+            "baseline": {"value": "middle"},
+            "fontSize": {"value": 10},
+            "fontWeight": {"value": "bold"},
+            "fill": {"value": "black"},
+            "text": {"field": "datum.Category"}
+          },
+          "update": {"x": {"field": "x"}, "y": {"field": "y"}}
+          
+        }
+      }
+    ]
+  }
+  

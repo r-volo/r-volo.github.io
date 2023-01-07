@@ -1,0 +1,36 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+      "text": "Total IMF Lending Levels during 1984-2022  ",
+      "subtitle":"The outstanding credit levels are in nominal terms  ($bn) - source: IMF",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+  
+  "data":{"url": "https://raw.githubusercontent.com/r-volo/r-volo.github.io/main/data_IMF_creditOutstanding%20(2).csv"},
+  
+  "height": 300,
+  "width": 350,
+
+  "mark": {
+    "type": "bar",
+    "color": "#c0353c"},
+
+"encoding": {
+     "x": {
+       "field": "Year",
+       "type": "temporal",
+       "axis": {
+         "title": null,
+         "grid": false,
+         "ticks": false,
+         "labelAngle": 45}},
+
+      "y": {
+        "field": "Total_Billions",
+        "type": "quantitative",
+        "title": "",
+        "axis": {"grid": false}}
+}
+}

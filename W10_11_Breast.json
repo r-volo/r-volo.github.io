@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/r-volo/r-volo.github.io/main/Machine%20Learning.csv"
+    },
+  
+  "title": {
+      "text": "Breast Cancer: finding the tumour type based of patient's attributes",
+      "fontSize":14,
+      "subtitle": "The axes are based of 30 different breast attributes. Source: scikit-learn",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+  
+    "mark": {"type": "point", "strokeWidth": 3, "opacity": 0.7},
+    "width": 420,
+    "height": 380,
+    "encoding": {
+      "x": {
+        "field": "Dimension 1",
+        "title": "Dimension 1",
+        "type": "quantitative",
+        "scale": {"zero": false}
+      },
+      "y": {
+        "field": "Dimension 2",
+        "title": "Dimension 2",
+        "type": "quantitative",
+        "scale": {"zero": false}
+      },
+      "color": {"field": "Catagory", "title": "Benign 0 | Malignant 1","type": "nominal"}
+    }
+  }

@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A grid of bar charts to compare the top 8 producers of wheat. This is then taken as a % of the amount globally produced for the corresponding marketing year (01.06.20X1 - 31.05.20X2) ",
+  "data": {
+    "values": [
+      {"a": "", "b": "2020", "Country": "China", "p": "0.1753"},
+      {"a": "", "b": "2020", "Country": "India", "p": "0.1359"},
+      {"a": "", "b": "2020", "Country": "Russia", "p": "0.0966"},
+      {"a": "", "b": "2020", "Country": "United States", "p": "0.069"},
+      {"a": "", "b": "2020", "Country": "Canada", "p": "0.0429"},
+      {"a": "", "b": "2020", "Country": "France", "p": "0.0533"},
+      {"a": "", "b": "2020", "Country": "Australia", "p": "0.0419"},
+      {"a": "", "b": "2020", "Country": "Ukraine", "p": "0.0383"},
+      
+
+      {"a": "", "b": "2021", "Country": "China", "p": "0.1733"},
+      {"a": "", "b": "2021", "Country": "India", "p": "0.1392"},
+      {"a": "", "b": "2021", "Country": "Russia", "p": "0.1102"},
+      {"a": "", "b": "2021", "Country": "United States", "p": "0.0642"},
+      {"a": "", "b": "2021", "Country": "Canada", "p": "0.0457"},
+      {"a": "", "b": "2021", "Country": "France", "p": "0.0388"},
+      {"a": "", "b": "2021", "Country": "Australia", "p": "0.0469"},
+      {"a": "", "b": "2021", "Country": "Ukraine", "p": "0.0328"},
+        
+
+      {"a": "", "b": "2022", "Country": "China", "p": "0.1759"},
+      {"a": "", "b": "2022", "Country": "India", "p": "0.1407"},
+      {"a": "", "b": "2022", "Country": "Russia", "p": "0.0965"},
+      {"a": "", "b": "2022", "Country": "United States", "p": "0.0575"},
+      {"a": "", "b": "2022", "Country": "Canada", "p": "0.0286"},
+      {"a": "", "b": "2022", "Country": "France", "p": "0.0422"},
+      {"a": "", "b": "2022", "Country": "Australia", "p": "0.0424"},
+      {"a": "", "b": "2022", "Country": "Ukraine", "p": "0.0424"}
+      
+      
+    
+    ]
+  },
+  "width": 100,
+  "height": {"step": 20},
+  "spacing": 5,
+  "mark": "bar",
+  "encoding": {
+    "y": {"field": "Country", "type": "nominal", "axis": null},
+    "x": {
+      "field": "p",
+      "type": "quantitative",
+      "axis": {"format": "%"},
+      "scale": {"domain": [0, 0.2]},
+      "title": null
+    },
+    "color": {
+      "field": "Country"
+      
+      
+      
+    },
+    "row": {"field": "a", "title": "Wheat produced (million mt)", "header": {"labelAngle": 0}},
+    "column": {"field": "b", "title": "The Top 8 Wheat producing countries as a % of the wheat produced globally (2020-22)"}
+  
+  }
+}

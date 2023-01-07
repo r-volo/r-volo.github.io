@@ -1,0 +1,53 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+         
+    "title": {
+        "text": "Costs of producing wheat in the UK",
+        "subtitle":["The cost of imported or UK produced fertiliser, red diesel and labour. Source: AHDB & GOV.UK"],
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10,
+        "anchor": "start",
+        "color": "black"},
+        
+    "data": {
+        "url": "https://raw.githubusercontent.com/r-volo/r-volo.github.io/main/Fertiliser_Fuel_Labour.csv"
+        },
+    
+          
+    "height": 140,
+    "width": 140,   
+    
+    "mark": {   
+            "type":"line",
+            "strokeWidth":2},    
+    
+    "encoding": {
+            "x": {
+                "field": "Year",
+                "type": "temporal",
+                "title":null,
+                "axis":{"grid": false, "labelAngle": 60}},
+
+            "y": {
+                "field": "Price",
+                "type": "quantitative",
+                "title": "Cost (£)"},
+                
+    
+            "facet": {
+                "field": "Category",
+                "columns": 3,
+                "title":null,
+                "header": {
+                "titleColor": "black",
+                "labelColor": "black",
+                "titleFontSize":15
+            }},
+            "color": {
+            "value": "Darkred"
+            }
+             
+    },
+  
+      "resolve": {"scale": {"y": "independent", "x":"independent"}}
+  }

@@ -1,0 +1,96 @@
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* Set the background color for my page: */
+
+.header{
+    width: 100%;
+    height: 50px;
+    position: top;
+    align-items: center;
+    position: absolute;
+}
+
+#wheat-vid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+}
+
+h1, h2, h3, p {
+    color: rgb(0, 0, 0);
+    font-family: serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/* Weekly headers */
+h2 {
+    font-size: 30px;
+}
+
+/* Sub-headers */
+h3 {
+    font-size: 28px;
+}
+
+/* Paragraphs */
+.p{
+    font-size: 12px; 
+}
+
+.container{
+    border-radius: 15px;
+    border: 3px solid black;
+    max-width: 1000px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    position: relative;
+    background-color: #DED1BD;
+}
+
+.container-chart{
+    height: 400px;
+    width: 1000px;
+    text-align: center;
+}
+
+.container-chart2{
+    height: 260px;
+    width: 1000px;
+    text-align: center;
+}
+
+.container-chart3{
+    height: 560px;
+    width: 1000px;
+    text-align: center;
+}
+
+.container-chart4{
+    height: 490px;
+    width: 1000px;
+    text-align: center;
+}
+
+.container-text{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.chart{
+    background-color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #313d5a;    
+}
+
+

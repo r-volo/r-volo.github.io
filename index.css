@@ -1,61 +1,133 @@
-/* Richard Davies, Data Science for Economists */
-
-/* This is my first proper css file */
-
 
 /* Import a font */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-
 /* Set the background color for my page: */
 body{
-    background-color: rgb(1, 1, 1);
- 
+    background-color:#DED1BD ;
 }
 
-
 /* appearance of all tags, headers and paragraphs: */
-h1, h2, h3, h4, h5, p{
-    color:rgb(17, 17, 17);
-    font-family: 'Roboto', sans-serif;
+h1, h2, h3, p {
+    color: rgb(0, 0, 0);
+    font-family: serif;
     text-align: center;
 }
 
 /* Title */
-h1{
+h1 {
     font-size: 50px;
+    font-weight: bold;
 }
 
-/* 'Week' headers */
-h2, h4{
+/* Weekly headers */
+h2 {
     font-size: 30px;
 }
 
-/* sub-headers */
-h2, h4{
-    font-size: 30px;
+/* Sub-headers */
+h3 {
+    font-size: 28px;
 }
+
+/* Paragraphs */
+.p{
+    font-size: 12px;
     
-.myWeek1{
-    margin: auto;
+}
+
+
+
+.weekly-container{
+    border-radius: 15px;
+    border: 3px solid black;
     max-width: 1000px;
-    background-color: rgb(173, 192, 218);
-    border-radius: 10px;
+    margin: auto;
 }
 
-/* Set the apperance of the class, chart */
-.chart{
-    background-color: rgb(173, 192, 218);
-    width:360px;
-    border-width: 5px;
-    border-style: solid;
-    border-radius: 9px;
-    border-color: rgb(244, 239, 239);
-    width: 100%;
+.weekly-container-charts{
+    height: 530px;
+    width: 1000px;
     text-align: center;
-   
-   
+}
 
+.weekly-container-charts2{
+    height: 400px;
+    width: 1000px;
+    text-align: center;
+}
+
+.weekly-container-charts3{
+    height: 900px;
+    width: 1000px;
+    text-align: center;
+}
+
+.weekly-container-charts4{
+    height: 1150px;
+    width: 1000px;
+    text-align: center;
+}
+
+.weekly-container-charts-left{
+    width: 400px;
+    float: left;
+    margin-left: 50px;
     
 }
+
+.weekly-container-charts-right{
+    width: 400px;
+    float: right;
+    margin-right: 50px;
+}
+
+.weekly-container-charts-right2{
+    width: 400px;
+    float: right;
+    margin-right: 80px;
+}
+
+.weekly-container-charts-top{
+    width: 1000px;
+    float: top;
+}
+
+.weekly-container-charts-bottom{
+    width: 1000px;
+    float: bottom;
+
+}
+
+.weekly-container-text{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.PortfolioTitles{
+        margin: auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        align-content: center;
+        max-width: 1000px;
+        background-color: #D49E8D;
+        border-width: 3px;
+        border-style: dotted;
+        border-color: #683B2B;
+}
+
+/* Setting the apperance of chart- use for standard template the weekly tasks */
+
+.chart{
+    background-color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #313d5a;
     
+     
+}
+
+
+

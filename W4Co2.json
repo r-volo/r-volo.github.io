@@ -1,0 +1,17 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Co2 Emmisions of the top 8 countries by GDP,(2019) ",
+    "data": {"url": "https://raw.githubusercontent.com/r-volo/r-volo.github.io/main/exportedCollab.csv"},
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "Country Name", "type": "nominal"},
+      "y": {"field": "CO2 Emmisions (Kt)", "type": "quantitative"}
+    
+      
+    },
+     "transform": [
+      {"filter": {"field": "Year", "oneOf":["2019"]}}, 
+      {"filter": {"field":"Country Name", "oneOf":["United States", "China", "Japan", "India", "Germany", "France", "United Kingdom", "Italy"]}}
+     ]
+  }
+  

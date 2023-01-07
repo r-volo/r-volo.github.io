@@ -1,0 +1,43 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/r-volo/r-volo.github.io/main/Bar%20Affordability2.csv"
+    },
+    "mark": "area",
+    "width": 240,
+    "height": 400,
+    "title": {
+      "text": "Grocery costs | Lowest Costs of Wheat Produce | Disposable Income",
+      "subtitle": "£ per week per household on average (2019-2022). Source: ONS and Statista",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "encoding": {
+      "x": {"field": "year", "type": "temporal", "title": null},
+      "y": {
+        "field": "value",
+        "title": null,
+        "type": "quantitative",
+        "stack": ""
+  
+      },
+  
+      "color": {
+        "field": "Disposable Income",
+        "type": "nominal",
+        "legend": {"orient": "right"},
+        "scale": {
+          "domain": [
+            "Leftover",
+            "Remaining Cost of Groceries",
+            "Cost of Wheat Produce" 
+            
+          ],
+          "scheme": "yellowgreenblue"
+        },
+        "title": "Disposable Income:"
+      }
+    }
+  }

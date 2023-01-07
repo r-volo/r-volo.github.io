@@ -1,0 +1,55 @@
+/* Richard Davies, Data Science for Economists */
+
+/* This is my second CSS file */
+
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+
+/* Set the background color for my page: */
+
+/* Book on colour = Joseph Albers - Interaction of Colour */
+
+/* ingernational klein blue */
+
+body{
+    background-color:#DED1BD ;
+    text-align: center;
+    position: center;
+   
+ }
+
+
+/* Choose the appearance of the tags, h1, h3 and p: */
+h1, p{
+    color:rgb(0, 0, 0);
+    font-family: 'Merriweather', sans-serif;
+    
+   
+}
+
+.homepage{
+    position: fixed; 
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+
+ 
+a{
+    background-color: #c7f3ff50;
+    padding:8px;
+    border:1px;
+    border-color:grey;
+    border-style: solid;
+    border-radius: 10px;
+    font-family: 'Merriweather', monospace;
+    font-weight:700;
+    color:black;
+    text-decoration: none; 
+}
+

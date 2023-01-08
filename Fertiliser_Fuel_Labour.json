@@ -15,7 +15,11 @@
     
           
     "height": 140,
-    "width": 140,   
+    "width": 140,
+    "autosize": {
+        "type":"fit",
+        "resize": true
+      },   
     
     "mark": {   
             "type":"line",

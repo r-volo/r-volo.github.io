@@ -37,7 +37,7 @@ h3 {
 }
 
 
-
+/* main weekly content box */
 .weekly-container{
     border-radius: 15px;
     border: 3px solid black;
@@ -45,9 +45,10 @@ h3 {
     margin: auto;
 }
 
+/* This is what contains the charts. There are a few with different adjusted heights. */
 .weekly-container-charts{
     height: 530px;
-    width: 1000px;
+    width: 100%;
     text-align: center;
 }
 
@@ -69,11 +70,11 @@ h3 {
     text-align: center;
 }
 
+/* Weeks that contain two charts side-by-side are split by left and right. Those that have two one on top of the other are split by top and bottom containers. */
 .weekly-container-charts-left{
     width: 400px;
     float: left;
     margin-left: 50px;
-    
 }
 
 .weekly-container-charts-right{
@@ -99,6 +100,7 @@ h3 {
 
 }
 
+/* Relates to all the text outside the chart div class */
 .weekly-container-text{
     margin-left: 20px;
     margin-right: 20px;
@@ -111,6 +113,7 @@ h3 {
         margin-bottom: 30px;
         align-content: center;
         max-width: 1000px;
+        
         background-color: #D49E8D;
         border-width: 3px;
         border-style: dotted;

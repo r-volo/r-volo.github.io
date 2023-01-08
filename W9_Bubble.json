@@ -13,8 +13,12 @@
   
     "width": 500,
     "height": 500,
-    "padding": {"left": 5, "right": 5, "top": 40, "bottom": 0},
-    "autosize": "none",
+    "padding": {"left": 5, "right": 5, "top": 5, "bottom": 0},
+    "autosize": {
+      "type":"fit",
+      "resize": true
+    },
+    
     "signals": [
       {"name": "cx", "update": "width / 2"},
       {"name": "cy", "update": "height / 2"}

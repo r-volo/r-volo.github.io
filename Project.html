@@ -13,7 +13,7 @@
     
         <!--The next three lines allow the Vega embed-->
         <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
     </head>
 
@@ -23,6 +23,7 @@
     </video>
 
     <!-----795 Word Count----->
+    <!-----For Mobile phone viewing, please rotate device sideways---->
 
     <div class="container">
         <div class="container-text">
@@ -38,7 +39,7 @@
             <p>The data from the first graph was retrieved from Macrotrends as a .csv file. It was relatively easy to clean and access. I did transform the data however to add a 364-day rolling average to the daily price chart. There were also other tweaks made to the opacity of the data points. This had enhanced the chart visually.</p>
         </div>  
 
-        <div class="container-chart2">
+        <div class="container-chart">
             <div class="chart" id="Rob2"></div>
         </div> 
 
@@ -46,7 +47,7 @@
             <p>The data for this graph was hard to collect as it was mostly from articles that claimed different production figures. For that reason, I created my own dataset in Vegalite using Index Mundi. I then displayed it using a horizontal bar chart to visually ensure production comparisons could be easily made between the eight countries. Each country has its own colour code.</p>
         </div>  
 
-        <div class="container-chart2">
+        <div class="container-chart">
             <div class="chart" id="Rob3"></div>
         </div>
         
@@ -54,7 +55,7 @@
             <p>This advance trellis chart was created using data from two different sources: AHDB and GOV.UK. I had to combine three separate datasets and reformat them as I required the categories: fertiliser, red diesel, and labour to be repeated data points rather than separate dimensions. Vegalite found it difficult reading the data points under the time dimension as the dates were also incorrectly formatted. After all the necessary changes I was able to create a .csv file that fed the 3-column trellis chart. Some further transformations included giving the charts independent x and y scales.</p>
         </div> 
 
-        <div class="container-chart3">
+        <div class="container-chart">
             <div class="chart" id="Rob4"></div>
         </div> 
 
@@ -62,7 +63,7 @@
             <p>Given that ONS is a reliable, up to date source, I wanted to use an API for this chart and replicate similar work done in week 5’s homework task. This would ensure the price changes of wheat derived goods would always be up to date. Unfortunately, there was no time series ID which made creating an API challenging. I couldn’t find any other sources, and in the end, opted to feed the data manually into Vegalite. The chart is interactive and doesn’t overload the viewer with information all at once.</p>
         </div> 
 
-        <div class="container-chart4">
+        <div class="container-chart">
             <div class="chart" id="Rob5"></div>
         </div>
 
@@ -75,6 +76,7 @@
             <p>The war in Ukraine was one key factor that drove the level of inflation up in the UK. In the second chart we see that both Ukraine and Russia are among the top producers of wheat globally accounting for approximately 13.5% each year. When the war broke out, this proportion of wheat became unavailable to the UK as it was either stuck in ports as sanctioned Russian goods or rotting in Ukrainian fields due to a lack of road and rail capacity. Fortunately, the UK produces 80% of its own wheat and therefore doesn't heavily rely on exports. However, the war had also made it significantly more expensive to produce wheat in the UK. This is because the price of fuel, labour and fertiliser had seen the sharpest increase over the past two years. For example, the price of a ton of fertiliser increased by 290%. These higher costs are partially passed onto the price of consumable goods found in every UK household. The weekly basket of items in the fourth chart would cost you £106.08 more per year this September 2022. With these being already the lowest-priced groceries, low-income households that rely on these unbranded goods to get by would be significantly affected by the changes. The news tells us that the number of foodbank users is at record high this year outside of Covid-19. However, the fifth chart helps us conclude that the new price changes still take a small proportion of the average household’s disposable income. Therefore, the average household that struggles during the cost-of-living crisis does so from numerous contributing factors other than rising wheat prices alone.</p>
         </div>
     </div>
+
 </body>
 
 <script>

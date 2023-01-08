@@ -23,7 +23,7 @@ h2, h3, p {
     text-align: center;
 }
 
-/* Weekly headers */
+/* headers */
 h2 {
     font-size: calc(10px + 1.5vw);
 }
@@ -32,14 +32,11 @@ h3 {
     font-size: calc(10px + 1.5vw);
 }
 
-/* Sub-headers */
-
-/* Paragraphs */
-
+/* Holds all graphs and writing content */
 .container{
     border-radius: 15px;
     border: 3px solid black;
-    max-width: 80%;
+    width: 700px;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: auto;
@@ -48,6 +45,7 @@ h3 {
     background-color: #DED1BD;
 }
 
+/* For landscape mobile use adjust the container width */
 @media (max-width: 860px) and (orientation: landscape) {
     .container{
         max-width: 90%;
@@ -70,6 +68,7 @@ h3 {
     border-color: #000000;
 }
 
+/* Small animation effect when cursor is hovered over graph */
 .chart:hover {
     transform: scale(1.03, 1.03);
     transition: 0.4s;

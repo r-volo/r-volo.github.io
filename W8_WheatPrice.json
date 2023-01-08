@@ -13,6 +13,11 @@
     
     "width": 500,
     "height": 300,
+    "autosize": {
+      "type":"fit",
+      "resize": true
+    },
+    
   
     "data": {"url": "https://raw.githubusercontent.com/r-volo/r-volo.github.io/main/wheat-prices-historical-chart-data.csv"},
     "transform": [{

@@ -38,6 +38,11 @@
   },
   "width": 100,
   "height": {"step": 20},
+  "autosize": {
+    "type": "fit",
+    "resize": true
+  },
+  
   "spacing": 5,
   "mark": "bar",
   "encoding": {

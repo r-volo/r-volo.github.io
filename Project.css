@@ -48,9 +48,14 @@ h3 {
     background-color: #DED1BD;
 }
 
+@media (max-width: 860px) and (orientation: landscape) {
+    .container{
+        max-width: 90%;
+    }
+}
+
 .container-chart{
     text-align: center;
-    width: 100%;
 }
 
 .container-text{
@@ -60,16 +65,10 @@ h3 {
 
 .chart{
     background-color: white;
-    border-width: 0.1em;
     border-style: solid;
     border-radius: 5px;
     border-color: #000000;
-    width: 90%;
 }
-
-
-  
-    
 
 .chart:hover {
     transform: scale(1.03, 1.03);
